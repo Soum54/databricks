@@ -1,0 +1,43 @@
+#easy
+use catalog cat_ltm10877547;
+use schema schema_data_integration;
+show schemas in cat_ltm10877547;
+
+from pyspark.sql.functions import *
+from pyspark.sql.types import *
+schema=StructType([
+    StructField("order_id",StringType(),True),
+    StructField("city",StringType(),True),
+    StructField("category",StringType(),True),
+    StructField("quantity",IntegerType(),True),
+    StructField("unit_price",IntegerType(),True),
+    StructField("order_status",StringType(),True),
+    StructField("order_date",DateType(),True)
+])
+df=spark.read.csv("/Volumes/cat_ltm10877547/schema_data_integration/ext_loc_soumiya/assessments/10877547/e01/E01_Marketplace_Order_Quality_and_Revenue.csv",header=True,schema=schema)
+display(df.count())
+display(df.filter(
+    (col("order_status")=="CANCELLED") |
+    (col("quantity")<0) |
+    (col("unit_price").isNull())
+))
+display(df)
+
+clean_df=df.filter(
+    (col("order_status")=="COMPLETED") &
+    (col("quantity")>0) &
+    (col("unit_price").isNotNull())
+)
+display(clean_df.count())
+display(clean_df)
+
+clean_df=clean_df.withColumn("order_value",col("quantity")*col("unit_price").cast("decimal(14,2)"))
+clean_df=clean_df.withColumn("value_band",when(col("order_value")>=1500.00,"HIGH").otherwise("STANDARD"))
+display(clean_df.columns)
+clean_df.write.format("delta").mode("overwrite").saveAsTable("cat_ltm10877547.schema_data_integration.marketplace_orders_silver")
+
+display(spark.sql("describe detail cat_ltm10877547.schema_data_integration.marketplace_orders_silver"))
+display(spark.sql("select count(*) as order_count,sum(order_value) as total_value,sum(case when value_band='HIGH' then 1 else 0 end) as high_value_orders from cat_ltm10877547.schema_data_integration.marketplace_orders_silver group by city order by city"))
+display(spark.sql("select count(*) as total_count,sum(order_value) as total_revenue from cat_ltm10877547.schema_data_integration.marketplace_orders_silver"))
+
+display(clean_df.agg(count("*").alias("total_count"),sum("order_value").alias("total_revenue")))
