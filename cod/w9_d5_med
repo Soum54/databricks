@@ -1,0 +1,42 @@
+#medium
+use catalog cat_ltm10877547;
+use schema schema_data_integration;
+show schemas in cat_ltm10877547;
+
+from pyspark.sql.functions import *
+from pyspark.sql.types import *
+schema=StructType([
+ StructField("asset_id",StringType(),True),
+ StructField("region",StringType(),True),
+ StructField("asset_type",StringType(),True),
+ StructField("quantity",IntegerType(),True),
+ StructField("unit_cost",DecimalType(12,2),True),
+ StructField("total_cost",DecimalType(14,2),True),
+ StructField("condition",StringType(),True)
+])
+df=spark.read.csv("/Volumes/cat_ltm10877547/schema_data_integration/ext_loc_soumiya/assessments/10877547/m01/M01_Industrial_Asset_Delta_Maintenance.csv",header=True,schema=schema)
+df.write.format("delta").mode("overwrite").option("overwriteSchema", "true").saveAsTable("cat_ltm10877547.schema_data_integration.asset_costs")
+%sql
+select count(*),sum(total_cost) from cat_ltm10877547.schema_data_integration.asset_costs ;
+
+%sql
+describe detail cat_ltm10877547.schema_data_integration.asset_costs;
+%sql
+describe history cat_ltm10877547.schema_data_integration.asset_costs;
+
+#display(spark.sql("select sum(total_cost) from sa_catalog.hr_schema.asset_costs"))
+display(spark.sql("update cat_ltm10877547.schema_data_integration.asset_costs set quantity=4 ,unit_cost=650.00,total_cost=2600.00 where asset_id='A002'"))
+display(spark.sql("update cat_ltm10877547.schema_data_integration.asset_costs set quantity=6 ,unit_cost=850.00,total_cost=5100.00 where asset_id='A007'"))
+display(spark.sql("select * from cat_ltm10877547.schema_data_integration.asset_costs"))
+display(spark.sql("select sum(total_cost) from cat_ltm10877547.schema_data_integration.asset_costs"))
+
+display(spark.sql("select  count(*),sum(total_cost) from cat_ltm10877547.schema_data_integration.asset_costs version as of 0"))
+display(spark.sql("select  * from cat_ltm10877547.schema_data_integration.asset_costs  version as of 0 where asset_id='A006'"))
+display(spark.sql("select  * from cat_ltm10877547.schema_data_integration.asset_costs  where asset_id='A006'"))
+
+display(spark.sql("optimize cat_ltm10877547.schema_data_integration.asset_costs zorder by(region)"))
+display(spark.sql("describe history cat_ltm10877547.schema_data_integration.asset_costs"))
+display(spark.sql("describe detail cat_ltm10877547.schema_data_integration.asset_costs"))
+
+display(spark.sql("select  count(*),sum(total_cost) from cat_ltm10877547.schema_data_integration.asset_costs"))
+display(spark.sql("select  count(*) from cat_ltm10877547.schema_data_integration.asset_costs where asset_id='A006'"))
