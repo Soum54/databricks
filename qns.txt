@@ -1,0 +1,19 @@
+phoebe qns
+1)databricks
+prepare me for databricks mockline interview perp from the topics im gonna give u daily and also mcq for snario based qn
+clear me every concept from scratch im asking here that can be even asked for cod
+what is databse,datawarehouse,data lake,delta lake,delta lakehouse
+tell me if in some code given like from qn verify mention how to identify which thing need to be done like groupby or some other thing
+azure datbricks portal overview like each option there used for what purpose with some real life analogy tell me
+what iscatalog,schmea,what is data ingestion,in catalog explain metastore,metadata,which object contains what like schema contain tables
+what is catalyst optimizer  and timestamp engine,medallion architecture
+delta table features optime,zorder,liquid clusteing,data partitioning,vaccum,partition pruning
+clusters types
+cdc,cdf
+when noemal creating sevastable with overwite why running again guves error
+tell me fdifferent modes append,ignore why it is used
+saveastavle if i give overiteschme no error,so when we go cdc ,cdf which keyword over there makes it unique to not to duplicate the data again explain cdc,cdf in detail this way
+this dashboard creation,alert creation how to do tell me in laymen terms
+
+2)sql
+3)python
