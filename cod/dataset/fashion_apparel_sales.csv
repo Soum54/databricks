@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Category,SubCategory,Brand,ProductID,ProductName,Quantity,UnitPrice,DiscountRate,SalesAmount
+ORD-202505-81482,2025-05-06,CUST-2424,Nila Nair,Delhi,Men's Clothing,T-Shirts,LuxeLane,SKU-14165,LuxeLane T-Shirts,1,7442.77,0.25,5582.08
+ORD-202509-95181,2025-09-16,CUST-9928,Arjun Iyer,Mumbai,Men's Clothing,T-Shirts,StyleNova,SKU-68878,StyleNova T-Shirts,2,5743.08,0.25,8614.62
+ORD-202503-38221,2025-03-23,CUST-6514,Diya Sharma,Chennai,Activewear,Track Pants,Everyday Co.,SKU-59797,Everyday Co. Track Pants,2,3599.43,0.05,6838.92
+ORD-202511-80284,2025-11-06,CUST-3045,Arjun Sharma,Pune,Men's Clothing,Jackets,Everyday Co.,SKU-82357,Everyday Co. Jackets,1,720.47,0.15,612.4
+ORD-202512-20458,2025-12-27,CUST-4814,Diya Nair,Mumbai,Footwear,Sandals,FlexWear,SKU-46434,FlexWear Sandals,1,6713.25,0.1,6041.93
+ORD-202507-94939,2025-07-01,CUST-2169,Nila Reddy,Pune,Accessories,Watches,StyleNova,SKU-80010,StyleNova Watches,1,2888.68,0.25,2166.51
+ORD-202505-38785,2025-05-19,CUST-6313,Aarav Iyer,Coimbatore,Women's Clothing,Tops,TrendHouse,SKU-14207,TrendHouse Tops,5,6507.0,0.2,26028.0
+ORD-202504-51245,2025-04-19,CUST-4483,Kavya Nair,Bengaluru,Footwear,Boots,CottonCraft,SKU-94259,CottonCraft Boots,4,5800.65,0.25,17401.95
+ORD-202505-86622,2025-05-07,CUST-8019,Nila Nair,Hyderabad,Accessories,Belts,CottonCraft,SKU-57447,CottonCraft Belts,2,5527.08,0.25,8290.62
+ORD-202502-92240,2025-02-16,CUST-3621,Arjun Sharma,Kochi,Women's Clothing,Tops,FlexWear,SKU-60432,FlexWear Tops,3,8651.7,0.05,24657.35
+ORD-202505-99166,2025-05-09,CUST-2876,Rohan Patel,Jaipur,Accessories,Hats,TrendHouse,SKU-94012,TrendHouse Hats,5,8648.56,0.0,43242.8
+ORD-202503-44522,2025-03-22,CUST-9201,Ishaan Sharma,Coimbatore,Footwear,Sneakers,CottonCraft,SKU-91959,CottonCraft Sneakers,2,9551.01,0.25,14326.51
+ORD-202503-10074,2025-03-24,CUST-6310,Kavya Kumar,Pune,Footwear,Formal Shoes,StyleNova,SKU-24662,StyleNova Formal Shoes,2,7851.68,0.2,12562.69
+ORD-202505-73699,2025-05-04,CUST-2133,Rohan Reddy,Chennai,Footwear,Sandals,StyleNova,SKU-26828,StyleNova Sandals,3,9484.41,0.0,28453.23
+ORD-202509-80686,2025-09-28,CUST-4295,Vihaan Nair,Delhi,Accessories,Hats,StyleNova,SKU-98039,StyleNova Hats,3,4403.44,0.05,12549.8
+ORD-202503-87110,2025-03-03,CUST-4770,Nila Iyer,Kochi,Footwear,Boots,FlexWear,SKU-10942,FlexWear Boots,1,920.05,0.0,920.05
+ORD-202501-46500,2025-01-17,CUST-8953,Ananya Reddy,Bengaluru,Men's Clothing,T-Shirts,StyleNova,SKU-84847,StyleNova T-Shirts,3,986.32,0.05,2811.01
+ORD-202507-56438,2025-07-28,CUST-7939,Arjun Das,Kochi,Activewear,Running Tops,StyleNova,SKU-17100,StyleNova Running Tops,1,1239.23,0.15,1053.35
+ORD-202502-28373,2025-02-25,CUST-7912,Ishaan Patel,Pune,Men's Clothing,T-Shirts,TrendHouse,SKU-70637,TrendHouse T-Shirts,1,2144.03,0.15,1822.43
+ORD-202502-22224,2025-02-20,CUST-4872,Ishaan Nair,Jaipur,Women's Clothing,Dresses,TrendHouse,SKU-73653,TrendHouse Dresses,1,9992.04,0.0,9992.04
+ORD-202501-44760,2025-01-31,CUST-8454,Vihaan Nair,Coimbatore,Accessories,Belts,Everyday Co.,SKU-82845,Everyday Co. Belts,1,319.91,0.15,271.92
+ORD-202504-17989,2025-04-22,CUST-6138,Aarav Kumar,Delhi,Accessories,Belts,StyleNova,SKU-86569,StyleNova Belts,4,5917.05,0.2,18934.56
+ORD-202503-18981,2025-03-22,CUST-2113,Ananya Nair,Jaipur,Accessories,Hats,Everyday Co.,SKU-25713,Everyday Co. Hats,1,5224.94,0.05,4963.69
+ORD-202501-84085,2025-01-21,CUST-9565,Meera Patel,Ahmedabad,Activewear,Sports Bras,FlexWear,SKU-36772,FlexWear Sports Bras,2,4365.48,0.2,6984.77
+ORD-202503-19508,2025-03-09,CUST-1152,Kavya Sharma,Coimbatore,Footwear,Formal Shoes,CottonCraft,SKU-19602,CottonCraft Formal Shoes,2,3208.97,0.1,5776.15
+ORD-202503-58434,2025-03-09,CUST-5669,Ishaan Das,Delhi,Activewear,Sports Bras,FlexWear,SKU-81200,FlexWear Sports Bras,4,8843.38,0.05,33604.84
+ORD-202506-44664,2025-06-03,CUST-2891,Diya Reddy,Jaipur,Footwear,Sneakers,LuxeLane,SKU-45697,LuxeLane Sneakers,4,1303.79,0.05,4954.4
+ORD-202504-74032,2025-04-15,CUST-5114,Aarav Sharma,Pune,Footwear,Formal Shoes,LuxeLane,SKU-93136,LuxeLane Formal Shoes,2,8572.25,0.2,13715.6
+ORD-202506-31178,2025-06-20,CUST-8239,Rohan Nair,Chennai,Accessories,Watches,UrbanThread,SKU-83519,UrbanThread Watches,3,6479.0,0.1,17493.3
+ORD-202510-29410,2025-10-07,CUST-8041,Ishaan Kumar,Hyderabad,Men's Clothing,T-Shirts,UrbanThread,SKU-50404,UrbanThread T-Shirts,1,3880.4,0.2,3104.32
+ORD-202512-63264,2025-12-16,CUST-3532,Ananya Reddy,Mumbai,Footwear,Sneakers,CottonCraft,SKU-33206,CottonCraft Sneakers,1,1296.1,0.2,1036.88
+ORD-202507-44970,2025-07-30,CUST-3608,Diya Nair,Pune,Accessories,Bags,StyleNova,SKU-15075,StyleNova Bags,3,8680.42,0.05,24739.2
+ORD-202506-39219,2025-06-29,CUST-1387,Ananya Nair,Kochi,Accessories,Belts,StyleNova,SKU-53025,StyleNova Belts,1,8013.85,0.05,7613.16
+ORD-202506-53404,2025-06-29,CUST-1452,Diya Patel,Delhi,Footwear,Sneakers,Everyday Co.,SKU-33405,Everyday Co. Sneakers,2,4175.88,0.2,6681.41
+ORD-202511-67199,2025-11-02,CUST-9379,Diya Nair,Bengaluru,Activewear,Track Pants,UrbanThread,SKU-85574,UrbanThread Track Pants,1,7365.89,0.1,6629.3
+ORD-202501-97900,2025-01-01,CUST-4228,Meera Nair,Coimbatore,Women's Clothing,Jeans,UrbanThread,SKU-19171,UrbanThread Jeans,2,8122.16,0.25,12183.24
+ORD-202506-62743,2025-06-03,CUST-5844,Rohan Reddy,Bengaluru,Footwear,Sandals,LuxeLane,SKU-35144,LuxeLane Sandals,2,6767.86,0.1,12182.15
+ORD-202511-49829,2025-11-12,CUST-5700,Ananya Nair,Hyderabad,Accessories,Sunglasses,LuxeLane,SKU-86019,LuxeLane Sunglasses,2,4237.93,0.0,8475.86
+ORD-202508-32241,2025-08-15,CUST-2389,Vihaan Singh,Kochi,Activewear,Track Pants,TrendHouse,SKU-22240,TrendHouse Track Pants,2,5257.39,0.25,7886.09
+ORD-202503-90120,2025-03-17,CUST-2193,Kavya Nair,Mumbai,Women's Clothing,Jeans,StyleNova,SKU-92544,StyleNova Jeans,1,2673.97,0.15,2272.87
+ORD-202509-10726,2025-09-11,CUST-2746,Arjun Iyer,Coimbatore,Activewear,Sports Bras,LuxeLane,SKU-33053,LuxeLane Sports Bras,1,1730.44,0.25,1297.83
+ORD-202505-70901,2025-05-08,CUST-9702,Rohan Singh,Jaipur,Activewear,Running Tops,UrbanThread,SKU-68008,UrbanThread Running Tops,4,1476.18,0.05,5609.48
+ORD-202508-68991,2025-08-17,CUST-5246,Ananya Patel,Jaipur,Activewear,Running Tops,Everyday Co.,SKU-78327,Everyday Co. Running Tops,3,7512.46,0.15,19156.77
+ORD-202502-51904,2025-02-09,CUST-9849,Diya Reddy,Kochi,Accessories,Belts,CottonCraft,SKU-29769,CottonCraft Belts,2,2573.59,0.1,4632.46
+ORD-202512-81121,2025-12-28,CUST-8633,Arjun Kumar,Hyderabad,Women's Clothing,Skirts,LuxeLane,SKU-37110,LuxeLane Skirts,1,4323.22,0.1,3890.9
+ORD-202512-59857,2025-12-23,CUST-8814,Aarav Singh,Ahmedabad,Accessories,Sunglasses,Everyday Co.,SKU-49139,Everyday Co. Sunglasses,1,8841.37,0.2,7073.1
+ORD-202511-67125,2025-11-05,CUST-8956,Aarav Nair,Jaipur,Accessories,Sunglasses,FlexWear,SKU-54057,FlexWear Sunglasses,3,5034.83,0.1,13594.04
+ORD-202503-87580,2025-03-07,CUST-1444,Diya Nair,Kochi,Accessories,Belts,Everyday Co.,SKU-27786,Everyday Co. Belts,5,5480.0,0.15,23290.0
+ORD-202507-59692,2025-07-14,CUST-5558,Arjun Patel,Delhi,Accessories,Belts,UrbanThread,SKU-20735,UrbanThread Belts,1,4709.58,0.1,4238.62
+ORD-202501-18993,2025-01-27,CUST-1659,Aarav Iyer,Jaipur,Accessories,Bags,LuxeLane,SKU-36130,LuxeLane Bags,5,3693.62,0.25,13851.07
+ORD-202503-70952,2025-03-06,CUST-5198,Meera Reddy,Mumbai,Men's Clothing,Shorts,StyleNova,SKU-89415,StyleNova Shorts,2,1408.58,0.05,2676.3
+ORD-202506-85470,2025-06-09,CUST-7149,Arjun Iyer,Hyderabad,Activewear,Leggings,Everyday Co.,SKU-19961,Everyday Co. Leggings,1,548.08,0.1,493.27
+ORD-202512-15383,2025-12-17,CUST-6688,Rohan Nair,Delhi,Activewear,Sports Bras,UrbanThread,SKU-96706,UrbanThread Sports Bras,2,1473.23,0.2,2357.17
+ORD-202501-66822,2025-01-07,CUST-6934,Kavya Reddy,Pune,Footwear,Sneakers,FlexWear,SKU-67080,FlexWear Sneakers,3,8275.61,0.0,24826.83
+ORD-202511-70931,2025-11-12,CUST-8136,Nila Patel,Delhi,Women's Clothing,Jackets,LuxeLane,SKU-52245,LuxeLane Jackets,3,5519.28,0.15,14074.16
+ORD-202505-59674,2025-05-05,CUST-6511,Aarav Das,Kochi,Women's Clothing,Dresses,CottonCraft,SKU-52600,CottonCraft Dresses,3,5826.54,0.25,13109.72
+ORD-202505-46211,2025-05-13,CUST-1166,Rohan Iyer,Pune,Women's Clothing,Skirts,StyleNova,SKU-21221,StyleNova Skirts,1,8838.1,0.25,6628.58
+ORD-202505-68743,2025-05-04,CUST-1282,Diya Patel,Jaipur,Women's Clothing,Skirts,TrendHouse,SKU-39045,TrendHouse Skirts,2,6564.26,0.15,11159.24
+ORD-202507-82140,2025-07-08,CUST-6419,Meera Das,Ahmedabad,Accessories,Belts,CottonCraft,SKU-45509,CottonCraft Belts,2,5448.94,0.15,9263.2
+ORD-202504-34267,2025-04-09,CUST-4138,Ananya Das,Bengaluru,Footwear,Sandals,StyleNova,SKU-46241,StyleNova Sandals,1,7504.95,0.25,5628.71
+ORD-202506-80010,2025-06-01,CUST-3073,Vihaan Kumar,Mumbai,Activewear,Track Pants,UrbanThread,SKU-17146,UrbanThread Track Pants,1,2039.58,0.0,2039.58
+ORD-202511-85243,2025-11-23,CUST-5658,Kavya Das,Hyderabad,Activewear,Track Pants,LuxeLane,SKU-67733,LuxeLane Track Pants,3,5060.52,0.0,15181.56
+ORD-202509-19710,2025-09-02,CUST-1878,Ishaan Reddy,Delhi,Footwear,Formal Shoes,UrbanThread,SKU-83772,UrbanThread Formal Shoes,1,932.83,0.15,792.91
+ORD-202510-39581,2025-10-13,CUST-9561,Arjun Das,Bengaluru,Footwear,Sneakers,StyleNova,SKU-68028,StyleNova Sneakers,3,6180.28,0.2,14832.67
+ORD-202511-37235,2025-11-14,CUST-4457,Vihaan Sharma,Ahmedabad,Footwear,Boots,CottonCraft,SKU-30585,CottonCraft Boots,1,9612.06,0.0,9612.06
+ORD-202503-71592,2025-03-22,CUST-5771,Aarav Iyer,Bengaluru,Women's Clothing,Tops,FlexWear,SKU-47762,FlexWear Tops,1,4668.89,0.2,3735.11
+ORD-202505-35928,2025-05-16,CUST-7965,Diya Iyer,Mumbai,Footwear,Boots,UrbanThread,SKU-94886,UrbanThread Boots,3,6362.06,0.25,14314.64
+ORD-202502-84607,2025-02-06,CUST-5728,Kavya Sharma,Hyderabad,Women's Clothing,Jeans,Everyday Co.,SKU-71433,Everyday Co. Jeans,1,7987.5,0.2,6390.0
+ORD-202510-66626,2025-10-04,CUST-6280,Nila Patel,Jaipur,Footwear,Boots,CottonCraft,SKU-13390,CottonCraft Boots,2,1079.29,0.0,2158.58
+ORD-202510-45325,2025-10-28,CUST-1659,Ishaan Das,Ahmedabad,Men's Clothing,Jeans,LuxeLane,SKU-78021,LuxeLane Jeans,4,9994.85,0.25,29984.55
+ORD-202508-71605,2025-08-12,CUST-6700,Arjun Singh,Ahmedabad,Accessories,Watches,StyleNova,SKU-52081,StyleNova Watches,2,5068.74,0.0,10137.48
+ORD-202512-82102,2025-12-22,CUST-1601,Kavya Sharma,Coimbatore,Men's Clothing,Jeans,CottonCraft,SKU-51224,CottonCraft Jeans,2,6726.06,0.15,11434.3
+ORD-202509-70552,2025-09-21,CUST-7770,Aarav Iyer,Coimbatore,Footwear,Sandals,UrbanThread,SKU-77952,UrbanThread Sandals,3,310.17,0.2,744.41
+ORD-202501-67424,2025-01-27,CUST-8941,Diya Kumar,Kochi,Footwear,Boots,LuxeLane,SKU-92578,LuxeLane Boots,1,5626.43,0.1,5063.79
+ORD-202506-39451,2025-06-09,CUST-2858,Kavya Sharma,Hyderabad,Activewear,Sports Bras,LuxeLane,SKU-94896,LuxeLane Sports Bras,2,5655.84,0.0,11311.68
+ORD-202509-71894,2025-09-18,CUST-4993,Kavya Reddy,Delhi,Women's Clothing,Skirts,LuxeLane,SKU-60277,LuxeLane Skirts,2,4329.26,0.15,7359.74
+ORD-202502-54548,2025-02-05,CUST-9318,Vihaan Kumar,Hyderabad,Women's Clothing,Jackets,FlexWear,SKU-47072,FlexWear Jackets,1,7962.06,0.15,6767.75
+ORD-202508-81228,2025-08-17,CUST-7180,Kavya Singh,Hyderabad,Footwear,Boots,Everyday Co.,SKU-34727,Everyday Co. Boots,2,3646.7,0.2,5834.72
+ORD-202507-59968,2025-07-30,CUST-7325,Ishaan Das,Mumbai,Women's Clothing,Jackets,TrendHouse,SKU-14852,TrendHouse Jackets,1,7522.64,0.25,5641.98
+ORD-202502-69890,2025-02-21,CUST-1251,Ishaan Nair,Pune,Women's Clothing,Jackets,FlexWear,SKU-95823,FlexWear Jackets,3,4569.97,0.2,10967.93
+ORD-202506-53065,2025-06-23,CUST-9742,Arjun Singh,Delhi,Women's Clothing,Dresses,TrendHouse,SKU-92155,TrendHouse Dresses,2,4154.59,0.0,8309.18
+ORD-202502-39817,2025-02-05,CUST-2480,Arjun Sharma,Ahmedabad,Accessories,Hats,UrbanThread,SKU-93066,UrbanThread Hats,1,6937.68,0.1,6243.91
+ORD-202501-56984,2025-01-15,CUST-7141,Arjun Reddy,Delhi,Men's Clothing,Shirts,StyleNova,SKU-42007,StyleNova Shirts,1,8021.59,0.1,7219.43
+ORD-202503-91226,2025-03-29,CUST-4945,Kavya Reddy,Hyderabad,Activewear,Running Tops,FlexWear,SKU-40433,FlexWear Running Tops,1,6211.07,0.15,5279.41
+ORD-202512-98815,2025-12-08,CUST-9955,Ishaan Sharma,Delhi,Accessories,Watches,TrendHouse,SKU-67898,TrendHouse Watches,1,8103.94,0.1,7293.55
+ORD-202512-60422,2025-12-20,CUST-8916,Diya Iyer,Coimbatore,Footwear,Sandals,LuxeLane,SKU-59986,LuxeLane Sandals,1,8498.45,0.05,8073.53
+ORD-202512-61879,2025-12-25,CUST-5497,Aarav Kumar,Delhi,Activewear,Track Pants,FlexWear,SKU-89482,FlexWear Track Pants,1,9785.06,0.25,7338.8
+ORD-202511-91381,2025-11-07,CUST-5106,Ishaan Sharma,Mumbai,Accessories,Watches,Everyday Co.,SKU-92242,Everyday Co. Watches,3,2423.34,0.05,6906.52
+ORD-202501-48680,2025-01-18,CUST-6352,Arjun Reddy,Kochi,Men's Clothing,Jackets,Everyday Co.,SKU-36318,Everyday Co. Jackets,2,7402.89,0.0,14805.78
+ORD-202509-73156,2025-09-14,CUST-5835,Meera Sharma,Jaipur,Women's Clothing,Jackets,CottonCraft,SKU-71385,CottonCraft Jackets,4,8354.58,0.1,30076.49
+ORD-202512-57942,2025-12-13,CUST-2479,Arjun Kumar,Mumbai,Men's Clothing,Jeans,Everyday Co.,SKU-44663,Everyday Co. Jeans,2,9804.44,0.2,15687.1
+ORD-202512-93695,2025-12-11,CUST-7086,Diya Iyer,Pune,Activewear,Leggings,TrendHouse,SKU-71797,TrendHouse Leggings,2,2841.97,0.15,4831.35
+ORD-202511-49608,2025-11-09,CUST-7689,Diya Reddy,Pune,Men's Clothing,Shorts,FlexWear,SKU-15943,FlexWear Shorts,1,912.21,0.15,775.38
+ORD-202502-69459,2025-02-19,CUST-7078,Rohan Nair,Bengaluru,Men's Clothing,Jackets,TrendHouse,SKU-86983,TrendHouse Jackets,1,5513.2,0.15,4686.22
+ORD-202509-14288,2025-09-08,CUST-7070,Ananya Das,Bengaluru,Women's Clothing,Skirts,LuxeLane,SKU-68287,LuxeLane Skirts,2,9407.81,0.1,16934.06
+ORD-202510-62184,2025-10-06,CUST-5520,Ananya Sharma,Pune,Women's Clothing,Jeans,UrbanThread,SKU-69600,UrbanThread Jeans,4,6553.82,0.0,26215.28
+ORD-202501-84000,2025-01-11,CUST-4362,Diya Iyer,Ahmedabad,Men's Clothing,Jeans,LuxeLane,SKU-86858,LuxeLane Jeans,1,3534.04,0.05,3357.34
+ORD-202511-27038,2025-11-02,CUST-9850,Vihaan Reddy,Hyderabad,Women's Clothing,Tops,CottonCraft,SKU-24408,CottonCraft Tops,1,8625.54,0.05,8194.26
+ORD-202505-16868,2025-05-02,CUST-3076,Arjun Sharma,Pune,Men's Clothing,Jeans,UrbanThread,SKU-18330,UrbanThread Jeans,2,452.08,0.1,813.74
+ORD-202509-90623,2025-09-20,CUST-1710,Rohan Patel,Pune,Accessories,Sunglasses,Everyday Co.,SKU-70036,Everyday Co. Sunglasses,2,4683.45,0.05,8898.55
+ORD-202508-19632,2025-08-07,CUST-2323,Meera Reddy,Coimbatore,Men's Clothing,T-Shirts,TrendHouse,SKU-18609,TrendHouse T-Shirts,2,5054.61,0.15,8592.84
+ORD-202510-79541,2025-10-08,CUST-5831,Kavya Nair,Ahmedabad,Women's Clothing,Jeans,FlexWear,SKU-22999,FlexWear Jeans,2,3993.77,0.2,6390.03
+ORD-202508-69441,2025-08-09,CUST-7532,Arjun Sharma,Mumbai,Men's Clothing,Shorts,LuxeLane,SKU-50966,LuxeLane Shorts,2,2515.39,0.1,4527.7
+ORD-202507-18799,2025-07-11,CUST-2494,Diya Sharma,Delhi,Accessories,Watches,LuxeLane,SKU-66606,LuxeLane Watches,4,6961.16,0.15,23667.94
+ORD-202510-53207,2025-10-12,CUST-3002,Arjun Singh,Hyderabad,Men's Clothing,Jackets,Everyday Co.,SKU-97207,Everyday Co. Jackets,1,9578.26,0.2,7662.61
+ORD-202506-30280,2025-06-09,CUST-8900,Ananya Sharma,Ahmedabad,Accessories,Bags,CottonCraft,SKU-55890,CottonCraft Bags,1,5904.81,0.05,5609.57
+ORD-202510-91490,2025-10-21,CUST-1430,Nila Patel,Delhi,Activewear,Track Pants,UrbanThread,SKU-13794,UrbanThread Track Pants,1,4461.39,0.2,3569.11
+ORD-202506-84228,2025-06-23,CUST-7566,Diya Reddy,Delhi,Women's Clothing,Jeans,LuxeLane,SKU-92991,LuxeLane Jeans,1,2058.63,0.05,1955.7
+ORD-202504-58503,2025-04-21,CUST-6105,Meera Sharma,Jaipur,Men's Clothing,T-Shirts,LuxeLane,SKU-16895,LuxeLane T-Shirts,1,4699.36,0.05,4464.39
+ORD-202501-65576,2025-01-26,CUST-8957,Nila Das,Ahmedabad,Women's Clothing,Tops,Everyday Co.,SKU-64287,Everyday Co. Tops,2,2938.4,0.25,4407.6
+ORD-202502-98930,2025-02-28,CUST-8972,Rohan Patel,Jaipur,Footwear,Formal Shoes,Everyday Co.,SKU-15952,Everyday Co. Formal Shoes,1,1374.63,0.25,1030.97
+ORD-202501-43491,2025-01-04,CUST-5742,Meera Sharma,Chennai,Women's Clothing,Skirts,FlexWear,SKU-11013,FlexWear Skirts,1,9468.64,0.05,8995.21
+ORD-202507-97562,2025-07-14,CUST-6802,Diya Nair,Hyderabad,Accessories,Sunglasses,StyleNova,SKU-15544,StyleNova Sunglasses,2,2531.07,0.2,4049.71
+ORD-202506-93904,2025-06-10,CUST-7843,Vihaan Sharma,Bengaluru,Accessories,Bags,TrendHouse,SKU-63088,TrendHouse Bags,2,5860.98,0.25,8791.47
+ORD-202508-67240,2025-08-24,CUST-2734,Ananya Nair,Ahmedabad,Men's Clothing,Jackets,StyleNova,SKU-87184,StyleNova Jackets,3,9220.77,0.0,27662.31
+ORD-202506-20011,2025-06-08,CUST-9363,Diya Iyer,Coimbatore,Accessories,Hats,UrbanThread,SKU-55793,UrbanThread Hats,2,2448.25,0.05,4651.68
+ORD-202503-95918,2025-03-16,CUST-2234,Ishaan Das,Bengaluru,Footwear,Formal Shoes,StyleNova,SKU-70811,StyleNova Formal Shoes,1,1981.94,0.05,1882.84
+ORD-202511-51436,2025-11-26,CUST-3473,Kavya Sharma,Ahmedabad,Activewear,Running Tops,LuxeLane,SKU-71462,LuxeLane Running Tops,2,6356.86,0.25,9535.29
+ORD-202510-70521,2025-10-30,CUST-8404,Aarav Kumar,Delhi,Accessories,Watches,Everyday Co.,SKU-58331,Everyday Co. Watches,1,5220.17,0.1,4698.15
+ORD-202511-82655,2025-11-11,CUST-1672,Kavya Iyer,Bengaluru,Footwear,Sneakers,LuxeLane,SKU-52143,LuxeLane Sneakers,2,4028.48,0.2,6445.57
+ORD-202502-21053,2025-02-01,CUST-9266,Ishaan Kumar,Hyderabad,Activewear,Running Tops,FlexWear,SKU-42472,FlexWear Running Tops,2,8165.38,0.1,14697.68
+ORD-202511-60779,2025-11-09,CUST-7697,Meera Kumar,Jaipur,Accessories,Sunglasses,FlexWear,SKU-92691,FlexWear Sunglasses,1,3915.66,0.1,3524.09
+ORD-202510-96057,2025-10-13,CUST-3463,Meera Sharma,Bengaluru,Footwear,Sneakers,CottonCraft,SKU-86380,CottonCraft Sneakers,2,3055.23,0.25,4582.85
+ORD-202503-83259,2025-03-08,CUST-7171,Meera Reddy,Coimbatore,Women's Clothing,Jeans,CottonCraft,SKU-97833,CottonCraft Jeans,2,9397.62,0.1,16915.72
+ORD-202509-38074,2025-09-18,CUST-6598,Kavya Iyer,Coimbatore,Activewear,Leggings,LuxeLane,SKU-39693,LuxeLane Leggings,1,3816.2,0.05,3625.39
+ORD-202502-79013,2025-02-21,CUST-1618,Meera Reddy,Delhi,Women's Clothing,Tops,UrbanThread,SKU-88282,UrbanThread Tops,2,5534.78,0.25,8302.17
+ORD-202512-67366,2025-12-21,CUST-1715,Arjun Singh,Hyderabad,Accessories,Belts,StyleNova,SKU-98652,StyleNova Belts,3,8146.72,0.05,23218.15
+ORD-202508-35430,2025-08-18,CUST-7026,Nila Das,Delhi,Women's Clothing,Skirts,FlexWear,SKU-70513,FlexWear Skirts,1,2618.93,0.15,2226.09
+ORD-202508-28140,2025-08-03,CUST-5096,Aarav Das,Jaipur,Footwear,Boots,FlexWear,SKU-58655,FlexWear Boots,4,8222.85,0.2,26313.12
+ORD-202503-68893,2025-03-05,CUST-9410,Ishaan Nair,Jaipur,Activewear,Leggings,LuxeLane,SKU-22021,LuxeLane Leggings,1,7701.23,0.1,6931.11
+ORD-202508-60615,2025-08-01,CUST-2337,Meera Iyer,Chennai,Women's Clothing,Skirts,CottonCraft,SKU-13694,CottonCraft Skirts,1,5168.47,0.05,4910.05
+ORD-202503-28191,2025-03-16,CUST-8685,Kavya Kumar,Pune,Footwear,Sneakers,Everyday Co.,SKU-20384,Everyday Co. Sneakers,1,3081.73,0.15,2619.47
+ORD-202510-24573,2025-10-08,CUST-5720,Ananya Patel,Hyderabad,Men's Clothing,Jackets,StyleNova,SKU-25970,StyleNova Jackets,4,6205.14,0.15,21097.48
+ORD-202508-88215,2025-08-23,CUST-9782,Aarav Iyer,Ahmedabad,Men's Clothing,Jeans,TrendHouse,SKU-28818,TrendHouse Jeans,1,8414.87,0.15,7152.64
+ORD-202506-97584,2025-06-30,CUST-2402,Rohan Singh,Ahmedabad,Footwear,Boots,UrbanThread,SKU-18870,UrbanThread Boots,1,4339.71,0.25,3254.78
+ORD-202501-12128,2025-01-23,CUST-6850,Diya Singh,Kochi,Activewear,Leggings,TrendHouse,SKU-41604,TrendHouse Leggings,2,9815.08,0.1,17667.14
+ORD-202503-32949,2025-03-10,CUST-8612,Kavya Reddy,Pune,Men's Clothing,Shorts,LuxeLane,SKU-27675,LuxeLane Shorts,1,5595.33,0.25,4196.5
+ORD-202504-51365,2025-04-14,CUST-6080,Rohan Nair,Delhi,Men's Clothing,Shirts,UrbanThread,SKU-81176,UrbanThread Shirts,1,2233.86,0.0,2233.86
+ORD-202505-53506,2025-05-27,CUST-5476,Diya Singh,Mumbai,Accessories,Watches,UrbanThread,SKU-67272,UrbanThread Watches,1,7873.16,0.25,5904.87
+ORD-202504-44959,2025-04-06,CUST-2353,Arjun Sharma,Pune,Accessories,Sunglasses,TrendHouse,SKU-66440,TrendHouse Sunglasses,2,5124.98,0.2,8199.97
+ORD-202506-50173,2025-06-14,CUST-8305,Nila Nair,Delhi,Activewear,Sports Bras,FlexWear,SKU-31842,FlexWear Sports Bras,1,3479.82,0.1,3131.84
+ORD-202506-17518,2025-06-30,CUST-2229,Arjun Singh,Chennai,Accessories,Watches,TrendHouse,SKU-77251,TrendHouse Watches,2,4517.92,0.25,6776.88
+ORD-202512-40932,2025-12-14,CUST-7001,Meera Nair,Ahmedabad,Women's Clothing,Dresses,StyleNova,SKU-84349,StyleNova Dresses,3,636.55,0.0,1909.65
+ORD-202507-28047,2025-07-09,CUST-9674,Meera Nair,Kochi,Men's Clothing,Shorts,StyleNova,SKU-51207,StyleNova Shorts,1,7700.92,0.2,6160.74
+ORD-202504-25435,2025-04-06,CUST-5288,Vihaan Das,Chennai,Footwear,Formal Shoes,UrbanThread,SKU-38124,UrbanThread Formal Shoes,2,4052.78,0.2,6484.45
+ORD-202504-32630,2025-04-13,CUST-8292,Diya Singh,Kochi,Activewear,Track Pants,LuxeLane,SKU-97535,LuxeLane Track Pants,1,8571.42,0.15,7285.71
+ORD-202505-93584,2025-05-29,CUST-3852,Meera Iyer,Jaipur,Footwear,Sneakers,FlexWear,SKU-25907,FlexWear Sneakers,3,8557.21,0.25,19253.72
+ORD-202501-82305,2025-01-14,CUST-3126,Nila Sharma,Kochi,Women's Clothing,Tops,StyleNova,SKU-18617,StyleNova Tops,1,5850.09,0.15,4972.58
+ORD-202509-19666,2025-09-27,CUST-3053,Meera Sharma,Kochi,Footwear,Boots,LuxeLane,SKU-68979,LuxeLane Boots,1,4270.51,0.2,3416.41
+ORD-202510-66704,2025-10-10,CUST-9238,Aarav Sharma,Hyderabad,Accessories,Hats,CottonCraft,SKU-77908,CottonCraft Hats,2,2064.04,0.05,3921.68
+ORD-202506-47230,2025-06-15,CUST-2292,Vihaan Iyer,Hyderabad,Women's Clothing,Jeans,StyleNova,SKU-93238,StyleNova Jeans,4,2486.06,0.2,7955.39
+ORD-202511-87569,2025-11-11,CUST-3526,Ishaan Singh,Delhi,Activewear,Track Pants,StyleNova,SKU-83874,StyleNova Track Pants,2,5173.96,0.05,9830.52
+ORD-202511-84991,2025-11-25,CUST-7825,Nila Kumar,Chennai,Men's Clothing,T-Shirts,UrbanThread,SKU-75278,UrbanThread T-Shirts,3,2866.16,0.05,8168.56
+ORD-202509-48985,2025-09-05,CUST-8430,Diya Kumar,Delhi,Activewear,Track Pants,LuxeLane,SKU-30719,LuxeLane Track Pants,1,8130.29,0.15,6910.75
+ORD-202504-51853,2025-04-15,CUST-6658,Arjun Reddy,Kochi,Accessories,Sunglasses,TrendHouse,SKU-58567,TrendHouse Sunglasses,1,1692.59,0.25,1269.44
+ORD-202508-22689,2025-08-27,CUST-1829,Vihaan Nair,Mumbai,Activewear,Leggings,CottonCraft,SKU-90658,CottonCraft Leggings,1,4660.08,0.05,4427.08
+ORD-202506-30885,2025-06-17,CUST-9163,Rohan Das,Hyderabad,Accessories,Belts,Everyday Co.,SKU-75373,Everyday Co. Belts,4,7293.95,0.05,27717.01
+ORD-202507-86460,2025-07-21,CUST-6781,Aarav Kumar,Bengaluru,Footwear,Boots,UrbanThread,SKU-46877,UrbanThread Boots,2,9675.86,0.05,18384.13
+ORD-202505-27555,2025-05-27,CUST-5333,Meera Nair,Kochi,Accessories,Hats,Everyday Co.,SKU-57964,Everyday Co. Hats,2,8516.57,0.15,14478.17
+ORD-202510-60639,2025-10-15,CUST-9261,Kavya Patel,Ahmedabad,Men's Clothing,Shirts,UrbanThread,SKU-91689,UrbanThread Shirts,1,5665.26,0.0,5665.26
+ORD-202507-57920,2025-07-21,CUST-3363,Ananya Nair,Bengaluru,Activewear,Leggings,StyleNova,SKU-75546,StyleNova Leggings,1,9870.84,0.2,7896.67
+ORD-202506-89463,2025-06-20,CUST-9446,Ishaan Singh,Hyderabad,Men's Clothing,T-Shirts,UrbanThread,SKU-90356,UrbanThread T-Shirts,3,5336.53,0.05,15209.11
+ORD-202506-79774,2025-06-03,CUST-9025,Nila Patel,Ahmedabad,Footwear,Formal Shoes,TrendHouse,SKU-72245,TrendHouse Formal Shoes,2,5219.96,0.2,8351.94
+ORD-202508-92478,2025-08-02,CUST-1436,Nila Das,Bengaluru,Men's Clothing,Jackets,CottonCraft,SKU-44803,CottonCraft Jackets,2,8027.52,0.25,12041.28
+ORD-202510-91230,2025-10-26,CUST-7229,Ishaan Iyer,Chennai,Activewear,Sports Bras,LuxeLane,SKU-14138,LuxeLane Sports Bras,2,5384.05,0.25,8076.08
+ORD-202508-36724,2025-08-14,CUST-7723,Rohan Das,Chennai,Activewear,Leggings,StyleNova,SKU-18163,StyleNova Leggings,1,1767.88,0.25,1325.91
+ORD-202506-51124,2025-06-16,CUST-3837,Kavya Singh,Jaipur,Women's Clothing,Jackets,StyleNova,SKU-81601,StyleNova Jackets,5,4939.2,0.15,20991.6
+ORD-202504-39473,2025-04-09,CUST-5876,Vihaan Iyer,Kochi,Footwear,Sandals,FlexWear,SKU-74094,FlexWear Sandals,4,3005.36,0.1,10819.3
+ORD-202505-59767,2025-05-21,CUST-7464,Meera Reddy,Jaipur,Footwear,Boots,CottonCraft,SKU-48070,CottonCraft Boots,1,5861.72,0.2,4689.38
+ORD-202506-72793,2025-06-27,CUST-4505,Ananya Patel,Bengaluru,Men's Clothing,Jackets,LuxeLane,SKU-83664,LuxeLane Jackets,4,6661.93,0.25,19985.79
+ORD-202510-39579,2025-10-28,CUST-4814,Aarav Sharma,Ahmedabad,Footwear,Formal Shoes,UrbanThread,SKU-64172,UrbanThread Formal Shoes,1,791.42,0.2,633.14
+ORD-202501-63334,2025-01-03,CUST-8793,Kavya Iyer,Hyderabad,Footwear,Boots,UrbanThread,SKU-47649,UrbanThread Boots,4,9784.73,0.05,37181.97
+ORD-202502-14888,2025-02-15,CUST-3868,Arjun Reddy,Chennai,Footwear,Sandals,LuxeLane,SKU-14763,LuxeLane Sandals,2,2551.54,0.25,3827.31
+ORD-202501-53914,2025-01-20,CUST-5662,Kavya Das,Delhi,Accessories,Sunglasses,StyleNova,SKU-27589,StyleNova Sunglasses,1,5808.23,0.0,5808.23
+ORD-202502-43720,2025-02-27,CUST-4050,Aarav Singh,Mumbai,Activewear,Running Tops,CottonCraft,SKU-48669,CottonCraft Running Tops,1,7390.86,0.25,5543.14
+ORD-202511-52982,2025-11-24,CUST-2421,Arjun Sharma,Ahmedabad,Activewear,Sports Bras,StyleNova,SKU-34219,StyleNova Sports Bras,3,8320.8,0.2,19969.92
+ORD-202501-53204,2025-01-04,CUST-5947,Nila Kumar,Mumbai,Women's Clothing,Skirts,CottonCraft,SKU-44282,CottonCraft Skirts,1,2583.56,0.1,2325.2
+ORD-202508-50760,2025-08-27,CUST-2923,Vihaan Singh,Bengaluru,Footwear,Formal Shoes,UrbanThread,SKU-90560,UrbanThread Formal Shoes,1,4231.54,0.2,3385.23
+ORD-202503-64505,2025-03-20,CUST-9998,Kavya Iyer,Kochi,Women's Clothing,Tops,StyleNova,SKU-42435,StyleNova Tops,2,9890.73,0.1,17803.31
+ORD-202509-24707,2025-09-28,CUST-2011,Rohan Iyer,Kochi,Activewear,Leggings,FlexWear,SKU-85065,FlexWear Leggings,2,1056.6,0.2,1690.56
+ORD-202509-86434,2025-09-24,CUST-9008,Diya Das,Pune,Activewear,Sports Bras,StyleNova,SKU-17292,StyleNova Sports Bras,1,6897.86,0.25,5173.39
+ORD-202508-50392,2025-08-22,CUST-1356,Arjun Patel,Coimbatore,Accessories,Belts,FlexWear,SKU-10395,FlexWear Belts,2,5719.33,0.25,8578.99
+ORD-202508-19046,2025-08-05,CUST-8734,Aarav Patel,Chennai,Women's Clothing,Jackets,UrbanThread,SKU-63591,UrbanThread Jackets,1,917.47,0.0,917.47
+ORD-202507-59236,2025-07-11,CUST-2314,Rohan Reddy,Coimbatore,Women's Clothing,Tops,Everyday Co.,SKU-95660,Everyday Co. Tops,5,4009.05,0.15,17038.46
+ORD-202507-10455,2025-07-21,CUST-1372,Vihaan Das,Jaipur,Footwear,Sneakers,StyleNova,SKU-98276,StyleNova Sneakers,2,7359.22,0.05,13982.52
+ORD-202504-34704,2025-04-28,CUST-2848,Aarav Nair,Coimbatore,Activewear,Running Tops,FlexWear,SKU-90599,FlexWear Running Tops,1,3656.75,0.1,3291.08
+ORD-202502-16380,2025-02-21,CUST-5009,Aarav Nair,Bengaluru,Men's Clothing,Jeans,StyleNova,SKU-67535,StyleNova Jeans,2,4629.48,0.25,6944.22
+ORD-202503-85511,2025-03-13,CUST-6224,Nila Singh,Chennai,Women's Clothing,Jackets,StyleNova,SKU-41051,StyleNova Jackets,2,3104.86,0.25,4657.29
+ORD-202504-87550,2025-04-24,CUST-3869,Arjun Das,Jaipur,Footwear,Formal Shoes,LuxeLane,SKU-16145,LuxeLane Formal Shoes,1,2967.99,0.2,2374.39
+ORD-202506-59343,2025-06-13,CUST-4012,Rohan Das,Jaipur,Footwear,Boots,Everyday Co.,SKU-41584,Everyday Co. Boots,2,4259.11,0.1,7666.4
+ORD-202508-83044,2025-08-26,CUST-9683,Ishaan Nair,Hyderabad,Women's Clothing,Jeans,Everyday Co.,SKU-41831,Everyday Co. Jeans,4,5754.14,0.15,19564.08
+ORD-202508-34966,2025-08-19,CUST-1844,Vihaan Nair,Bengaluru,Footwear,Formal Shoes,CottonCraft,SKU-98299,CottonCraft Formal Shoes,3,1195.9,0.25,2690.78
+ORD-202504-83249,2025-04-07,CUST-4555,Kavya Iyer,Bengaluru,Activewear,Leggings,Everyday Co.,SKU-53642,Everyday Co. Leggings,3,5998.56,0.25,13496.76
+ORD-202503-89220,2025-03-02,CUST-4350,Arjun Iyer,Mumbai,Footwear,Sneakers,StyleNova,SKU-82362,StyleNova Sneakers,2,7616.01,0.05,14470.42
+ORD-202510-77215,2025-10-01,CUST-9147,Kavya Sharma,Kochi,Footwear,Sandals,TrendHouse,SKU-71537,TrendHouse Sandals,2,3290.7,0.1,5923.26
+ORD-202507-29126,2025-07-31,CUST-1265,Vihaan Nair,Pune,Footwear,Formal Shoes,CottonCraft,SKU-48691,CottonCraft Formal Shoes,1,8680.62,0.25,6510.47
+ORD-202507-95800,2025-07-14,CUST-6530,Vihaan Das,Mumbai,Women's Clothing,Tops,CottonCraft,SKU-94108,CottonCraft Tops,2,2682.58,0.2,4292.13
+ORD-202503-81058,2025-03-28,CUST-1962,Rohan Kumar,Pune,Accessories,Sunglasses,StyleNova,SKU-19742,StyleNova Sunglasses,1,5600.5,0.05,5320.47
+ORD-202511-38668,2025-11-19,CUST-9285,Kavya Singh,Hyderabad,Men's Clothing,T-Shirts,TrendHouse,SKU-17923,TrendHouse T-Shirts,1,7158.54,0.0,7158.54
+ORD-202501-12192,2025-01-09,CUST-9673,Vihaan Patel,Kochi,Activewear,Running Tops,LuxeLane,SKU-12246,LuxeLane Running Tops,1,5649.94,0.0,5649.94
+ORD-202502-35156,2025-02-24,CUST-9625,Vihaan Singh,Hyderabad,Activewear,Running Tops,Everyday Co.,SKU-45038,Everyday Co. Running Tops,4,5385.54,0.05,20465.05
+ORD-202508-49318,2025-08-24,CUST-2320,Aarav Sharma,Coimbatore,Accessories,Bags,CottonCraft,SKU-63120,CottonCraft Bags,2,9904.26,0.05,18818.09
+ORD-202501-75517,2025-01-29,CUST-8109,Meera Sharma,Kochi,Accessories,Sunglasses,FlexWear,SKU-79226,FlexWear Sunglasses,2,7116.6,0.0,14233.2
+ORD-202509-46749,2025-09-01,CUST-9897,Nila Kumar,Ahmedabad,Men's Clothing,Jeans,StyleNova,SKU-33508,StyleNova Jeans,1,9263.34,0.25,6947.51
+ORD-202503-20084,2025-03-15,CUST-5903,Ishaan Iyer,Ahmedabad,Footwear,Sneakers,StyleNova,SKU-84277,StyleNova Sneakers,3,7212.3,0.15,18391.37
+ORD-202503-75639,2025-03-13,CUST-6666,Aarav Sharma,Coimbatore,Accessories,Hats,CottonCraft,SKU-67290,CottonCraft Hats,3,6985.31,0.0,20955.93
+ORD-202511-13883,2025-11-11,CUST-5478,Kavya Das,Ahmedabad,Women's Clothing,Dresses,CottonCraft,SKU-39902,CottonCraft Dresses,4,4147.02,0.1,14929.27
+ORD-202512-48715,2025-12-15,CUST-5037,Diya Sharma,Hyderabad,Footwear,Boots,TrendHouse,SKU-45123,TrendHouse Boots,2,3985.71,0.2,6377.14
+ORD-202507-50405,2025-07-19,CUST-8286,Meera Patel,Hyderabad,Women's Clothing,Skirts,LuxeLane,SKU-23399,LuxeLane Skirts,1,1332.54,0.0,1332.54
+ORD-202508-13442,2025-08-18,CUST-2468,Meera Sharma,Coimbatore,Women's Clothing,Dresses,StyleNova,SKU-88240,StyleNova Dresses,2,5269.68,0.0,10539.36
+ORD-202501-83339,2025-01-07,CUST-4977,Nila Reddy,Coimbatore,Activewear,Track Pants,Everyday Co.,SKU-99825,Everyday Co. Track Pants,1,4060.66,0.0,4060.66
+ORD-202506-66973,2025-06-04,CUST-5521,Arjun Patel,Delhi,Accessories,Belts,StyleNova,SKU-73469,StyleNova Belts,1,1714.57,0.05,1628.84
+ORD-202511-24021,2025-11-17,CUST-3219,Vihaan Kumar,Mumbai,Men's Clothing,Jackets,CottonCraft,SKU-61864,CottonCraft Jackets,2,6280.69,0.15,10677.17
+ORD-202508-87908,2025-08-14,CUST-3230,Vihaan Singh,Pune,Footwear,Boots,Everyday Co.,SKU-89064,Everyday Co. Boots,1,8209.11,0.25,6156.83
+ORD-202507-92955,2025-07-23,CUST-9044,Nila Iyer,Hyderabad,Women's Clothing,Skirts,CottonCraft,SKU-52714,CottonCraft Skirts,4,3126.05,0.25,9378.15
+ORD-202507-81516,2025-07-06,CUST-3947,Rohan Kumar,Coimbatore,Accessories,Watches,Everyday Co.,SKU-70505,Everyday Co. Watches,1,5768.35,0.2,4614.68
+ORD-202512-98208,2025-12-21,CUST-9180,Ishaan Patel,Delhi,Women's Clothing,Skirts,Everyday Co.,SKU-41722,Everyday Co. Skirts,1,8522.54,0.15,7244.16
+ORD-202507-86315,2025-07-13,CUST-7566,Rohan Nair,Coimbatore,Footwear,Formal Shoes,LuxeLane,SKU-81256,LuxeLane Formal Shoes,1,9908.8,0.15,8422.48
+ORD-202511-96193,2025-11-01,CUST-6816,Ishaan Kumar,Jaipur,Men's Clothing,Jackets,LuxeLane,SKU-83822,LuxeLane Jackets,2,1123.32,0.05,2134.31
+ORD-202502-77999,2025-02-24,CUST-4621,Kavya Singh,Coimbatore,Accessories,Watches,Everyday Co.,SKU-61266,Everyday Co. Watches,1,2808.76,0.2,2247.01
+ORD-202503-48722,2025-03-19,CUST-7815,Diya Sharma,Jaipur,Accessories,Hats,LuxeLane,SKU-28569,LuxeLane Hats,1,537.26,0.0,537.26
+ORD-202504-67431,2025-04-16,CUST-8412,Meera Sharma,Kochi,Footwear,Sandals,CottonCraft,SKU-49356,CottonCraft Sandals,2,3677.51,0.0,7355.02
+ORD-202511-41970,2025-11-28,CUST-9454,Ishaan Reddy,Pune,Men's Clothing,T-Shirts,UrbanThread,SKU-53383,UrbanThread T-Shirts,1,8059.49,0.25,6044.62
+ORD-202507-66640,2025-07-27,CUST-7481,Aarav Iyer,Mumbai,Activewear,Running Tops,TrendHouse,SKU-68926,TrendHouse Running Tops,2,2106.95,0.25,3160.42
+ORD-202512-18200,2025-12-27,CUST-2667,Rohan Reddy,Chennai,Activewear,Running Tops,TrendHouse,SKU-57945,TrendHouse Running Tops,1,2998.94,0.25,2249.2
+ORD-202505-51078,2025-05-15,CUST-7367,Nila Nair,Bengaluru,Footwear,Formal Shoes,TrendHouse,SKU-86939,TrendHouse Formal Shoes,2,5046.99,0.25,7570.48
+ORD-202511-90541,2025-11-13,CUST-2388,Ishaan Singh,Kochi,Men's Clothing,Jackets,CottonCraft,SKU-25448,CottonCraft Jackets,1,6832.81,0.1,6149.53
+ORD-202507-88174,2025-07-11,CUST-3258,Nila Nair,Hyderabad,Women's Clothing,Jeans,UrbanThread,SKU-65448,UrbanThread Jeans,2,5254.0,0.15,8931.8
+ORD-202512-82733,2025-12-22,CUST-3733,Kavya Patel,Jaipur,Women's Clothing,Skirts,LuxeLane,SKU-28388,LuxeLane Skirts,4,9326.74,0.05,35441.61
+ORD-202511-73518,2025-11-14,CUST-3236,Ananya Nair,Kochi,Women's Clothing,Jeans,Everyday Co.,SKU-83607,Everyday Co. Jeans,1,3781.68,0.0,3781.68
+ORD-202508-20835,2025-08-01,CUST-1505,Ananya Patel,Kochi,Activewear,Running Tops,TrendHouse,SKU-14285,TrendHouse Running Tops,2,4604.36,0.05,8748.28
+ORD-202503-82053,2025-03-28,CUST-9369,Diya Sharma,Delhi,Footwear,Formal Shoes,FlexWear,SKU-45112,FlexWear Formal Shoes,3,5785.81,0.15,14753.82
+ORD-202508-95678,2025-08-14,CUST-5055,Vihaan Kumar,Chennai,Activewear,Track Pants,FlexWear,SKU-68947,FlexWear Track Pants,2,9899.82,0.0,19799.64
+ORD-202508-37509,2025-08-13,CUST-6744,Nila Nair,Bengaluru,Footwear,Sandals,Everyday Co.,SKU-31755,Everyday Co. Sandals,3,1437.64,0.05,4097.27
+ORD-202504-46842,2025-04-16,CUST-9827,Ishaan Singh,Mumbai,Activewear,Sports Bras,Everyday Co.,SKU-48356,Everyday Co. Sports Bras,3,5828.72,0.2,13988.93
+ORD-202512-17770,2025-12-14,CUST-5543,Ishaan Reddy,Jaipur,Footwear,Sandals,Everyday Co.,SKU-42725,Everyday Co. Sandals,3,1614.21,0.15,4116.24
+ORD-202512-45221,2025-12-13,CUST-7786,Arjun Das,Mumbai,Women's Clothing,Jeans,Everyday Co.,SKU-19898,Everyday Co. Jeans,1,1678.06,0.25,1258.55
+ORD-202512-52898,2025-12-22,CUST-1040,Diya Das,Delhi,Men's Clothing,Shirts,FlexWear,SKU-93209,FlexWear Shirts,4,3878.99,0.15,13188.57
+ORD-202507-74843,2025-07-23,CUST-5399,Meera Patel,Jaipur,Footwear,Sneakers,Everyday Co.,SKU-54270,Everyday Co. Sneakers,1,4466.54,0.05,4243.21
+ORD-202506-23051,2025-06-25,CUST-8529,Aarav Sharma,Kochi,Activewear,Sports Bras,FlexWear,SKU-30707,FlexWear Sports Bras,3,7692.86,0.0,23078.58
+ORD-202504-49566,2025-04-14,CUST-3604,Vihaan Sharma,Coimbatore,Accessories,Sunglasses,UrbanThread,SKU-95798,UrbanThread Sunglasses,5,9120.25,0.25,34200.94
+ORD-202512-91999,2025-12-07,CUST-6005,Ananya Nair,Pune,Footwear,Sandals,UrbanThread,SKU-95915,UrbanThread Sandals,4,1904.59,0.15,6475.61
+ORD-202509-99126,2025-09-02,CUST-8291,Aarav Kumar,Mumbai,Men's Clothing,T-Shirts,UrbanThread,SKU-55032,UrbanThread T-Shirts,1,6057.69,0.2,4846.15
+ORD-202509-23425,2025-09-02,CUST-2690,Meera Singh,Hyderabad,Men's Clothing,Shirts,LuxeLane,SKU-49223,LuxeLane Shirts,1,4014.78,0.25,3011.09
+ORD-202511-83831,2025-11-25,CUST-1138,Nila Reddy,Hyderabad,Women's Clothing,Skirts,Everyday Co.,SKU-67684,Everyday Co. Skirts,5,1684.67,0.2,6738.68
+ORD-202507-21362,2025-07-30,CUST-2646,Ishaan Sharma,Hyderabad,Footwear,Formal Shoes,LuxeLane,SKU-87276,LuxeLane Formal Shoes,2,4590.12,0.05,8721.23
+ORD-202503-82534,2025-03-13,CUST-5668,Aarav Patel,Pune,Accessories,Watches,TrendHouse,SKU-36928,TrendHouse Watches,1,6551.82,0.05,6224.23
+ORD-202506-74865,2025-06-01,CUST-7322,Diya Iyer,Coimbatore,Activewear,Sports Bras,LuxeLane,SKU-75481,LuxeLane Sports Bras,2,7901.88,0.05,15013.57
+ORD-202507-65163,2025-07-04,CUST-6986,Rohan Reddy,Chennai,Activewear,Leggings,FlexWear,SKU-71736,FlexWear Leggings,4,1579.23,0.2,5053.54
+ORD-202501-62163,2025-01-08,CUST-9300,Vihaan Nair,Bengaluru,Men's Clothing,T-Shirts,FlexWear,SKU-65518,FlexWear T-Shirts,1,685.32,0.0,685.32
+ORD-202510-20357,2025-10-03,CUST-9377,Ananya Reddy,Jaipur,Accessories,Bags,LuxeLane,SKU-80305,LuxeLane Bags,2,2990.44,0.1,5382.79
+ORD-202506-17589,2025-06-08,CUST-5005,Diya Nair,Bengaluru,Footwear,Boots,FlexWear,SKU-25202,FlexWear Boots,2,7379.6,0.05,14021.24
+ORD-202506-25655,2025-06-08,CUST-1207,Ishaan Kumar,Chennai,Accessories,Hats,FlexWear,SKU-31473,FlexWear Hats,2,6682.11,0.05,12696.01
+ORD-202505-25473,2025-05-13,CUST-1480,Meera Nair,Jaipur,Accessories,Watches,FlexWear,SKU-45649,FlexWear Watches,1,1530.23,0.1,1377.21
+ORD-202511-17266,2025-11-18,CUST-9185,Nila Reddy,Ahmedabad,Activewear,Leggings,CottonCraft,SKU-58193,CottonCraft Leggings,1,4714.42,0.1,4242.98
+ORD-202510-76692,2025-10-21,CUST-1042,Aarav Kumar,Bengaluru,Women's Clothing,Jeans,Everyday Co.,SKU-42053,Everyday Co. Jeans,2,1417.74,0.25,2126.61
+ORD-202503-82465,2025-03-18,CUST-7870,Ananya Singh,Coimbatore,Men's Clothing,Shirts,CottonCraft,SKU-42540,CottonCraft Shirts,1,9614.32,0.0,9614.32
+ORD-202510-33507,2025-10-20,CUST-4656,Rohan Kumar,Bengaluru,Accessories,Watches,CottonCraft,SKU-62550,CottonCraft Watches,1,5168.8,0.0,5168.8
+ORD-202506-58354,2025-06-09,CUST-4287,Vihaan Patel,Delhi,Men's Clothing,Shirts,Everyday Co.,SKU-91620,Everyday Co. Shirts,1,5663.99,0.0,5663.99
+ORD-202509-81638,2025-09-10,CUST-5016,Ishaan Kumar,Ahmedabad,Women's Clothing,Skirts,CottonCraft,SKU-63744,CottonCraft Skirts,5,7825.09,0.25,29344.09
+ORD-202511-10191,2025-11-22,CUST-7164,Vihaan Sharma,Pune,Men's Clothing,Jeans,FlexWear,SKU-36895,FlexWear Jeans,3,8807.83,0.1,23781.14
+ORD-202501-22193,2025-01-31,CUST-1719,Ananya Nair,Kochi,Activewear,Sports Bras,TrendHouse,SKU-58823,TrendHouse Sports Bras,5,1680.02,0.1,7560.09
+ORD-202509-87580,2025-09-16,CUST-2020,Arjun Reddy,Bengaluru,Accessories,Bags,FlexWear,SKU-41034,FlexWear Bags,1,8252.64,0.0,8252.64
+ORD-202507-69343,2025-07-21,CUST-5455,Ananya Sharma,Pune,Footwear,Sandals,Everyday Co.,SKU-36569,Everyday Co. Sandals,2,7431.92,0.1,13377.46
+ORD-202502-25825,2025-02-24,CUST-9780,Meera Iyer,Hyderabad,Women's Clothing,Jackets,UrbanThread,SKU-69233,UrbanThread Jackets,1,4819.73,0.15,4096.77
+ORD-202502-89076,2025-02-16,CUST-1660,Ananya Singh,Bengaluru,Footwear,Boots,CottonCraft,SKU-29441,CottonCraft Boots,1,6953.73,0.25,5215.3
+ORD-202509-14073,2025-09-20,CUST-7625,Kavya Iyer,Coimbatore,Men's Clothing,Jeans,CottonCraft,SKU-22415,CottonCraft Jeans,1,3197.75,0.05,3037.86
+ORD-202503-27133,2025-03-04,CUST-4246,Arjun Singh,Hyderabad,Accessories,Bags,Everyday Co.,SKU-99952,Everyday Co. Bags,1,8353.61,0.05,7935.93
+ORD-202502-68121,2025-02-08,CUST-3110,Diya Singh,Delhi,Men's Clothing,Shorts,FlexWear,SKU-26059,FlexWear Shorts,1,924.38,0.25,693.28
+ORD-202510-13864,2025-10-21,CUST-7270,Arjun Reddy,Hyderabad,Men's Clothing,Shirts,UrbanThread,SKU-56392,UrbanThread Shirts,1,7325.98,0.15,6227.08
+ORD-202508-90868,2025-08-17,CUST-5026,Vihaan Das,Delhi,Women's Clothing,Tops,CottonCraft,SKU-64000,CottonCraft Tops,3,635.1,0.2,1524.24
+ORD-202505-78919,2025-05-24,CUST-5082,Rohan Kumar,Bengaluru,Activewear,Running Tops,UrbanThread,SKU-60134,UrbanThread Running Tops,1,4365.58,0.25,3274.18
+ORD-202506-45446,2025-06-26,CUST-3946,Aarav Singh,Kochi,Footwear,Boots,FlexWear,SKU-88265,FlexWear Boots,4,5172.21,0.15,17585.51
+ORD-202501-86544,2025-01-30,CUST-4813,Ishaan Sharma,Delhi,Women's Clothing,Dresses,Everyday Co.,SKU-42487,Everyday Co. Dresses,3,4874.34,0.1,13160.72
+ORD-202504-56504,2025-04-23,CUST-3846,Ishaan Iyer,Chennai,Women's Clothing,Jeans,FlexWear,SKU-87662,FlexWear Jeans,2,9830.85,0.15,16712.44
+ORD-202512-28625,2025-12-27,CUST-4084,Kavya Patel,Chennai,Footwear,Sandals,FlexWear,SKU-33010,FlexWear Sandals,2,9490.32,0.2,15184.51
+ORD-202504-10089,2025-04-30,CUST-6435,Nila Iyer,Chennai,Accessories,Bags,UrbanThread,SKU-27103,UrbanThread Bags,2,492.3,0.15,836.91
+ORD-202501-24538,2025-01-31,CUST-9622,Meera Sharma,Pune,Footwear,Formal Shoes,Everyday Co.,SKU-58967,Everyday Co. Formal Shoes,1,5989.11,0.05,5689.65
+ORD-202506-67261,2025-06-04,CUST-8982,Meera Reddy,Pune,Accessories,Hats,UrbanThread,SKU-83659,UrbanThread Hats,1,9764.85,0.25,7323.64
+ORD-202503-26691,2025-03-31,CUST-3911,Aarav Nair,Ahmedabad,Activewear,Track Pants,StyleNova,SKU-84381,StyleNova Track Pants,1,7418.75,0.1,6676.88
+ORD-202511-28434,2025-11-10,CUST-6425,Diya Iyer,Pune,Men's Clothing,Jeans,FlexWear,SKU-55457,FlexWear Jeans,1,5784.84,0.15,4917.11
+ORD-202512-68540,2025-12-29,CUST-1186,Vihaan Iyer,Bengaluru,Footwear,Formal Shoes,LuxeLane,SKU-42707,LuxeLane Formal Shoes,2,7373.07,0.1,13271.53
+ORD-202501-31802,2025-01-01,CUST-7783,Kavya Nair,Bengaluru,Men's Clothing,Jackets,CottonCraft,SKU-56036,CottonCraft Jackets,1,4549.74,0.15,3867.28
+ORD-202510-69151,2025-10-23,CUST-2207,Aarav Patel,Kochi,Activewear,Running Tops,UrbanThread,SKU-12631,UrbanThread Running Tops,2,6964.46,0.05,13232.47
+ORD-202506-19830,2025-06-25,CUST-9962,Diya Singh,Bengaluru,Footwear,Sandals,UrbanThread,SKU-87860,UrbanThread Sandals,1,3940.94,0.25,2955.7
+ORD-202508-30591,2025-08-09,CUST-1877,Diya Singh,Chennai,Activewear,Running Tops,LuxeLane,SKU-36941,LuxeLane Running Tops,4,1899.47,0.15,6458.2
+ORD-202510-22571,2025-10-04,CUST-1813,Arjun Das,Jaipur,Women's Clothing,Skirts,LuxeLane,SKU-30131,LuxeLane Skirts,1,3029.77,0.05,2878.28
+ORD-202502-72957,2025-02-14,CUST-4271,Diya Kumar,Coimbatore,Men's Clothing,Jackets,UrbanThread,SKU-37125,UrbanThread Jackets,1,6720.6,0.2,5376.48
+ORD-202503-96643,2025-03-01,CUST-5341,Diya Nair,Kochi,Women's Clothing,Jeans,UrbanThread,SKU-34232,UrbanThread Jeans,1,4154.43,0.15,3531.27
+ORD-202508-39654,2025-08-17,CUST-5400,Nila Kumar,Hyderabad,Footwear,Boots,CottonCraft,SKU-29808,CottonCraft Boots,1,4564.48,0.1,4108.03
+ORD-202510-82561,2025-10-05,CUST-1999,Arjun Nair,Pune,Men's Clothing,T-Shirts,LuxeLane,SKU-80190,LuxeLane T-Shirts,1,7636.63,0.05,7254.8
+ORD-202506-14551,2025-06-03,CUST-9226,Nila Reddy,Kochi,Accessories,Hats,StyleNova,SKU-25765,StyleNova Hats,1,9055.94,0.25,6791.95
+ORD-202504-67067,2025-04-09,CUST-4308,Ishaan Patel,Mumbai,Accessories,Belts,StyleNova,SKU-51910,StyleNova Belts,1,4405.74,0.25,3304.3
+ORD-202507-70051,2025-07-23,CUST-1202,Nila Nair,Jaipur,Men's Clothing,T-Shirts,TrendHouse,SKU-24748,TrendHouse T-Shirts,2,8608.25,0.2,13773.2
+ORD-202510-23845,2025-10-29,CUST-2654,Vihaan Singh,Ahmedabad,Accessories,Belts,StyleNova,SKU-63856,StyleNova Belts,2,9657.87,0.0,19315.74
+ORD-202510-62818,2025-10-20,CUST-3356,Nila Nair,Kochi,Footwear,Boots,LuxeLane,SKU-15083,LuxeLane Boots,2,662.42,0.1,1192.36
+ORD-202501-12651,2025-01-26,CUST-6535,Vihaan Patel,Mumbai,Accessories,Watches,LuxeLane,SKU-46745,LuxeLane Watches,2,9231.1,0.1,16615.98
+ORD-202503-45313,2025-03-10,CUST-7828,Nila Sharma,Mumbai,Accessories,Bags,Everyday Co.,SKU-34633,Everyday Co. Bags,1,7513.12,0.1,6761.81
+ORD-202509-77537,2025-09-06,CUST-3604,Diya Patel,Coimbatore,Accessories,Belts,Everyday Co.,SKU-76426,Everyday Co. Belts,3,8710.73,0.0,26132.19
+ORD-202510-17553,2025-10-19,CUST-5087,Aarav Das,Jaipur,Accessories,Belts,Everyday Co.,SKU-16626,Everyday Co. Belts,1,2168.81,0.05,2060.37
+ORD-202508-99282,2025-08-26,CUST-1500,Ananya Singh,Pune,Footwear,Formal Shoes,CottonCraft,SKU-74066,CottonCraft Formal Shoes,2,6462.48,0.0,12924.96
+ORD-202510-21847,2025-10-28,CUST-5670,Aarav Nair,Kochi,Activewear,Running Tops,StyleNova,SKU-16507,StyleNova Running Tops,2,3638.22,0.1,6548.8
+ORD-202504-95404,2025-04-24,CUST-7709,Rohan Kumar,Mumbai,Women's Clothing,Jackets,Everyday Co.,SKU-99417,Everyday Co. Jackets,2,6872.64,0.1,12370.75
+ORD-202511-50037,2025-11-04,CUST-5511,Arjun Nair,Hyderabad,Men's Clothing,Shirts,StyleNova,SKU-55706,StyleNova Shirts,3,2469.57,0.2,5926.97
+ORD-202506-86609,2025-06-04,CUST-2676,Aarav Singh,Kochi,Accessories,Watches,StyleNova,SKU-83591,StyleNova Watches,2,8294.81,0.15,14101.18
+ORD-202509-52616,2025-09-04,CUST-5536,Vihaan Patel,Bengaluru,Activewear,Track Pants,CottonCraft,SKU-34688,CottonCraft Track Pants,1,9886.1,0.25,7414.58
+ORD-202501-62965,2025-01-30,CUST-6236,Ishaan Kumar,Mumbai,Women's Clothing,Jackets,Everyday Co.,SKU-95904,Everyday Co. Jackets,3,8081.93,0.2,19396.63
+ORD-202507-84978,2025-07-27,CUST-4111,Meera Iyer,Coimbatore,Accessories,Watches,CottonCraft,SKU-99957,CottonCraft Watches,1,641.59,0.25,481.19
+ORD-202509-83170,2025-09-17,CUST-3967,Vihaan Sharma,Pune,Activewear,Running Tops,LuxeLane,SKU-71706,LuxeLane Running Tops,1,1947.87,0.25,1460.9
+ORD-202504-21704,2025-04-04,CUST-4641,Meera Iyer,Jaipur,Women's Clothing,Jeans,LuxeLane,SKU-50250,LuxeLane Jeans,4,9025.03,0.25,27075.09
+ORD-202510-17035,2025-10-27,CUST-2166,Kavya Iyer,Delhi,Accessories,Watches,CottonCraft,SKU-75598,CottonCraft Watches,1,8555.77,0.15,7272.4
+ORD-202507-36253,2025-07-31,CUST-6614,Arjun Das,Delhi,Men's Clothing,Shirts,FlexWear,SKU-28772,FlexWear Shirts,1,8585.13,0.05,8155.87
+ORD-202509-93165,2025-09-07,CUST-1950,Aarav Das,Bengaluru,Footwear,Formal Shoes,Everyday Co.,SKU-45851,Everyday Co. Formal Shoes,1,9869.41,0.1,8882.47
+ORD-202509-90541,2025-09-08,CUST-8105,Arjun Nair,Hyderabad,Women's Clothing,Tops,FlexWear,SKU-66233,FlexWear Tops,3,7862.6,0.05,22408.41
+ORD-202510-52233,2025-10-01,CUST-9700,Ananya Kumar,Chennai,Accessories,Sunglasses,UrbanThread,SKU-98702,UrbanThread Sunglasses,1,3918.08,0.0,3918.08
+ORD-202506-50123,2025-06-09,CUST-3736,Diya Kumar,Pune,Men's Clothing,Jeans,StyleNova,SKU-49085,StyleNova Jeans,1,4019.44,0.2,3215.55
+ORD-202511-27536,2025-11-02,CUST-6615,Kavya Singh,Jaipur,Footwear,Boots,LuxeLane,SKU-34697,LuxeLane Boots,2,4505.55,0.25,6758.33
+ORD-202504-12872,2025-04-25,CUST-9267,Ishaan Sharma,Mumbai,Women's Clothing,Skirts,UrbanThread,SKU-58049,UrbanThread Skirts,2,1571.7,0.25,2357.55
+ORD-202510-96765,2025-10-01,CUST-2771,Aarav Kumar,Delhi,Men's Clothing,Shirts,LuxeLane,SKU-25176,LuxeLane Shirts,2,6060.06,0.0,12120.12
+ORD-202510-99881,2025-10-08,CUST-1152,Vihaan Nair,Bengaluru,Accessories,Sunglasses,TrendHouse,SKU-96725,TrendHouse Sunglasses,1,7107.12,0.05,6751.76
+ORD-202511-77054,2025-11-07,CUST-2928,Vihaan Sharma,Ahmedabad,Men's Clothing,Shorts,CottonCraft,SKU-23928,CottonCraft Shorts,2,4361.61,0.0,8723.22
+ORD-202505-63707,2025-05-15,CUST-5839,Ishaan Kumar,Mumbai,Accessories,Belts,FlexWear,SKU-81845,FlexWear Belts,3,9738.26,0.1,26293.3
+ORD-202506-24474,2025-06-19,CUST-9095,Ishaan Sharma,Kochi,Accessories,Belts,LuxeLane,SKU-77070,LuxeLane Belts,1,422.67,0.0,422.67
+ORD-202508-16564,2025-08-22,CUST-2635,Ishaan Kumar,Mumbai,Men's Clothing,T-Shirts,CottonCraft,SKU-48085,CottonCraft T-Shirts,5,3170.42,0.15,13474.28
+ORD-202502-28139,2025-02-18,CUST-3793,Meera Singh,Bengaluru,Footwear,Sandals,TrendHouse,SKU-67372,TrendHouse Sandals,3,8934.83,0.0,26804.49
+ORD-202507-62461,2025-07-10,CUST-8479,Vihaan Nair,Bengaluru,Activewear,Track Pants,LuxeLane,SKU-72684,LuxeLane Track Pants,3,2072.83,0.15,5285.72
+ORD-202512-23593,2025-12-23,CUST-7816,Nila Das,Hyderabad,Accessories,Belts,UrbanThread,SKU-84572,UrbanThread Belts,2,9820.22,0.05,18658.42
+ORD-202507-27125,2025-07-03,CUST-8914,Kavya Sharma,Coimbatore,Accessories,Belts,FlexWear,SKU-63907,FlexWear Belts,2,8665.99,0.25,12998.99
+ORD-202512-78788,2025-12-02,CUST-4669,Meera Sharma,Delhi,Accessories,Bags,UrbanThread,SKU-66734,UrbanThread Bags,1,7133.31,0.25,5349.98
+ORD-202503-17152,2025-03-18,CUST-1190,Ishaan Das,Coimbatore,Women's Clothing,Skirts,CottonCraft,SKU-74990,CottonCraft Skirts,3,5714.94,0.2,13715.86
+ORD-202506-76444,2025-06-14,CUST-4648,Rohan Nair,Kochi,Women's Clothing,Dresses,Everyday Co.,SKU-62858,Everyday Co. Dresses,1,9709.41,0.0,9709.41
+ORD-202510-51426,2025-10-21,CUST-2944,Kavya Kumar,Kochi,Women's Clothing,Dresses,TrendHouse,SKU-23453,TrendHouse Dresses,1,8607.92,0.15,7316.73
+ORD-202510-91142,2025-10-09,CUST-5990,Rohan Iyer,Jaipur,Accessories,Sunglasses,UrbanThread,SKU-95799,UrbanThread Sunglasses,1,1180.69,0.2,944.55
+ORD-202504-88636,2025-04-25,CUST-8751,Meera Das,Chennai,Accessories,Watches,CottonCraft,SKU-24945,CottonCraft Watches,3,3519.13,0.2,8445.91
+ORD-202507-81786,2025-07-01,CUST-9552,Meera Sharma,Pune,Men's Clothing,Jeans,UrbanThread,SKU-16000,UrbanThread Jeans,3,9654.01,0.1,26065.83
+ORD-202502-61497,2025-02-24,CUST-4532,Kavya Iyer,Coimbatore,Women's Clothing,Skirts,StyleNova,SKU-54293,StyleNova Skirts,1,2199.44,0.0,2199.44
+ORD-202503-87242,2025-03-05,CUST-9260,Ishaan Das,Ahmedabad,Men's Clothing,Shirts,UrbanThread,SKU-10568,UrbanThread Shirts,3,4668.89,0.25,10505.0
+ORD-202510-85832,2025-10-27,CUST-3845,Ishaan Sharma,Coimbatore,Activewear,Leggings,FlexWear,SKU-60778,FlexWear Leggings,2,5229.83,0.05,9936.68
+ORD-202508-45860,2025-08-03,CUST-7518,Meera Patel,Coimbatore,Activewear,Track Pants,FlexWear,SKU-69355,FlexWear Track Pants,5,9183.33,0.05,43620.82
+ORD-202512-81802,2025-12-25,CUST-6143,Rohan Iyer,Ahmedabad,Women's Clothing,Tops,TrendHouse,SKU-36330,TrendHouse Tops,3,5268.26,0.25,11853.59
+ORD-202512-95208,2025-12-18,CUST-3913,Rohan Singh,Delhi,Women's Clothing,Jackets,LuxeLane,SKU-25126,LuxeLane Jackets,1,6821.03,0.25,5115.77
+ORD-202512-47477,2025-12-08,CUST-7920,Aarav Sharma,Ahmedabad,Footwear,Boots,FlexWear,SKU-13312,FlexWear Boots,2,6839.16,0.2,10942.66
+ORD-202504-99573,2025-04-13,CUST-5105,Ishaan Kumar,Chennai,Accessories,Belts,UrbanThread,SKU-48684,UrbanThread Belts,1,7918.66,0.1,7126.79
+ORD-202508-83647,2025-08-20,CUST-4675,Rohan Nair,Pune,Women's Clothing,Jackets,UrbanThread,SKU-41142,UrbanThread Jackets,1,8718.94,0.25,6539.2
+ORD-202507-50980,2025-07-15,CUST-1881,Aarav Patel,Chennai,Activewear,Track Pants,LuxeLane,SKU-36619,LuxeLane Track Pants,1,9579.01,0.25,7184.26
+ORD-202511-81645,2025-11-21,CUST-4218,Ananya Patel,Mumbai,Activewear,Running Tops,Everyday Co.,SKU-68827,Everyday Co. Running Tops,2,6581.03,0.2,10529.65
+ORD-202509-82954,2025-09-21,CUST-5329,Ishaan Reddy,Hyderabad,Women's Clothing,Dresses,StyleNova,SKU-86544,StyleNova Dresses,1,693.15,0.1,623.84
+ORD-202512-88234,2025-12-30,CUST-1833,Nila Patel,Kochi,Footwear,Sneakers,CottonCraft,SKU-74297,CottonCraft Sneakers,4,686.42,0.1,2471.11
+ORD-202509-76209,2025-09-27,CUST-3611,Arjun Nair,Pune,Activewear,Track Pants,UrbanThread,SKU-22051,UrbanThread Track Pants,1,2082.53,0.0,2082.53
+ORD-202506-79533,2025-06-19,CUST-8780,Rohan Kumar,Pune,Footwear,Formal Shoes,StyleNova,SKU-25036,StyleNova Formal Shoes,1,2417.92,0.2,1934.34
+ORD-202511-59987,2025-11-15,CUST-2857,Arjun Patel,Ahmedabad,Footwear,Boots,StyleNova,SKU-80809,StyleNova Boots,1,685.81,0.1,617.23
+ORD-202509-48854,2025-09-21,CUST-4154,Meera Sharma,Pune,Footwear,Sneakers,FlexWear,SKU-22577,FlexWear Sneakers,3,4620.9,0.0,13862.7
+ORD-202511-99837,2025-11-17,CUST-7950,Diya Iyer,Chennai,Women's Clothing,Jackets,FlexWear,SKU-80484,FlexWear Jackets,1,6801.25,0.05,6461.19
+ORD-202501-19600,2025-01-13,CUST-1889,Ishaan Patel,Hyderabad,Accessories,Bags,LuxeLane,SKU-83149,LuxeLane Bags,2,3516.64,0.0,7033.28
+ORD-202505-66757,2025-05-13,CUST-6183,Aarav Nair,Mumbai,Men's Clothing,Shorts,Everyday Co.,SKU-98250,Everyday Co. Shorts,1,4674.92,0.15,3973.68
+ORD-202502-19514,2025-02-02,CUST-6860,Rohan Sharma,Ahmedabad,Men's Clothing,Shorts,UrbanThread,SKU-47989,UrbanThread Shorts,3,5979.4,0.25,13453.65
+ORD-202507-30489,2025-07-15,CUST-9740,Ananya Reddy,Kochi,Footwear,Sneakers,CottonCraft,SKU-61248,CottonCraft Sneakers,1,6708.01,0.15,5701.81
+ORD-202506-94926,2025-06-02,CUST-7113,Aarav Reddy,Hyderabad,Activewear,Track Pants,LuxeLane,SKU-26152,LuxeLane Track Pants,2,9166.44,0.25,13749.66
+ORD-202507-37532,2025-07-21,CUST-6633,Ananya Nair,Ahmedabad,Men's Clothing,T-Shirts,FlexWear,SKU-94663,FlexWear T-Shirts,2,9484.7,0.1,17072.46
+ORD-202504-33770,2025-04-24,CUST-1891,Rohan Das,Hyderabad,Activewear,Sports Bras,StyleNova,SKU-94498,StyleNova Sports Bras,2,2750.6,0.0,5501.2
+ORD-202505-53365,2025-05-09,CUST-6851,Ishaan Iyer,Bengaluru,Activewear,Leggings,CottonCraft,SKU-23113,CottonCraft Leggings,1,7337.22,0.15,6236.64
+ORD-202509-86568,2025-09-06,CUST-3496,Nila Singh,Pune,Footwear,Sneakers,StyleNova,SKU-51462,StyleNova Sneakers,2,6277.52,0.1,11299.54
+ORD-202505-67163,2025-05-07,CUST-5533,Meera Reddy,Pune,Accessories,Belts,UrbanThread,SKU-99073,UrbanThread Belts,3,7207.33,0.25,16216.49
+ORD-202507-33038,2025-07-03,CUST-2343,Vihaan Reddy,Kochi,Footwear,Boots,TrendHouse,SKU-80597,TrendHouse Boots,3,5022.62,0.0,15067.86
+ORD-202502-14088,2025-02-08,CUST-7637,Nila Iyer,Bengaluru,Women's Clothing,Jeans,LuxeLane,SKU-14804,LuxeLane Jeans,3,8540.0,0.25,19215.0
+ORD-202508-39269,2025-08-30,CUST-5767,Ishaan Das,Jaipur,Activewear,Track Pants,FlexWear,SKU-75683,FlexWear Track Pants,2,1740.74,0.15,2959.26
+ORD-202509-99674,2025-09-15,CUST-3717,Rohan Reddy,Pune,Activewear,Leggings,TrendHouse,SKU-68487,TrendHouse Leggings,1,2616.14,0.2,2092.91
+ORD-202512-73373,2025-12-04,CUST-6878,Aarav Iyer,Ahmedabad,Women's Clothing,Tops,FlexWear,SKU-73916,FlexWear Tops,3,1717.13,0.25,3863.54
+ORD-202504-60868,2025-04-30,CUST-8695,Kavya Kumar,Pune,Women's Clothing,Dresses,CottonCraft,SKU-15230,CottonCraft Dresses,1,2304.71,0.1,2074.24
+ORD-202511-85842,2025-11-21,CUST-9918,Nila Reddy,Jaipur,Footwear,Sneakers,LuxeLane,SKU-59369,LuxeLane Sneakers,3,8397.26,0.1,22672.6
+ORD-202509-77681,2025-09-22,CUST-7649,Meera Singh,Bengaluru,Accessories,Watches,FlexWear,SKU-73813,FlexWear Watches,1,9733.94,0.05,9247.24
+ORD-202503-94341,2025-03-13,CUST-5600,Ananya Reddy,Jaipur,Accessories,Hats,UrbanThread,SKU-34498,UrbanThread Hats,1,2529.91,0.2,2023.93
+ORD-202512-24855,2025-12-05,CUST-8889,Kavya Das,Bengaluru,Women's Clothing,Jeans,FlexWear,SKU-37617,FlexWear Jeans,1,8167.37,0.25,6125.53
+ORD-202501-31119,2025-01-12,CUST-3207,Rohan Kumar,Coimbatore,Activewear,Sports Bras,LuxeLane,SKU-85008,LuxeLane Sports Bras,1,1539.49,0.2,1231.59
+ORD-202504-93574,2025-04-03,CUST-1305,Vihaan Sharma,Delhi,Women's Clothing,Dresses,StyleNova,SKU-38389,StyleNova Dresses,2,4231.93,0.2,6771.09
+ORD-202503-86368,2025-03-29,CUST-3979,Nila Patel,Kochi,Accessories,Hats,TrendHouse,SKU-31983,TrendHouse Hats,1,4283.44,0.05,4069.27
+ORD-202502-12170,2025-02-05,CUST-4315,Rohan Nair,Ahmedabad,Footwear,Boots,FlexWear,SKU-29603,FlexWear Boots,1,4037.98,0.0,4037.98
+ORD-202511-75972,2025-11-11,CUST-2925,Diya Das,Kochi,Activewear,Leggings,StyleNova,SKU-96427,StyleNova Leggings,2,8813.2,0.2,14101.12
+ORD-202512-15693,2025-12-14,CUST-9680,Arjun Iyer,Chennai,Women's Clothing,Jackets,FlexWear,SKU-73192,FlexWear Jackets,2,5362.83,0.1,9653.09
+ORD-202502-20986,2025-02-20,CUST-5641,Nila Nair,Ahmedabad,Accessories,Watches,FlexWear,SKU-43791,FlexWear Watches,1,2767.82,0.05,2629.43
+ORD-202510-95792,2025-10-23,CUST-4365,Meera Nair,Chennai,Women's Clothing,Dresses,LuxeLane,SKU-57483,LuxeLane Dresses,2,5340.69,0.15,9079.17
+ORD-202505-57925,2025-05-10,CUST-5514,Arjun Iyer,Ahmedabad,Men's Clothing,Jeans,TrendHouse,SKU-64162,TrendHouse Jeans,1,5499.22,0.2,4399.38
+ORD-202510-85713,2025-10-14,CUST-6641,Arjun Reddy,Pune,Activewear,Running Tops,StyleNova,SKU-96413,StyleNova Running Tops,2,2760.64,0.1,4969.15
+ORD-202502-82165,2025-02-21,CUST-1852,Ishaan Nair,Hyderabad,Men's Clothing,Jeans,TrendHouse,SKU-93345,TrendHouse Jeans,1,4184.44,0.1,3766.0
+ORD-202508-44483,2025-08-30,CUST-4633,Meera Sharma,Hyderabad,Men's Clothing,T-Shirts,Everyday Co.,SKU-89826,Everyday Co. T-Shirts,4,4522.16,0.0,18088.64
+ORD-202512-17531,2025-12-02,CUST-3871,Kavya Das,Ahmedabad,Men's Clothing,Shirts,TrendHouse,SKU-11403,TrendHouse Shirts,2,7201.58,0.2,11522.53
+ORD-202501-40365,2025-01-18,CUST-3776,Aarav Singh,Mumbai,Women's Clothing,Jackets,CottonCraft,SKU-41359,CottonCraft Jackets,3,5251.31,0.25,11815.45
+ORD-202507-36255,2025-07-24,CUST-9482,Aarav Sharma,Delhi,Men's Clothing,Jeans,UrbanThread,SKU-21818,UrbanThread Jeans,1,4131.89,0.2,3305.51
+ORD-202510-39661,2025-10-26,CUST-4187,Kavya Nair,Jaipur,Activewear,Track Pants,LuxeLane,SKU-85354,LuxeLane Track Pants,1,9642.89,0.1,8678.6
+ORD-202509-54560,2025-09-17,CUST-2917,Rohan Patel,Coimbatore,Men's Clothing,Jackets,StyleNova,SKU-80504,StyleNova Jackets,1,1001.14,0.1,901.03
+ORD-202507-70142,2025-07-13,CUST-8548,Nila Kumar,Kochi,Activewear,Track Pants,LuxeLane,SKU-73172,LuxeLane Track Pants,2,7767.68,0.1,13981.82
+ORD-202511-40137,2025-11-21,CUST-6172,Arjun Singh,Coimbatore,Men's Clothing,Jackets,UrbanThread,SKU-77699,UrbanThread Jackets,3,2436.71,0.25,5482.6
+ORD-202505-54825,2025-05-08,CUST-2245,Rohan Reddy,Delhi,Activewear,Leggings,LuxeLane,SKU-72463,LuxeLane Leggings,1,4168.63,0.25,3126.47
+ORD-202505-75404,2025-05-18,CUST-4271,Ananya Iyer,Ahmedabad,Footwear,Sandals,StyleNova,SKU-44787,StyleNova Sandals,1,7536.72,0.05,7159.88
+ORD-202511-20287,2025-11-13,CUST-9071,Nila Kumar,Mumbai,Women's Clothing,Tops,StyleNova,SKU-80972,StyleNova Tops,1,7854.7,0.0,7854.7
+ORD-202506-46009,2025-06-11,CUST-9041,Ishaan Patel,Ahmedabad,Men's Clothing,Shirts,CottonCraft,SKU-62150,CottonCraft Shirts,2,9857.0,0.2,15771.2
+ORD-202509-14268,2025-09-27,CUST-9232,Meera Nair,Chennai,Women's Clothing,Jackets,StyleNova,SKU-99959,StyleNova Jackets,3,4938.7,0.2,11852.88
+ORD-202508-37623,2025-08-24,CUST-7216,Nila Sharma,Jaipur,Women's Clothing,Skirts,UrbanThread,SKU-52655,UrbanThread Skirts,1,380.66,0.25,285.5
+ORD-202505-54970,2025-05-15,CUST-6995,Ishaan Das,Jaipur,Footwear,Sandals,StyleNova,SKU-65567,StyleNova Sandals,1,4871.05,0.2,3896.84
+ORD-202507-84895,2025-07-06,CUST-3148,Nila Iyer,Pune,Women's Clothing,Skirts,LuxeLane,SKU-23090,LuxeLane Skirts,3,3011.41,0.05,8582.52
+ORD-202507-29601,2025-07-15,CUST-8749,Aarav Reddy,Coimbatore,Footwear,Formal Shoes,FlexWear,SKU-65249,FlexWear Formal Shoes,1,8059.36,0.25,6044.52
+ORD-202510-42895,2025-10-01,CUST-1781,Arjun Sharma,Jaipur,Accessories,Belts,Everyday Co.,SKU-31409,Everyday Co. Belts,2,7916.73,0.1,14250.11
+ORD-202509-53864,2025-09-01,CUST-5256,Meera Singh,Delhi,Men's Clothing,Jeans,Everyday Co.,SKU-83446,Everyday Co. Jeans,3,1233.13,0.25,2774.54
+ORD-202507-36077,2025-07-30,CUST-9821,Ishaan Patel,Chennai,Activewear,Track Pants,CottonCraft,SKU-56544,CottonCraft Track Pants,1,8712.48,0.2,6969.98
+ORD-202502-28985,2025-02-10,CUST-3745,Meera Nair,Kochi,Footwear,Boots,Everyday Co.,SKU-92742,Everyday Co. Boots,1,3078.28,0.25,2308.71
+ORD-202502-95591,2025-02-10,CUST-5773,Vihaan Nair,Bengaluru,Activewear,Running Tops,Everyday Co.,SKU-45553,Everyday Co. Running Tops,1,2512.71,0.1,2261.44
+ORD-202509-13027,2025-09-24,CUST-3048,Ananya Patel,Ahmedabad,Accessories,Watches,LuxeLane,SKU-20494,LuxeLane Watches,4,4314.69,0.05,16395.82
+ORD-202502-17055,2025-02-18,CUST-1431,Arjun Sharma,Bengaluru,Women's Clothing,Tops,TrendHouse,SKU-23622,TrendHouse Tops,1,8822.3,0.2,7057.84
+ORD-202506-92114,2025-06-08,CUST-3071,Ishaan Reddy,Coimbatore,Footwear,Formal Shoes,UrbanThread,SKU-13744,UrbanThread Formal Shoes,1,7453.65,0.15,6335.6
+ORD-202509-81898,2025-09-01,CUST-8288,Ishaan Reddy,Pune,Men's Clothing,Jackets,Everyday Co.,SKU-87441,Everyday Co. Jackets,2,8746.71,0.1,15744.08
+ORD-202508-55504,2025-08-11,CUST-8891,Rohan Iyer,Ahmedabad,Activewear,Running Tops,LuxeLane,SKU-21738,LuxeLane Running Tops,2,6502.42,0.1,11704.36
+ORD-202505-27865,2025-05-14,CUST-6634,Vihaan Das,Coimbatore,Accessories,Watches,CottonCraft,SKU-80136,CottonCraft Watches,1,401.39,0.2,321.11
+ORD-202506-88250,2025-06-03,CUST-4788,Aarav Singh,Kochi,Men's Clothing,Shirts,Everyday Co.,SKU-34716,Everyday Co. Shirts,1,4474.22,0.1,4026.8
+ORD-202505-59592,2025-05-08,CUST-4614,Vihaan Sharma,Coimbatore,Accessories,Hats,TrendHouse,SKU-65343,TrendHouse Hats,1,7449.04,0.15,6331.68
+ORD-202512-79722,2025-12-22,CUST-5404,Arjun Iyer,Ahmedabad,Women's Clothing,Jackets,Everyday Co.,SKU-18973,Everyday Co. Jackets,2,3060.37,0.25,4590.56
+ORD-202511-91625,2025-11-23,CUST-9060,Ananya Singh,Bengaluru,Women's Clothing,Tops,CottonCraft,SKU-12542,CottonCraft Tops,2,4690.84,0.25,7036.26
+ORD-202504-67464,2025-04-06,CUST-1134,Ananya Sharma,Chennai,Women's Clothing,Dresses,FlexWear,SKU-29750,FlexWear Dresses,5,3035.51,0.05,14418.67
+ORD-202508-70776,2025-08-04,CUST-1519,Meera Sharma,Pune,Men's Clothing,Shirts,StyleNova,SKU-29148,StyleNova Shirts,1,8053.78,0.1,7248.4
+ORD-202502-60014,2025-02-06,CUST-1206,Diya Iyer,Coimbatore,Men's Clothing,Jackets,Everyday Co.,SKU-60436,Everyday Co. Jackets,2,2060.56,0.1,3709.01
+ORD-202504-97294,2025-04-12,CUST-4415,Kavya Nair,Chennai,Accessories,Belts,LuxeLane,SKU-99318,LuxeLane Belts,2,7777.66,0.2,12444.26
+ORD-202510-49166,2025-10-09,CUST-4255,Meera Kumar,Chennai,Footwear,Sandals,StyleNova,SKU-97385,StyleNova Sandals,2,2756.13,0.25,4134.19
+ORD-202506-25682,2025-06-16,CUST-7484,Ananya Kumar,Coimbatore,Women's Clothing,Dresses,StyleNova,SKU-15504,StyleNova Dresses,1,8004.59,0.2,6403.67
+ORD-202503-75525,2025-03-21,CUST-2497,Nila Singh,Ahmedabad,Activewear,Running Tops,LuxeLane,SKU-91937,LuxeLane Running Tops,1,1166.96,0.05,1108.61
+ORD-202512-40497,2025-12-26,CUST-6189,Rohan Singh,Hyderabad,Men's Clothing,T-Shirts,CottonCraft,SKU-67503,CottonCraft T-Shirts,2,1340.7,0.15,2279.19
+ORD-202507-73609,2025-07-03,CUST-8168,Rohan Patel,Coimbatore,Women's Clothing,Dresses,LuxeLane,SKU-81137,LuxeLane Dresses,2,2730.75,0.0,5461.5
+ORD-202510-88470,2025-10-06,CUST-3627,Diya Reddy,Hyderabad,Accessories,Belts,FlexWear,SKU-68901,FlexWear Belts,1,7403.3,0.1,6662.97
+ORD-202508-34318,2025-08-21,CUST-1306,Nila Singh,Pune,Footwear,Sandals,FlexWear,SKU-91290,FlexWear Sandals,1,6487.85,0.15,5514.67
+ORD-202512-78690,2025-12-04,CUST-9151,Rohan Reddy,Bengaluru,Women's Clothing,Jeans,LuxeLane,SKU-90352,LuxeLane Jeans,4,8243.78,0.05,31326.36
+ORD-202502-27009,2025-02-26,CUST-3926,Aarav Iyer,Pune,Footwear,Sandals,TrendHouse,SKU-24031,TrendHouse Sandals,1,6690.24,0.0,6690.24
+ORD-202510-78920,2025-10-20,CUST-5193,Aarav Singh,Chennai,Accessories,Belts,UrbanThread,SKU-38930,UrbanThread Belts,2,4068.41,0.15,6916.3
+ORD-202512-71349,2025-12-02,CUST-1994,Meera Nair,Mumbai,Activewear,Leggings,UrbanThread,SKU-58374,UrbanThread Leggings,2,8929.74,0.0,17859.48
+ORD-202501-38298,2025-01-21,CUST-9511,Diya Sharma,Jaipur,Men's Clothing,Shorts,CottonCraft,SKU-40279,CottonCraft Shorts,2,8393.23,0.0,16786.46
+ORD-202509-83193,2025-09-27,CUST-7802,Diya Singh,Mumbai,Activewear,Running Tops,StyleNova,SKU-98407,StyleNova Running Tops,2,5828.27,0.05,11073.71
+ORD-202504-30732,2025-04-03,CUST-9747,Nila Das,Hyderabad,Accessories,Sunglasses,UrbanThread,SKU-56179,UrbanThread Sunglasses,2,5194.52,0.25,7791.78
+ORD-202507-52395,2025-07-31,CUST-4943,Nila Iyer,Pune,Footwear,Sandals,Everyday Co.,SKU-59160,Everyday Co. Sandals,3,4475.7,0.25,10070.32
+ORD-202508-47287,2025-08-18,CUST-1267,Rohan Reddy,Kochi,Activewear,Track Pants,CottonCraft,SKU-49562,CottonCraft Track Pants,4,300.9,0.0,1203.6
+ORD-202506-46170,2025-06-11,CUST-9376,Rohan Reddy,Mumbai,Men's Clothing,Jackets,StyleNova,SKU-22358,StyleNova Jackets,1,8271.82,0.25,6203.86
+ORD-202503-40539,2025-03-12,CUST-5198,Vihaan Sharma,Hyderabad,Men's Clothing,Shirts,CottonCraft,SKU-84774,CottonCraft Shirts,1,8928.37,0.05,8481.95
+ORD-202506-85527,2025-06-16,CUST-2562,Nila Patel,Bengaluru,Accessories,Hats,StyleNova,SKU-14898,StyleNova Hats,3,1976.15,0.25,4446.34
+ORD-202506-25799,2025-06-21,CUST-4714,Nila Kumar,Chennai,Activewear,Running Tops,UrbanThread,SKU-93084,UrbanThread Running Tops,1,8225.27,0.15,6991.48
+ORD-202501-75850,2025-01-22,CUST-4617,Ishaan Kumar,Jaipur,Accessories,Bags,CottonCraft,SKU-98294,CottonCraft Bags,1,5778.66,0.1,5200.79
+ORD-202510-61684,2025-10-22,CUST-3425,Ishaan Singh,Ahmedabad,Accessories,Sunglasses,Everyday Co.,SKU-20819,Everyday Co. Sunglasses,2,2453.23,0.1,4415.81
+ORD-202510-66949,2025-10-08,CUST-3136,Ishaan Das,Chennai,Accessories,Hats,LuxeLane,SKU-83308,LuxeLane Hats,1,1124.27,0.2,899.42
+ORD-202504-42275,2025-04-11,CUST-4970,Diya Patel,Ahmedabad,Women's Clothing,Skirts,TrendHouse,SKU-66369,TrendHouse Skirts,2,9970.66,0.2,15953.06
+ORD-202508-87840,2025-08-05,CUST-1396,Vihaan Reddy,Coimbatore,Footwear,Sneakers,UrbanThread,SKU-55838,UrbanThread Sneakers,1,2146.75,0.1,1932.08
+ORD-202508-99831,2025-08-14,CUST-7124,Ishaan Sharma,Hyderabad,Activewear,Running Tops,FlexWear,SKU-24728,FlexWear Running Tops,1,8235.27,0.05,7823.51
+ORD-202505-49992,2025-05-28,CUST-8373,Kavya Kumar,Hyderabad,Men's Clothing,Jeans,FlexWear,SKU-53499,FlexWear Jeans,1,7028.81,0.0,7028.81
+ORD-202510-91663,2025-10-07,CUST-3315,Aarav Nair,Mumbai,Women's Clothing,Jackets,StyleNova,SKU-86415,StyleNova Jackets,2,2807.98,0.15,4773.57
+ORD-202501-45557,2025-01-31,CUST-1869,Kavya Kumar,Hyderabad,Activewear,Leggings,CottonCraft,SKU-18729,CottonCraft Leggings,1,7954.13,0.2,6363.3
+ORD-202502-60662,2025-02-25,CUST-4787,Arjun Sharma,Pune,Accessories,Watches,LuxeLane,SKU-51347,LuxeLane Watches,1,8712.88,0.25,6534.66
+ORD-202504-12816,2025-04-06,CUST-1651,Ananya Patel,Bengaluru,Accessories,Hats,FlexWear,SKU-53721,FlexWear Hats,1,9676.88,0.2,7741.5
+ORD-202501-49626,2025-01-10,CUST-4869,Rohan Patel,Hyderabad,Accessories,Sunglasses,LuxeLane,SKU-18127,LuxeLane Sunglasses,1,3712.56,0.25,2784.42
+ORD-202510-61491,2025-10-12,CUST-3248,Diya Nair,Chennai,Footwear,Boots,Everyday Co.,SKU-78251,Everyday Co. Boots,4,2487.15,0.1,8953.74
+ORD-202510-53160,2025-10-21,CUST-8359,Rohan Reddy,Mumbai,Activewear,Sports Bras,TrendHouse,SKU-37100,TrendHouse Sports Bras,1,9713.21,0.2,7770.57
+ORD-202503-27727,2025-03-12,CUST-8046,Ishaan Reddy,Mumbai,Women's Clothing,Jackets,FlexWear,SKU-51614,FlexWear Jackets,1,7138.82,0.2,5711.06
+ORD-202504-13864,2025-04-05,CUST-6221,Arjun Nair,Bengaluru,Men's Clothing,Shorts,FlexWear,SKU-49760,FlexWear Shorts,1,8831.49,0.25,6623.62
+ORD-202502-90864,2025-02-24,CUST-5372,Nila Iyer,Mumbai,Accessories,Watches,StyleNova,SKU-88166,StyleNova Watches,1,553.12,0.2,442.5
+ORD-202507-75840,2025-07-03,CUST-8680,Meera Reddy,Chennai,Women's Clothing,Tops,LuxeLane,SKU-60785,LuxeLane Tops,1,7863.31,0.05,7470.14
+ORD-202504-45370,2025-04-09,CUST-7767,Ananya Iyer,Hyderabad,Accessories,Sunglasses,StyleNova,SKU-36812,StyleNova Sunglasses,1,4262.31,0.0,4262.31
+ORD-202509-66040,2025-09-08,CUST-7633,Aarav Nair,Ahmedabad,Men's Clothing,Jeans,TrendHouse,SKU-51012,TrendHouse Jeans,2,8706.72,0.05,16542.77
+ORD-202511-15047,2025-11-01,CUST-9530,Diya Das,Ahmedabad,Accessories,Hats,LuxeLane,SKU-69886,LuxeLane Hats,2,6520.52,0.25,9780.78
+ORD-202507-77649,2025-07-22,CUST-1807,Ananya Patel,Jaipur,Men's Clothing,Jeans,FlexWear,SKU-67613,FlexWear Jeans,5,679.74,0.15,2888.89
+ORD-202508-77760,2025-08-25,CUST-3330,Kavya Das,Delhi,Accessories,Watches,Everyday Co.,SKU-21854,Everyday Co. Watches,1,3154.87,0.0,3154.87
+ORD-202512-69098,2025-12-23,CUST-1408,Ishaan Das,Ahmedabad,Activewear,Leggings,StyleNova,SKU-87373,StyleNova Leggings,2,4111.75,0.1,7401.15
+ORD-202506-26193,2025-06-15,CUST-2494,Diya Das,Delhi,Women's Clothing,Skirts,UrbanThread,SKU-93109,UrbanThread Skirts,2,9098.48,0.05,17287.11
+ORD-202509-59886,2025-09-19,CUST-1719,Ishaan Singh,Coimbatore,Footwear,Sneakers,FlexWear,SKU-84120,FlexWear Sneakers,2,1850.03,0.2,2960.05
+ORD-202504-50569,2025-04-02,CUST-8311,Vihaan Reddy,Hyderabad,Women's Clothing,Tops,Everyday Co.,SKU-25408,Everyday Co. Tops,3,796.71,0.1,2151.12
+ORD-202505-81237,2025-05-10,CUST-1094,Nila Das,Ahmedabad,Women's Clothing,Tops,UrbanThread,SKU-41179,UrbanThread Tops,1,5125.99,0.15,4357.09
+ORD-202508-10861,2025-08-21,CUST-5009,Rohan Patel,Kochi,Women's Clothing,Jackets,LuxeLane,SKU-91233,LuxeLane Jackets,1,1069.23,0.2,855.38
+ORD-202503-14250,2025-03-17,CUST-5889,Meera Sharma,Hyderabad,Activewear,Sports Bras,UrbanThread,SKU-16426,UrbanThread Sports Bras,1,3684.49,0.05,3500.27
+ORD-202512-87983,2025-12-11,CUST-3906,Kavya Singh,Hyderabad,Men's Clothing,Shirts,StyleNova,SKU-14697,StyleNova Shirts,1,6709.97,0.25,5032.48
+ORD-202507-18509,2025-07-14,CUST-5797,Kavya Reddy,Pune,Men's Clothing,Jackets,CottonCraft,SKU-25993,CottonCraft Jackets,3,7655.89,0.2,18374.14
+ORD-202509-24326,2025-09-26,CUST-9666,Diya Das,Coimbatore,Footwear,Sandals,FlexWear,SKU-89269,FlexWear Sandals,1,2326.79,0.0,2326.79
+ORD-202505-27001,2025-05-13,CUST-9132,Rohan Das,Pune,Footwear,Boots,FlexWear,SKU-74553,FlexWear Boots,2,9950.74,0.1,17911.33
+ORD-202504-25456,2025-04-10,CUST-4396,Nila Nair,Delhi,Women's Clothing,Jackets,StyleNova,SKU-64269,StyleNova Jackets,1,531.67,0.25,398.75
+ORD-202511-46913,2025-11-23,CUST-5168,Diya Patel,Jaipur,Men's Clothing,Jackets,CottonCraft,SKU-49358,CottonCraft Jackets,1,6513.0,0.25,4884.75
+ORD-202502-84569,2025-02-28,CUST-1477,Ishaan Iyer,Chennai,Activewear,Track Pants,Everyday Co.,SKU-53321,Everyday Co. Track Pants,2,3610.21,0.25,5415.32
+ORD-202511-80381,2025-11-27,CUST-6490,Kavya Nair,Chennai,Footwear,Boots,TrendHouse,SKU-17342,TrendHouse Boots,1,1806.25,0.15,1535.31
+ORD-202510-53479,2025-10-12,CUST-6793,Diya Reddy,Pune,Activewear,Track Pants,FlexWear,SKU-46760,FlexWear Track Pants,2,2319.15,0.25,3478.73
+ORD-202503-25315,2025-03-26,CUST-6050,Meera Kumar,Jaipur,Men's Clothing,Jackets,TrendHouse,SKU-45585,TrendHouse Jackets,2,4077.79,0.2,6524.46
+ORD-202507-78825,2025-07-10,CUST-5953,Ishaan Sharma,Mumbai,Accessories,Bags,TrendHouse,SKU-59049,TrendHouse Bags,2,9521.05,0.05,18089.99
+ORD-202509-30195,2025-09-17,CUST-4116,Meera Das,Kochi,Men's Clothing,Jeans,UrbanThread,SKU-78632,UrbanThread Jeans,1,4980.83,0.2,3984.66
+ORD-202509-14791,2025-09-22,CUST-8526,Arjun Sharma,Bengaluru,Footwear,Sandals,StyleNova,SKU-10538,StyleNova Sandals,2,1586.36,0.25,2379.54
+ORD-202502-78233,2025-02-14,CUST-6119,Aarav Patel,Ahmedabad,Footwear,Sneakers,LuxeLane,SKU-93735,LuxeLane Sneakers,1,8924.1,0.0,8924.1
+ORD-202505-97965,2025-05-27,CUST-2927,Vihaan Reddy,Mumbai,Women's Clothing,Jeans,StyleNova,SKU-30643,StyleNova Jeans,1,3394.75,0.15,2885.54
+ORD-202510-82006,2025-10-14,CUST-6218,Vihaan Reddy,Ahmedabad,Footwear,Sneakers,UrbanThread,SKU-47128,UrbanThread Sneakers,2,2302.8,0.1,4145.04
+ORD-202506-16648,2025-06-09,CUST-3131,Aarav Das,Bengaluru,Activewear,Sports Bras,StyleNova,SKU-98538,StyleNova Sports Bras,2,3584.77,0.15,6094.11
+ORD-202502-87693,2025-02-14,CUST-8304,Nila Singh,Chennai,Men's Clothing,T-Shirts,TrendHouse,SKU-50952,TrendHouse T-Shirts,1,2035.14,0.2,1628.11
+ORD-202502-84421,2025-02-10,CUST-3159,Diya Das,Jaipur,Footwear,Formal Shoes,LuxeLane,SKU-22748,LuxeLane Formal Shoes,5,7629.71,0.15,32426.27
+ORD-202508-43823,2025-08-29,CUST-6954,Arjun Reddy,Kochi,Accessories,Watches,LuxeLane,SKU-97186,LuxeLane Watches,1,2469.81,0.2,1975.85
+ORD-202501-70455,2025-01-16,CUST-3798,Vihaan Singh,Kochi,Footwear,Sandals,TrendHouse,SKU-89225,TrendHouse Sandals,1,1394.0,0.15,1184.9
+ORD-202507-82895,2025-07-27,CUST-2162,Vihaan Das,Bengaluru,Activewear,Sports Bras,FlexWear,SKU-62535,FlexWear Sports Bras,3,8027.55,0.1,21674.39
+ORD-202505-18658,2025-05-05,CUST-6582,Ananya Nair,Ahmedabad,Activewear,Running Tops,StyleNova,SKU-67062,StyleNova Running Tops,2,9745.75,0.15,16567.77
+ORD-202503-85260,2025-03-30,CUST-8972,Diya Das,Mumbai,Activewear,Track Pants,FlexWear,SKU-52647,FlexWear Track Pants,2,1054.58,0.25,1581.87
+ORD-202504-24253,2025-04-01,CUST-7208,Meera Das,Kochi,Activewear,Leggings,Everyday Co.,SKU-94540,Everyday Co. Leggings,1,4235.2,0.2,3388.16
+ORD-202510-29231,2025-10-25,CUST-3444,Kavya Patel,Hyderabad,Men's Clothing,T-Shirts,StyleNova,SKU-61115,StyleNova T-Shirts,4,6469.49,0.0,25877.96
+ORD-202512-49917,2025-12-15,CUST-8122,Meera Sharma,Mumbai,Activewear,Running Tops,StyleNova,SKU-86379,StyleNova Running Tops,3,3206.43,0.25,7214.47
+ORD-202503-16963,2025-03-07,CUST-1013,Rohan Singh,Coimbatore,Men's Clothing,Shorts,FlexWear,SKU-24378,FlexWear Shorts,3,904.38,0.2,2170.51
+ORD-202512-60173,2025-12-26,CUST-7652,Arjun Nair,Coimbatore,Footwear,Sneakers,StyleNova,SKU-81449,StyleNova Sneakers,2,6363.58,0.25,9545.37
+ORD-202504-64687,2025-04-07,CUST-3527,Vihaan Reddy,Hyderabad,Women's Clothing,Tops,TrendHouse,SKU-27600,TrendHouse Tops,2,8479.28,0.1,15262.7
+ORD-202503-27796,2025-03-15,CUST-2387,Ishaan Nair,Chennai,Men's Clothing,T-Shirts,LuxeLane,SKU-69772,LuxeLane T-Shirts,2,5020.0,0.15,8534.0
+ORD-202508-60425,2025-08-21,CUST-6821,Ananya Reddy,Hyderabad,Activewear,Running Tops,FlexWear,SKU-65675,FlexWear Running Tops,2,5653.89,0.15,9611.61
+ORD-202505-85543,2025-05-02,CUST-7012,Aarav Kumar,Kochi,Activewear,Leggings,FlexWear,SKU-84468,FlexWear Leggings,2,2910.73,0.2,4657.17
+ORD-202509-78997,2025-09-04,CUST-5578,Kavya Sharma,Ahmedabad,Accessories,Watches,UrbanThread,SKU-78597,UrbanThread Watches,4,1075.61,0.25,3226.83
+ORD-202511-99662,2025-11-19,CUST-9834,Nila Patel,Kochi,Activewear,Leggings,StyleNova,SKU-90352,StyleNova Leggings,2,9614.99,0.0,19229.98
+ORD-202508-53452,2025-08-29,CUST-7897,Meera Patel,Chennai,Men's Clothing,Jackets,FlexWear,SKU-47907,FlexWear Jackets,2,9087.73,0.2,14540.37
+ORD-202506-92483,2025-06-05,CUST-8752,Nila Reddy,Ahmedabad,Women's Clothing,Dresses,LuxeLane,SKU-85085,LuxeLane Dresses,2,5766.95,0.0,11533.9
+ORD-202501-20074,2025-01-14,CUST-5552,Vihaan Reddy,Ahmedabad,Men's Clothing,Jackets,Everyday Co.,SKU-90713,Everyday Co. Jackets,1,1099.35,0.2,879.48
+ORD-202501-29809,2025-01-08,CUST-8317,Meera Reddy,Delhi,Footwear,Sandals,Everyday Co.,SKU-44242,Everyday Co. Sandals,2,6156.07,0.2,9849.71
+ORD-202501-88059,2025-01-17,CUST-3525,Kavya Nair,Jaipur,Women's Clothing,Skirts,StyleNova,SKU-60222,StyleNova Skirts,1,1117.69,0.05,1061.81
+ORD-202504-94182,2025-04-18,CUST-5331,Diya Kumar,Hyderabad,Women's Clothing,Skirts,LuxeLane,SKU-31967,LuxeLane Skirts,2,8464.78,0.0,16929.56
+ORD-202509-40626,2025-09-01,CUST-7222,Arjun Das,Delhi,Accessories,Sunglasses,TrendHouse,SKU-44422,TrendHouse Sunglasses,2,7597.55,0.2,12156.08
+ORD-202501-98931,2025-01-07,CUST-6172,Rohan Kumar,Coimbatore,Women's Clothing,Jackets,Everyday Co.,SKU-22761,Everyday Co. Jackets,1,8032.9,0.15,6827.96
+ORD-202511-45432,2025-11-09,CUST-5375,Diya Patel,Coimbatore,Activewear,Track Pants,Everyday Co.,SKU-95766,Everyday Co. Track Pants,4,8625.05,0.1,31050.18
+ORD-202512-98829,2025-12-11,CUST-3947,Meera Kumar,Mumbai,Activewear,Running Tops,TrendHouse,SKU-98185,TrendHouse Running Tops,2,2189.78,0.1,3941.6
+ORD-202502-38759,2025-02-20,CUST-5641,Vihaan Iyer,Coimbatore,Men's Clothing,T-Shirts,UrbanThread,SKU-14461,UrbanThread T-Shirts,2,6948.35,0.1,12507.03
+ORD-202511-93634,2025-11-01,CUST-2995,Diya Sharma,Chennai,Men's Clothing,Shorts,UrbanThread,SKU-89257,UrbanThread Shorts,2,8402.95,0.2,13444.72
+ORD-202504-48609,2025-04-05,CUST-8650,Diya Das,Ahmedabad,Women's Clothing,Skirts,LuxeLane,SKU-46226,LuxeLane Skirts,3,7046.84,0.1,19026.47
+ORD-202502-53601,2025-02-07,CUST-1984,Vihaan Patel,Hyderabad,Accessories,Watches,CottonCraft,SKU-33321,CottonCraft Watches,1,904.16,0.15,768.54
+ORD-202511-28857,2025-11-09,CUST-9857,Arjun Iyer,Mumbai,Accessories,Bags,TrendHouse,SKU-90473,TrendHouse Bags,1,6560.19,0.0,6560.19
+ORD-202502-42846,2025-02-22,CUST-8305,Aarav Das,Delhi,Men's Clothing,Shirts,LuxeLane,SKU-29510,LuxeLane Shirts,1,982.0,0.25,736.5
+ORD-202505-85319,2025-05-17,CUST-1060,Rohan Das,Coimbatore,Men's Clothing,T-Shirts,LuxeLane,SKU-72670,LuxeLane T-Shirts,1,3498.36,0.15,2973.61
+ORD-202510-73185,2025-10-04,CUST-2985,Nila Singh,Bengaluru,Accessories,Sunglasses,Everyday Co.,SKU-53704,Everyday Co. Sunglasses,1,4027.91,0.25,3020.93
+ORD-202507-70245,2025-07-07,CUST-5750,Ananya Reddy,Bengaluru,Footwear,Boots,UrbanThread,SKU-82676,UrbanThread Boots,2,9619.98,0.0,19239.96
+ORD-202506-57089,2025-06-03,CUST-8970,Diya Das,Mumbai,Men's Clothing,Shirts,LuxeLane,SKU-34833,LuxeLane Shirts,2,8994.67,0.25,13492.01
+ORD-202510-94332,2025-10-31,CUST-6041,Kavya Das,Chennai,Women's Clothing,Dresses,StyleNova,SKU-12151,StyleNova Dresses,1,4070.05,0.2,3256.04
+ORD-202501-97466,2025-01-22,CUST-9570,Kavya Reddy,Pune,Men's Clothing,Jackets,UrbanThread,SKU-85936,UrbanThread Jackets,1,2352.28,0.25,1764.21
+ORD-202509-16003,2025-09-08,CUST-4976,Ishaan Kumar,Hyderabad,Women's Clothing,Dresses,UrbanThread,SKU-32577,UrbanThread Dresses,2,4869.83,0.2,7791.73
+ORD-202508-23937,2025-08-22,CUST-2870,Kavya Iyer,Bengaluru,Men's Clothing,Jackets,Everyday Co.,SKU-18271,Everyday Co. Jackets,2,8401.92,0.0,16803.84
+ORD-202506-28000,2025-06-16,CUST-6268,Ananya Kumar,Coimbatore,Women's Clothing,Skirts,CottonCraft,SKU-87736,CottonCraft Skirts,1,6934.66,0.2,5547.73
+ORD-202505-58487,2025-05-21,CUST-3703,Kavya Iyer,Bengaluru,Women's Clothing,Jeans,UrbanThread,SKU-86282,UrbanThread Jeans,1,4326.0,0.25,3244.5
+ORD-202507-20580,2025-07-12,CUST-1104,Aarav Reddy,Ahmedabad,Men's Clothing,Jeans,UrbanThread,SKU-21683,UrbanThread Jeans,3,450.61,0.15,1149.06
+ORD-202512-78562,2025-12-21,CUST-8379,Arjun Iyer,Kochi,Activewear,Track Pants,TrendHouse,SKU-32878,TrendHouse Track Pants,1,1686.95,0.1,1518.26
+ORD-202509-55593,2025-09-13,CUST-7861,Aarav Iyer,Hyderabad,Activewear,Leggings,FlexWear,SKU-35153,FlexWear Leggings,2,1152.81,0.1,2075.06
+ORD-202507-38740,2025-07-05,CUST-8605,Ananya Patel,Ahmedabad,Men's Clothing,Shorts,UrbanThread,SKU-16955,UrbanThread Shorts,3,9870.79,0.2,23689.9
+ORD-202512-33111,2025-12-17,CUST-3617,Aarav Kumar,Hyderabad,Women's Clothing,Dresses,Everyday Co.,SKU-94523,Everyday Co. Dresses,3,9140.4,0.15,23308.02
+ORD-202505-15677,2025-05-09,CUST-2710,Aarav Reddy,Coimbatore,Footwear,Sandals,StyleNova,SKU-30715,StyleNova Sandals,1,8108.99,0.15,6892.64
+ORD-202502-85990,2025-02-06,CUST-6340,Arjun Iyer,Bengaluru,Men's Clothing,Shirts,FlexWear,SKU-98716,FlexWear Shirts,3,7296.61,0.2,17511.86
+ORD-202506-36208,2025-06-16,CUST-7152,Ananya Sharma,Bengaluru,Footwear,Formal Shoes,Everyday Co.,SKU-71733,Everyday Co. Formal Shoes,1,2599.05,0.15,2209.19
+ORD-202503-60768,2025-03-16,CUST-7119,Ishaan Das,Coimbatore,Activewear,Running Tops,UrbanThread,SKU-35448,UrbanThread Running Tops,1,6210.51,0.05,5899.98
+ORD-202503-27891,2025-03-07,CUST-2820,Kavya Das,Pune,Footwear,Sandals,StyleNova,SKU-64817,StyleNova Sandals,1,5815.06,0.1,5233.55
+ORD-202511-32273,2025-11-06,CUST-4763,Diya Nair,Delhi,Women's Clothing,Jeans,StyleNova,SKU-78389,StyleNova Jeans,1,8006.28,0.2,6405.02
+ORD-202508-42329,2025-08-25,CUST-5060,Meera Nair,Kochi,Accessories,Belts,FlexWear,SKU-85951,FlexWear Belts,1,7380.17,0.25,5535.13
+ORD-202501-76088,2025-01-03,CUST-1550,Arjun Nair,Ahmedabad,Women's Clothing,Jackets,StyleNova,SKU-72818,StyleNova Jackets,1,727.97,0.15,618.77
+ORD-202502-63296,2025-02-12,CUST-4571,Ishaan Singh,Mumbai,Men's Clothing,Shirts,TrendHouse,SKU-48769,TrendHouse Shirts,2,419.5,0.25,629.25
+ORD-202512-86501,2025-12-09,CUST-1399,Kavya Das,Kochi,Women's Clothing,Dresses,UrbanThread,SKU-28169,UrbanThread Dresses,1,7121.05,0.2,5696.84
+ORD-202511-19266,2025-11-17,CUST-7305,Meera Kumar,Pune,Accessories,Belts,Everyday Co.,SKU-48874,Everyday Co. Belts,2,6443.0,0.25,9664.5
+ORD-202510-20611,2025-10-05,CUST-6500,Aarav Singh,Ahmedabad,Accessories,Watches,LuxeLane,SKU-16758,LuxeLane Watches,2,2308.32,0.25,3462.48
+ORD-202511-83241,2025-11-13,CUST-2097,Rohan Iyer,Kochi,Men's Clothing,Shirts,CottonCraft,SKU-28141,CottonCraft Shirts,1,3853.4,0.25,2890.05
+ORD-202511-37498,2025-11-29,CUST-4693,Meera Singh,Bengaluru,Footwear,Formal Shoes,FlexWear,SKU-45043,FlexWear Formal Shoes,2,9408.73,0.2,15053.97
+ORD-202502-79033,2025-02-02,CUST-3010,Kavya Patel,Chennai,Activewear,Running Tops,CottonCraft,SKU-69241,CottonCraft Running Tops,1,4687.38,0.2,3749.9
+ORD-202504-61207,2025-04-07,CUST-3929,Vihaan Sharma,Bengaluru,Activewear,Track Pants,Everyday Co.,SKU-24334,Everyday Co. Track Pants,3,4740.38,0.0,14221.14
+ORD-202509-12974,2025-09-12,CUST-5803,Arjun Reddy,Hyderabad,Women's Clothing,Jeans,UrbanThread,SKU-72115,UrbanThread Jeans,1,2280.28,0.25,1710.21
+ORD-202505-78107,2025-05-30,CUST-6503,Arjun Singh,Chennai,Footwear,Boots,TrendHouse,SKU-95951,TrendHouse Boots,1,512.76,0.05,487.12
+ORD-202510-50172,2025-10-08,CUST-3813,Vihaan Iyer,Jaipur,Footwear,Boots,FlexWear,SKU-73470,FlexWear Boots,1,3248.6,0.05,3086.17
+ORD-202503-91085,2025-03-17,CUST-3634,Rohan Patel,Chennai,Footwear,Sandals,Everyday Co.,SKU-33891,Everyday Co. Sandals,1,4721.49,0.05,4485.42
+ORD-202503-67788,2025-03-01,CUST-5266,Meera Reddy,Mumbai,Women's Clothing,Tops,StyleNova,SKU-36890,StyleNova Tops,1,3370.27,0.05,3201.76
+ORD-202506-79945,2025-06-26,CUST-5940,Diya Kumar,Pune,Activewear,Leggings,LuxeLane,SKU-63026,LuxeLane Leggings,1,4648.76,0.05,4416.32
+ORD-202503-53421,2025-03-21,CUST-5842,Kavya Patel,Pune,Accessories,Belts,TrendHouse,SKU-85199,TrendHouse Belts,1,7462.4,0.2,5969.92
+ORD-202506-28274,2025-06-23,CUST-2914,Vihaan Kumar,Kochi,Women's Clothing,Jackets,LuxeLane,SKU-62642,LuxeLane Jackets,2,7395.91,0.0,14791.82
+ORD-202502-86471,2025-02-17,CUST-9625,Ananya Patel,Pune,Activewear,Sports Bras,TrendHouse,SKU-35652,TrendHouse Sports Bras,1,6198.07,0.05,5888.17
+ORD-202512-61697,2025-12-13,CUST-4185,Kavya Singh,Kochi,Men's Clothing,T-Shirts,FlexWear,SKU-89058,FlexWear T-Shirts,2,1146.56,0.2,1834.5
+ORD-202507-60608,2025-07-23,CUST-7108,Aarav Patel,Pune,Activewear,Leggings,LuxeLane,SKU-55209,LuxeLane Leggings,1,8580.9,0.1,7722.81
+ORD-202502-64474,2025-02-14,CUST-8249,Vihaan Reddy,Jaipur,Footwear,Sandals,TrendHouse,SKU-65552,TrendHouse Sandals,1,8910.71,0.25,6683.03
+ORD-202511-78852,2025-11-03,CUST-6495,Diya Nair,Ahmedabad,Accessories,Belts,Everyday Co.,SKU-21593,Everyday Co. Belts,1,2314.5,0.15,1967.33
+ORD-202508-27947,2025-08-01,CUST-4264,Ishaan Nair,Delhi,Men's Clothing,Shirts,LuxeLane,SKU-47940,LuxeLane Shirts,1,4781.56,0.2,3825.25
+ORD-202510-39428,2025-10-27,CUST-1439,Aarav Reddy,Delhi,Activewear,Running Tops,UrbanThread,SKU-44429,UrbanThread Running Tops,1,5724.03,0.15,4865.43
+ORD-202508-42079,2025-08-02,CUST-1466,Diya Patel,Delhi,Footwear,Boots,UrbanThread,SKU-74625,UrbanThread Boots,1,9094.89,0.25,6821.17
+ORD-202510-92312,2025-10-25,CUST-8799,Diya Singh,Pune,Men's Clothing,Shorts,LuxeLane,SKU-77177,LuxeLane Shorts,2,4528.86,0.1,8151.95
+ORD-202503-27759,2025-03-25,CUST-6855,Ishaan Kumar,Delhi,Activewear,Leggings,Everyday Co.,SKU-45739,Everyday Co. Leggings,2,1716.53,0.15,2918.1
+ORD-202501-77353,2025-01-25,CUST-4175,Ishaan Sharma,Pune,Footwear,Boots,LuxeLane,SKU-88480,LuxeLane Boots,1,5436.24,0.0,5436.24
+ORD-202512-57516,2025-12-17,CUST-2570,Rohan Singh,Pune,Women's Clothing,Jackets,CottonCraft,SKU-28837,CottonCraft Jackets,3,2932.15,0.25,6597.34
+ORD-202507-23424,2025-07-10,CUST-4569,Ishaan Iyer,Delhi,Men's Clothing,Jeans,FlexWear,SKU-34696,FlexWear Jeans,3,4295.35,0.05,12241.75
+ORD-202502-72851,2025-02-09,CUST-6705,Vihaan Singh,Kochi,Activewear,Leggings,TrendHouse,SKU-28220,TrendHouse Leggings,1,1571.95,0.0,1571.95
+ORD-202503-39144,2025-03-30,CUST-3108,Ishaan Iyer,Pune,Accessories,Hats,FlexWear,SKU-50295,FlexWear Hats,2,577.97,0.0,1155.94
+ORD-202508-12464,2025-08-06,CUST-8934,Arjun Kumar,Bengaluru,Women's Clothing,Tops,StyleNova,SKU-35736,StyleNova Tops,2,7904.09,0.0,15808.18
+ORD-202510-15672,2025-10-31,CUST-2085,Vihaan Kumar,Jaipur,Men's Clothing,T-Shirts,Everyday Co.,SKU-22648,Everyday Co. T-Shirts,1,1452.55,0.1,1307.3
+ORD-202504-29078,2025-04-13,CUST-5544,Nila Singh,Ahmedabad,Men's Clothing,Shorts,StyleNova,SKU-56163,StyleNova Shorts,1,3708.88,0.0,3708.88
+ORD-202505-11832,2025-05-04,CUST-9664,Ananya Iyer,Ahmedabad,Women's Clothing,Jackets,Everyday Co.,SKU-46943,Everyday Co. Jackets,2,961.87,0.2,1538.99
+ORD-202504-58033,2025-04-20,CUST-4033,Kavya Sharma,Bengaluru,Women's Clothing,Jackets,UrbanThread,SKU-33704,UrbanThread Jackets,4,8556.58,0.15,29092.37
+ORD-202509-26202,2025-09-21,CUST-8633,Diya Reddy,Mumbai,Footwear,Boots,TrendHouse,SKU-74987,TrendHouse Boots,1,1393.6,0.1,1254.24
+ORD-202502-69892,2025-02-12,CUST-6111,Kavya Iyer,Chennai,Footwear,Sandals,FlexWear,SKU-82602,FlexWear Sandals,1,1421.51,0.1,1279.36
+ORD-202504-99015,2025-04-07,CUST-7020,Ishaan Kumar,Coimbatore,Accessories,Watches,Everyday Co.,SKU-98363,Everyday Co. Watches,3,8978.12,0.15,22894.21
+ORD-202509-61748,2025-09-25,CUST-7563,Nila Sharma,Kochi,Accessories,Bags,TrendHouse,SKU-32114,TrendHouse Bags,2,1123.56,0.05,2134.76
+ORD-202504-40522,2025-04-13,CUST-7958,Kavya Patel,Pune,Men's Clothing,Jackets,StyleNova,SKU-86273,StyleNova Jackets,2,9908.41,0.0,19816.82
+ORD-202507-73508,2025-07-02,CUST-9379,Vihaan Reddy,Coimbatore,Activewear,Track Pants,Everyday Co.,SKU-69589,Everyday Co. Track Pants,2,6149.7,0.15,10454.49
+ORD-202509-23055,2025-09-12,CUST-1865,Diya Das,Kochi,Men's Clothing,T-Shirts,CottonCraft,SKU-98880,CottonCraft T-Shirts,1,9440.31,0.0,9440.31
+ORD-202512-22626,2025-12-14,CUST-2253,Rohan Das,Ahmedabad,Men's Clothing,Jeans,TrendHouse,SKU-71082,TrendHouse Jeans,1,3235.7,0.2,2588.56
+ORD-202509-81646,2025-09-09,CUST-1289,Aarav Nair,Kochi,Women's Clothing,Jeans,LuxeLane,SKU-25615,LuxeLane Jeans,2,5560.65,0.2,8897.04
+ORD-202508-96430,2025-08-15,CUST-5965,Ishaan Das,Coimbatore,Accessories,Sunglasses,CottonCraft,SKU-66450,CottonCraft Sunglasses,2,617.74,0.2,988.38
+ORD-202509-96517,2025-09-07,CUST-9837,Nila Das,Coimbatore,Women's Clothing,Jeans,LuxeLane,SKU-72378,LuxeLane Jeans,3,5816.9,0.15,14833.09
+ORD-202507-90863,2025-07-20,CUST-6779,Vihaan Singh,Chennai,Activewear,Sports Bras,FlexWear,SKU-18050,FlexWear Sports Bras,1,6032.14,0.15,5127.32
+ORD-202507-91940,2025-07-07,CUST-6591,Arjun Sharma,Hyderabad,Men's Clothing,Shorts,UrbanThread,SKU-66118,UrbanThread Shorts,1,7496.95,0.0,7496.95
+ORD-202501-50907,2025-01-29,CUST-2391,Diya Patel,Pune,Footwear,Sandals,TrendHouse,SKU-25003,TrendHouse Sandals,2,2700.86,0.25,4051.29
+ORD-202506-84455,2025-06-16,CUST-9433,Arjun Patel,Jaipur,Footwear,Formal Shoes,UrbanThread,SKU-12674,UrbanThread Formal Shoes,1,6679.35,0.15,5677.45
+ORD-202507-74010,2025-07-13,CUST-2639,Ananya Singh,Pune,Accessories,Hats,UrbanThread,SKU-75107,UrbanThread Hats,2,3426.49,0.0,6852.98
+ORD-202506-93288,2025-06-03,CUST-2234,Rohan Iyer,Ahmedabad,Activewear,Track Pants,StyleNova,SKU-47664,StyleNova Track Pants,1,4528.11,0.15,3848.89
+ORD-202507-85784,2025-07-25,CUST-2552,Nila Singh,Ahmedabad,Footwear,Sneakers,CottonCraft,SKU-45830,CottonCraft Sneakers,3,6357.35,0.0,19072.05
+ORD-202509-95398,2025-09-01,CUST-5945,Rohan Patel,Jaipur,Men's Clothing,Shorts,Everyday Co.,SKU-66742,Everyday Co. Shorts,1,3667.97,0.0,3667.97
+ORD-202507-81770,2025-07-25,CUST-3958,Aarav Reddy,Coimbatore,Activewear,Track Pants,StyleNova,SKU-85608,StyleNova Track Pants,1,5298.08,0.25,3973.56
+ORD-202505-66849,2025-05-18,CUST-1981,Rohan Iyer,Kochi,Accessories,Belts,LuxeLane,SKU-57746,LuxeLane Belts,4,5466.38,0.2,17492.42
+ORD-202512-51766,2025-12-17,CUST-2055,Ananya Nair,Hyderabad,Accessories,Belts,StyleNova,SKU-44987,StyleNova Belts,3,8486.98,0.15,21641.8
+ORD-202505-13631,2025-05-01,CUST-5023,Vihaan Das,Ahmedabad,Footwear,Formal Shoes,CottonCraft,SKU-73620,CottonCraft Formal Shoes,1,1400.52,0.05,1330.49
+ORD-202504-46408,2025-04-14,CUST-3883,Aarav Das,Chennai,Activewear,Running Tops,TrendHouse,SKU-12609,TrendHouse Running Tops,1,1622.38,0.1,1460.14
+ORD-202506-57636,2025-06-02,CUST-2479,Arjun Reddy,Ahmedabad,Men's Clothing,T-Shirts,CottonCraft,SKU-40938,CottonCraft T-Shirts,3,9034.58,0.15,23038.18
+ORD-202503-43004,2025-03-03,CUST-9133,Diya Iyer,Jaipur,Men's Clothing,Shorts,LuxeLane,SKU-88619,LuxeLane Shorts,2,8340.12,0.2,13344.19
+ORD-202507-38574,2025-07-19,CUST-3363,Diya Reddy,Ahmedabad,Men's Clothing,Jackets,CottonCraft,SKU-38063,CottonCraft Jackets,3,7515.4,0.15,19164.27
+ORD-202510-24806,2025-10-29,CUST-6185,Rohan Nair,Delhi,Footwear,Boots,TrendHouse,SKU-72240,TrendHouse Boots,1,5473.66,0.25,4105.24
+ORD-202507-12762,2025-07-05,CUST-1570,Aarav Iyer,Hyderabad,Women's Clothing,Jeans,Everyday Co.,SKU-43158,Everyday Co. Jeans,2,3866.07,0.1,6958.93
+ORD-202512-60917,2025-12-17,CUST-1128,Arjun Patel,Pune,Activewear,Running Tops,CottonCraft,SKU-49438,CottonCraft Running Tops,1,8708.44,0.15,7402.17
+ORD-202503-63253,2025-03-24,CUST-1555,Vihaan Sharma,Mumbai,Men's Clothing,Jeans,CottonCraft,SKU-74447,CottonCraft Jeans,4,6423.12,0.25,19269.36
+ORD-202508-44205,2025-08-05,CUST-9295,Diya Singh,Pune,Accessories,Sunglasses,Everyday Co.,SKU-65164,Everyday Co. Sunglasses,3,8255.34,0.05,23527.72
+ORD-202501-94030,2025-01-27,CUST-3229,Aarav Nair,Chennai,Activewear,Track Pants,TrendHouse,SKU-36224,TrendHouse Track Pants,2,2081.27,0.15,3538.16
+ORD-202502-27051,2025-02-26,CUST-7722,Meera Das,Bengaluru,Footwear,Sandals,FlexWear,SKU-72700,FlexWear Sandals,1,5307.75,0.25,3980.81
+ORD-202506-58182,2025-06-17,CUST-3980,Arjun Nair,Ahmedabad,Women's Clothing,Jeans,StyleNova,SKU-84762,StyleNova Jeans,3,2226.04,0.15,5676.4
+ORD-202511-70610,2025-11-28,CUST-4248,Vihaan Reddy,Jaipur,Women's Clothing,Dresses,UrbanThread,SKU-16525,UrbanThread Dresses,2,2517.46,0.0,5034.92
+ORD-202505-84349,2025-05-14,CUST-2922,Aarav Nair,Ahmedabad,Accessories,Hats,TrendHouse,SKU-69468,TrendHouse Hats,1,9591.92,0.05,9112.32
+ORD-202504-47743,2025-04-08,CUST-9096,Arjun Reddy,Mumbai,Accessories,Bags,StyleNova,SKU-66532,StyleNova Bags,4,8189.1,0.1,29480.76
+ORD-202512-13771,2025-12-13,CUST-5754,Vihaan Iyer,Delhi,Women's Clothing,Jackets,StyleNova,SKU-90960,StyleNova Jackets,1,2048.59,0.05,1946.16
+ORD-202512-27459,2025-12-17,CUST-6296,Arjun Iyer,Ahmedabad,Accessories,Belts,CottonCraft,SKU-60265,CottonCraft Belts,2,1130.67,0.15,1922.14
+ORD-202502-71726,2025-02-18,CUST-6804,Nila Kumar,Bengaluru,Accessories,Hats,CottonCraft,SKU-10702,CottonCraft Hats,2,804.49,0.05,1528.53
+ORD-202512-15390,2025-12-10,CUST-3938,Vihaan Reddy,Coimbatore,Footwear,Boots,CottonCraft,SKU-76027,CottonCraft Boots,1,9689.16,0.2,7751.33
+ORD-202502-44131,2025-02-15,CUST-2914,Meera Kumar,Hyderabad,Accessories,Watches,TrendHouse,SKU-26760,TrendHouse Watches,1,5444.11,0.05,5171.9
+ORD-202508-44571,2025-08-09,CUST-9470,Meera Nair,Pune,Accessories,Watches,LuxeLane,SKU-31624,LuxeLane Watches,1,8805.28,0.2,7044.22
+ORD-202510-16975,2025-10-12,CUST-4095,Ishaan Kumar,Hyderabad,Footwear,Boots,Everyday Co.,SKU-40128,Everyday Co. Boots,3,6675.97,0.15,17023.72
+ORD-202503-15346,2025-03-25,CUST-8233,Meera Das,Delhi,Women's Clothing,Dresses,TrendHouse,SKU-69999,TrendHouse Dresses,2,4532.37,0.15,7705.03
+ORD-202503-33678,2025-03-05,CUST-3757,Rohan Patel,Hyderabad,Accessories,Bags,Everyday Co.,SKU-83825,Everyday Co. Bags,1,2275.22,0.1,2047.7
+ORD-202509-42264,2025-09-27,CUST-9161,Diya Singh,Chennai,Activewear,Sports Bras,FlexWear,SKU-13402,FlexWear Sports Bras,3,2050.52,0.0,6151.56
+ORD-202510-30155,2025-10-30,CUST-1473,Diya Das,Pune,Footwear,Sneakers,TrendHouse,SKU-96447,TrendHouse Sneakers,4,1327.88,0.1,4780.37
+ORD-202511-96005,2025-11-01,CUST-8423,Meera Reddy,Delhi,Accessories,Sunglasses,LuxeLane,SKU-37704,LuxeLane Sunglasses,2,3494.44,0.0,6988.88
+ORD-202502-62279,2025-02-06,CUST-5180,Ishaan Iyer,Chennai,Men's Clothing,Jackets,CottonCraft,SKU-62286,CottonCraft Jackets,2,6141.23,0.0,12282.46
+ORD-202503-95729,2025-03-25,CUST-3525,Diya Patel,Mumbai,Men's Clothing,T-Shirts,Everyday Co.,SKU-74336,Everyday Co. T-Shirts,1,4202.24,0.25,3151.68
+ORD-202503-77194,2025-03-09,CUST-4274,Kavya Das,Ahmedabad,Accessories,Watches,LuxeLane,SKU-60867,LuxeLane Watches,1,1231.28,0.1,1108.15
+ORD-202508-90460,2025-08-05,CUST-4053,Arjun Nair,Ahmedabad,Accessories,Watches,FlexWear,SKU-22182,FlexWear Watches,1,4397.6,0.1,3957.84
+ORD-202512-74922,2025-12-13,CUST-9638,Rohan Sharma,Kochi,Men's Clothing,Shorts,CottonCraft,SKU-48103,CottonCraft Shorts,1,6955.49,0.05,6607.72
+ORD-202506-42591,2025-06-03,CUST-9570,Arjun Patel,Kochi,Accessories,Sunglasses,UrbanThread,SKU-84519,UrbanThread Sunglasses,1,1538.56,0.1,1384.7
+ORD-202509-70903,2025-09-20,CUST-5151,Meera Patel,Chennai,Men's Clothing,Shorts,UrbanThread,SKU-86751,UrbanThread Shorts,1,4420.66,0.0,4420.66
+ORD-202512-15932,2025-12-05,CUST-2364,Arjun Patel,Bengaluru,Men's Clothing,Shorts,UrbanThread,SKU-51149,UrbanThread Shorts,2,7924.92,0.15,13472.36
+ORD-202511-37665,2025-11-16,CUST-4032,Diya Patel,Kochi,Activewear,Running Tops,Everyday Co.,SKU-98265,Everyday Co. Running Tops,3,3609.94,0.05,10288.33
+ORD-202501-72537,2025-01-03,CUST-8539,Arjun Das,Chennai,Men's Clothing,Shirts,FlexWear,SKU-49688,FlexWear Shirts,1,428.05,0.25,321.04
+ORD-202506-24668,2025-06-04,CUST-1260,Ananya Kumar,Coimbatore,Activewear,Track Pants,LuxeLane,SKU-37424,LuxeLane Track Pants,1,1609.61,0.05,1529.13
+ORD-202508-35023,2025-08-12,CUST-2410,Vihaan Das,Mumbai,Accessories,Belts,LuxeLane,SKU-29420,LuxeLane Belts,3,8623.44,0.2,20696.26
+ORD-202503-73576,2025-03-27,CUST-8724,Aarav Das,Bengaluru,Accessories,Sunglasses,UrbanThread,SKU-86706,UrbanThread Sunglasses,4,7465.18,0.15,25381.61
+ORD-202507-66595,2025-07-20,CUST-7810,Kavya Patel,Ahmedabad,Women's Clothing,Tops,CottonCraft,SKU-14851,CottonCraft Tops,1,375.38,0.25,281.53
+ORD-202510-40396,2025-10-30,CUST-1994,Rohan Kumar,Jaipur,Accessories,Sunglasses,TrendHouse,SKU-65312,TrendHouse Sunglasses,2,9371.23,0.15,15931.09
+ORD-202505-25327,2025-05-18,CUST-9106,Nila Singh,Bengaluru,Activewear,Track Pants,FlexWear,SKU-68762,FlexWear Track Pants,3,4345.23,0.15,11080.34
+ORD-202504-38796,2025-04-09,CUST-6556,Nila Das,Delhi,Accessories,Bags,StyleNova,SKU-27191,StyleNova Bags,2,4548.67,0.2,7277.87
+ORD-202508-37159,2025-08-30,CUST-5627,Diya Das,Pune,Footwear,Boots,TrendHouse,SKU-26920,TrendHouse Boots,3,8490.95,0.2,20378.28
+ORD-202509-49800,2025-09-09,CUST-4845,Ananya Kumar,Ahmedabad,Women's Clothing,Tops,StyleNova,SKU-12376,StyleNova Tops,1,4334.05,0.15,3683.94
+ORD-202503-18344,2025-03-31,CUST-6533,Arjun Sharma,Hyderabad,Footwear,Sandals,CottonCraft,SKU-90945,CottonCraft Sandals,3,8975.24,0.0,26925.72
+ORD-202509-16117,2025-09-07,CUST-5382,Ishaan Sharma,Mumbai,Women's Clothing,Dresses,FlexWear,SKU-16608,FlexWear Dresses,1,3600.14,0.1,3240.13
+ORD-202502-83724,2025-02-24,CUST-1687,Rohan Sharma,Bengaluru,Accessories,Sunglasses,Everyday Co.,SKU-31895,Everyday Co. Sunglasses,3,6212.66,0.0,18637.98
+ORD-202505-23014,2025-05-30,CUST-3527,Meera Singh,Hyderabad,Men's Clothing,Jeans,CottonCraft,SKU-28058,CottonCraft Jeans,2,7690.06,0.15,13073.1
+ORD-202501-47585,2025-01-04,CUST-9274,Ishaan Sharma,Coimbatore,Men's Clothing,Jeans,TrendHouse,SKU-44867,TrendHouse Jeans,1,8147.71,0.1,7332.94
+ORD-202503-28087,2025-03-19,CUST-8025,Arjun Nair,Mumbai,Footwear,Boots,CottonCraft,SKU-70129,CottonCraft Boots,3,5436.61,0.05,15494.34
+ORD-202503-19120,2025-03-16,CUST-2389,Meera Singh,Kochi,Activewear,Track Pants,UrbanThread,SKU-62645,UrbanThread Track Pants,3,7259.97,0.2,17423.93
+ORD-202501-17577,2025-01-19,CUST-9516,Vihaan Nair,Coimbatore,Women's Clothing,Skirts,UrbanThread,SKU-62691,UrbanThread Skirts,2,6521.22,0.2,10433.95
+ORD-202506-90006,2025-06-26,CUST-3406,Arjun Das,Pune,Activewear,Track Pants,LuxeLane,SKU-94394,LuxeLane Track Pants,1,3012.87,0.2,2410.3
+ORD-202511-63019,2025-11-30,CUST-4232,Vihaan Sharma,Ahmedabad,Women's Clothing,Jackets,FlexWear,SKU-14845,FlexWear Jackets,1,3647.93,0.25,2735.95
+ORD-202509-77065,2025-09-24,CUST-6115,Rohan Singh,Hyderabad,Activewear,Track Pants,TrendHouse,SKU-93320,TrendHouse Track Pants,5,3053.1,0.0,15265.5
+ORD-202510-65410,2025-10-31,CUST-9278,Diya Kumar,Jaipur,Women's Clothing,Dresses,UrbanThread,SKU-58887,UrbanThread Dresses,1,8371.62,0.1,7534.46
+ORD-202511-10683,2025-11-30,CUST-8424,Meera Iyer,Chennai,Footwear,Sandals,UrbanThread,SKU-86230,UrbanThread Sandals,4,4651.75,0.2,14885.6
+ORD-202505-98137,2025-05-26,CUST-3293,Arjun Iyer,Delhi,Activewear,Sports Bras,CottonCraft,SKU-23792,CottonCraft Sports Bras,2,8205.27,0.2,13128.43
+ORD-202508-20740,2025-08-21,CUST-2511,Aarav Nair,Pune,Footwear,Formal Shoes,Everyday Co.,SKU-27047,Everyday Co. Formal Shoes,1,7201.91,0.15,6121.62
+ORD-202507-78019,2025-07-09,CUST-7468,Vihaan Das,Bengaluru,Accessories,Belts,TrendHouse,SKU-93422,TrendHouse Belts,2,4205.71,0.2,6729.14
+ORD-202508-73539,2025-08-02,CUST-8499,Ishaan Sharma,Kochi,Accessories,Sunglasses,LuxeLane,SKU-37871,LuxeLane Sunglasses,3,1699.16,0.05,4842.61
+ORD-202510-63558,2025-10-14,CUST-2807,Diya Singh,Hyderabad,Accessories,Sunglasses,UrbanThread,SKU-84942,UrbanThread Sunglasses,1,9531.67,0.2,7625.34
+ORD-202503-48532,2025-03-02,CUST-8961,Aarav Reddy,Hyderabad,Footwear,Sneakers,FlexWear,SKU-28630,FlexWear Sneakers,1,9911.89,0.1,8920.7
+ORD-202505-10273,2025-05-26,CUST-3004,Rohan Singh,Delhi,Activewear,Running Tops,UrbanThread,SKU-18855,UrbanThread Running Tops,1,8244.51,0.15,7007.83
+ORD-202506-72289,2025-06-08,CUST-3175,Ishaan Das,Ahmedabad,Men's Clothing,Shirts,TrendHouse,SKU-68973,TrendHouse Shirts,2,9031.79,0.15,15354.04
+ORD-202502-60755,2025-02-15,CUST-4814,Arjun Singh,Pune,Accessories,Belts,Everyday Co.,SKU-80909,Everyday Co. Belts,3,6744.67,0.15,17198.91
+ORD-202511-84972,2025-11-27,CUST-6060,Rohan Sharma,Delhi,Men's Clothing,Shirts,LuxeLane,SKU-94399,LuxeLane Shirts,1,1905.46,0.0,1905.46
+ORD-202510-78387,2025-10-05,CUST-4103,Kavya Kumar,Ahmedabad,Activewear,Leggings,StyleNova,SKU-25765,StyleNova Leggings,2,811.88,0.2,1299.01
+ORD-202504-68226,2025-04-16,CUST-2386,Rohan Singh,Delhi,Activewear,Sports Bras,UrbanThread,SKU-62664,UrbanThread Sports Bras,1,7143.49,0.2,5714.79
+ORD-202506-51599,2025-06-24,CUST-7258,Vihaan Sharma,Chennai,Activewear,Leggings,TrendHouse,SKU-25026,TrendHouse Leggings,1,4323.88,0.2,3459.1
+ORD-202503-50212,2025-03-15,CUST-7672,Ishaan Kumar,Delhi,Men's Clothing,Shorts,StyleNova,SKU-90540,StyleNova Shorts,1,7751.56,0.05,7363.98
+ORD-202506-52495,2025-06-02,CUST-5225,Arjun Sharma,Chennai,Footwear,Formal Shoes,UrbanThread,SKU-16799,UrbanThread Formal Shoes,1,3403.4,0.15,2892.89
+ORD-202510-60469,2025-10-28,CUST-2885,Vihaan Kumar,Ahmedabad,Women's Clothing,Tops,Everyday Co.,SKU-51724,Everyday Co. Tops,1,5232.63,0.2,4186.1
+ORD-202509-45279,2025-09-05,CUST-2663,Ananya Reddy,Bengaluru,Accessories,Hats,TrendHouse,SKU-49926,TrendHouse Hats,1,6444.35,0.0,6444.35
+ORD-202511-58929,2025-11-22,CUST-9854,Ishaan Iyer,Bengaluru,Activewear,Running Tops,TrendHouse,SKU-80455,TrendHouse Running Tops,2,7892.95,0.05,14996.6
+ORD-202501-47912,2025-01-01,CUST-3742,Aarav Kumar,Chennai,Accessories,Hats,TrendHouse,SKU-73201,TrendHouse Hats,3,9621.81,0.2,23092.34
+ORD-202506-46872,2025-06-29,CUST-1745,Ishaan Sharma,Coimbatore,Footwear,Sandals,Everyday Co.,SKU-49405,Everyday Co. Sandals,3,2362.72,0.2,5670.53
+ORD-202503-37636,2025-03-13,CUST-9270,Meera Singh,Bengaluru,Men's Clothing,Shirts,LuxeLane,SKU-93252,LuxeLane Shirts,2,9987.57,0.15,16978.87
+ORD-202512-88579,2025-12-06,CUST-6381,Aarav Reddy,Mumbai,Footwear,Boots,CottonCraft,SKU-94730,CottonCraft Boots,5,3612.81,0.15,15354.44
+ORD-202501-74091,2025-01-05,CUST-7435,Rohan Sharma,Chennai,Men's Clothing,Shorts,TrendHouse,SKU-95078,TrendHouse Shorts,2,4306.68,0.25,6460.02
+ORD-202512-88815,2025-12-11,CUST-6864,Arjun Reddy,Kochi,Men's Clothing,Shorts,UrbanThread,SKU-11105,UrbanThread Shorts,1,9727.78,0.15,8268.61
+ORD-202508-99201,2025-08-16,CUST-6862,Ananya Sharma,Mumbai,Men's Clothing,Shirts,CottonCraft,SKU-90405,CottonCraft Shirts,1,7507.5,0.1,6756.75
+ORD-202507-89433,2025-07-05,CUST-4425,Aarav Iyer,Kochi,Footwear,Formal Shoes,StyleNova,SKU-93681,StyleNova Formal Shoes,1,5079.53,0.25,3809.65
+ORD-202510-96486,2025-10-19,CUST-3875,Diya Reddy,Delhi,Accessories,Bags,Everyday Co.,SKU-18526,Everyday Co. Bags,2,1952.63,0.05,3710.0
+ORD-202509-13030,2025-09-25,CUST-9731,Nila Patel,Mumbai,Women's Clothing,Jeans,FlexWear,SKU-99218,FlexWear Jeans,2,2959.98,0.25,4439.97
+ORD-202511-66694,2025-11-25,CUST-7666,Vihaan Sharma,Coimbatore,Activewear,Running Tops,UrbanThread,SKU-99151,UrbanThread Running Tops,2,6604.29,0.1,11887.72
+ORD-202509-16155,2025-09-22,CUST-5553,Arjun Das,Pune,Activewear,Running Tops,TrendHouse,SKU-51450,TrendHouse Running Tops,3,8871.88,0.05,25284.86
+ORD-202502-39573,2025-02-11,CUST-7943,Diya Iyer,Pune,Men's Clothing,Shirts,StyleNova,SKU-35805,StyleNova Shirts,3,8133.43,0.25,18300.22
+ORD-202511-13148,2025-11-17,CUST-6477,Vihaan Iyer,Bengaluru,Women's Clothing,Jeans,CottonCraft,SKU-24134,CottonCraft Jeans,2,569.37,0.15,967.93
+ORD-202506-88638,2025-06-20,CUST-8184,Diya Das,Chennai,Accessories,Belts,CottonCraft,SKU-85882,CottonCraft Belts,2,2595.41,0.0,5190.82
+ORD-202507-26716,2025-07-13,CUST-2015,Kavya Kumar,Chennai,Men's Clothing,T-Shirts,UrbanThread,SKU-49514,UrbanThread T-Shirts,1,8521.61,0.0,8521.61
+ORD-202512-62649,2025-12-13,CUST-2570,Nila Nair,Bengaluru,Activewear,Running Tops,UrbanThread,SKU-40554,UrbanThread Running Tops,1,805.37,0.15,684.56
+ORD-202508-23274,2025-08-26,CUST-6564,Aarav Das,Coimbatore,Activewear,Leggings,TrendHouse,SKU-77792,TrendHouse Leggings,3,8834.4,0.2,21202.56
+ORD-202501-85132,2025-01-07,CUST-3064,Rohan Patel,Bengaluru,Footwear,Formal Shoes,UrbanThread,SKU-56581,UrbanThread Formal Shoes,2,954.18,0.05,1812.94
+ORD-202508-17928,2025-08-16,CUST-3091,Vihaan Nair,Ahmedabad,Accessories,Sunglasses,LuxeLane,SKU-77256,LuxeLane Sunglasses,1,1634.43,0.0,1634.43
+ORD-202503-48150,2025-03-16,CUST-7042,Aarav Reddy,Jaipur,Footwear,Sandals,FlexWear,SKU-17512,FlexWear Sandals,1,3293.14,0.1,2963.83
+ORD-202501-93958,2025-01-28,CUST-4297,Diya Singh,Jaipur,Women's Clothing,Jackets,Everyday Co.,SKU-34819,Everyday Co. Jackets,1,2194.45,0.05,2084.73
+ORD-202510-64879,2025-10-24,CUST-6384,Ishaan Sharma,Pune,Accessories,Sunglasses,FlexWear,SKU-69546,FlexWear Sunglasses,2,3554.91,0.1,6398.84
+ORD-202511-37936,2025-11-24,CUST-4916,Kavya Singh,Chennai,Men's Clothing,Shirts,StyleNova,SKU-59271,StyleNova Shirts,1,2532.66,0.2,2026.13
+ORD-202507-25098,2025-07-05,CUST-3333,Vihaan Das,Chennai,Women's Clothing,Skirts,StyleNova,SKU-35480,StyleNova Skirts,1,3770.5,0.2,3016.4
+ORD-202504-32843,2025-04-12,CUST-6567,Rohan Iyer,Chennai,Activewear,Track Pants,UrbanThread,SKU-33401,UrbanThread Track Pants,1,1988.22,0.1,1789.4
+ORD-202502-95835,2025-02-21,CUST-2818,Meera Iyer,Delhi,Women's Clothing,Dresses,StyleNova,SKU-49986,StyleNova Dresses,1,6870.29,0.15,5839.75
+ORD-202512-66848,2025-12-05,CUST-2071,Diya Reddy,Pune,Accessories,Belts,CottonCraft,SKU-27143,CottonCraft Belts,1,5410.19,0.2,4328.15
+ORD-202512-42053,2025-12-22,CUST-1756,Nila Iyer,Coimbatore,Women's Clothing,Tops,FlexWear,SKU-80184,FlexWear Tops,1,6114.63,0.25,4585.97
+ORD-202501-76619,2025-01-28,CUST-9011,Ananya Sharma,Mumbai,Footwear,Formal Shoes,CottonCraft,SKU-71691,CottonCraft Formal Shoes,2,3015.71,0.05,5729.85
+ORD-202507-59055,2025-07-18,CUST-9168,Rohan Das,Jaipur,Activewear,Leggings,StyleNova,SKU-33461,StyleNova Leggings,3,6556.19,0.2,15734.86
+ORD-202509-86543,2025-09-11,CUST-1599,Ananya Iyer,Kochi,Footwear,Sandals,FlexWear,SKU-36607,FlexWear Sandals,2,5936.51,0.25,8904.76
+ORD-202506-59034,2025-06-06,CUST-5170,Rohan Sharma,Mumbai,Accessories,Belts,TrendHouse,SKU-27606,TrendHouse Belts,1,3956.7,0.05,3758.86
+ORD-202506-91412,2025-06-30,CUST-6511,Arjun Das,Jaipur,Men's Clothing,Jackets,TrendHouse,SKU-71282,TrendHouse Jackets,1,698.09,0.2,558.47
+ORD-202506-40643,2025-06-12,CUST-5351,Diya Singh,Kochi,Accessories,Sunglasses,CottonCraft,SKU-20802,CottonCraft Sunglasses,1,538.77,0.15,457.95
+ORD-202504-81568,2025-04-27,CUST-4281,Meera Iyer,Delhi,Footwear,Sneakers,Everyday Co.,SKU-98487,Everyday Co. Sneakers,1,991.08,0.0,991.08
+ORD-202504-81188,2025-04-08,CUST-5278,Aarav Patel,Delhi,Footwear,Sandals,CottonCraft,SKU-46942,CottonCraft Sandals,2,9979.56,0.25,14969.34
+ORD-202512-62101,2025-12-02,CUST-4728,Ananya Iyer,Ahmedabad,Footwear,Boots,TrendHouse,SKU-72185,TrendHouse Boots,1,6643.68,0.05,6311.5
+ORD-202508-51035,2025-08-28,CUST-4077,Arjun Nair,Jaipur,Women's Clothing,Jackets,FlexWear,SKU-37470,FlexWear Jackets,2,4774.59,0.0,9549.18
+ORD-202501-50051,2025-01-16,CUST-1158,Kavya Singh,Jaipur,Accessories,Sunglasses,Everyday Co.,SKU-54541,Everyday Co. Sunglasses,1,5900.83,0.05,5605.79
+ORD-202512-84393,2025-12-20,CUST-1527,Ishaan Reddy,Coimbatore,Women's Clothing,Skirts,TrendHouse,SKU-53286,TrendHouse Skirts,2,3461.97,0.0,6923.94
+ORD-202507-24239,2025-07-20,CUST-6387,Nila Das,Mumbai,Activewear,Running Tops,TrendHouse,SKU-93755,TrendHouse Running Tops,1,4047.41,0.15,3440.3
+ORD-202512-89084,2025-12-12,CUST-9005,Aarav Reddy,Bengaluru,Footwear,Sneakers,StyleNova,SKU-36083,StyleNova Sneakers,2,609.97,0.25,914.96
+ORD-202504-17530,2025-04-30,CUST-7039,Rohan Kumar,Mumbai,Men's Clothing,Shirts,CottonCraft,SKU-32521,CottonCraft Shirts,1,5385.64,0.15,4577.79
+ORD-202502-19012,2025-02-26,CUST-7373,Ananya Reddy,Hyderabad,Footwear,Boots,TrendHouse,SKU-36958,TrendHouse Boots,1,4357.61,0.25,3268.21
+ORD-202503-36604,2025-03-23,CUST-9232,Kavya Patel,Kochi,Footwear,Boots,Everyday Co.,SKU-36437,Everyday Co. Boots,2,9408.8,0.2,15054.08
+ORD-202507-84609,2025-07-24,CUST-9043,Kavya Das,Bengaluru,Men's Clothing,Jeans,TrendHouse,SKU-85514,TrendHouse Jeans,2,2693.35,0.1,4848.03
+ORD-202506-61260,2025-06-27,CUST-3869,Arjun Iyer,Kochi,Men's Clothing,T-Shirts,CottonCraft,SKU-33537,CottonCraft T-Shirts,2,7201.98,0.1,12963.56
+ORD-202512-15723,2025-12-04,CUST-4927,Ishaan Patel,Coimbatore,Activewear,Running Tops,TrendHouse,SKU-92324,TrendHouse Running Tops,1,5814.57,0.15,4942.38
+ORD-202512-63907,2025-12-24,CUST-2986,Meera Sharma,Bengaluru,Activewear,Track Pants,LuxeLane,SKU-23791,LuxeLane Track Pants,2,9050.68,0.15,15386.16
+ORD-202503-13501,2025-03-26,CUST-2199,Kavya Nair,Kochi,Activewear,Track Pants,TrendHouse,SKU-55043,TrendHouse Track Pants,1,5207.83,0.15,4426.66
+ORD-202501-52875,2025-01-06,CUST-8606,Kavya Das,Chennai,Accessories,Belts,TrendHouse,SKU-18943,TrendHouse Belts,1,7177.27,0.05,6818.41
+ORD-202508-32359,2025-08-13,CUST-1295,Nila Sharma,Mumbai,Men's Clothing,Shorts,LuxeLane,SKU-33230,LuxeLane Shorts,1,8257.14,0.05,7844.28
+ORD-202503-45815,2025-03-28,CUST-3514,Kavya Singh,Coimbatore,Footwear,Sneakers,FlexWear,SKU-33322,FlexWear Sneakers,1,7705.81,0.25,5779.36
+ORD-202504-78534,2025-04-21,CUST-2684,Arjun Patel,Jaipur,Women's Clothing,Dresses,LuxeLane,SKU-68194,LuxeLane Dresses,1,762.23,0.25,571.67
+ORD-202507-41265,2025-07-13,CUST-4276,Diya Kumar,Chennai,Men's Clothing,Shorts,UrbanThread,SKU-65270,UrbanThread Shorts,3,9308.56,0.1,25133.11
+ORD-202512-97046,2025-12-15,CUST-3750,Ishaan Kumar,Mumbai,Men's Clothing,T-Shirts,CottonCraft,SKU-64484,CottonCraft T-Shirts,2,2438.51,0.0,4877.02
+ORD-202506-81002,2025-06-15,CUST-7472,Arjun Sharma,Pune,Activewear,Leggings,Everyday Co.,SKU-40462,Everyday Co. Leggings,2,2137.61,0.05,4061.46
+ORD-202503-61011,2025-03-30,CUST-4485,Kavya Iyer,Pune,Women's Clothing,Dresses,CottonCraft,SKU-18652,CottonCraft Dresses,1,6642.73,0.0,6642.73
+ORD-202504-23344,2025-04-22,CUST-9784,Nila Reddy,Bengaluru,Footwear,Sandals,UrbanThread,SKU-43022,UrbanThread Sandals,1,7744.19,0.15,6582.56
+ORD-202512-53522,2025-12-14,CUST-3872,Meera Das,Coimbatore,Men's Clothing,Shorts,CottonCraft,SKU-18849,CottonCraft Shorts,4,7781.64,0.05,29570.23
+ORD-202508-75984,2025-08-18,CUST-1217,Ananya Kumar,Ahmedabad,Footwear,Sneakers,FlexWear,SKU-90786,FlexWear Sneakers,1,6512.74,0.05,6187.1
+ORD-202505-75369,2025-05-05,CUST-5859,Ananya Reddy,Coimbatore,Men's Clothing,Jackets,StyleNova,SKU-59250,StyleNova Jackets,2,880.25,0.1,1584.45
+ORD-202508-51620,2025-08-16,CUST-1648,Rohan Nair,Ahmedabad,Women's Clothing,Dresses,StyleNova,SKU-94940,StyleNova Dresses,2,3487.29,0.1,6277.12
+ORD-202506-42550,2025-06-25,CUST-4644,Nila Nair,Pune,Footwear,Sneakers,StyleNova,SKU-78350,StyleNova Sneakers,1,5530.32,0.25,4147.74
+ORD-202502-16829,2025-02-03,CUST-3318,Ananya Reddy,Chennai,Footwear,Formal Shoes,TrendHouse,SKU-22027,TrendHouse Formal Shoes,3,977.85,0.05,2786.87
+ORD-202505-50824,2025-05-01,CUST-3689,Ananya Iyer,Mumbai,Women's Clothing,Jackets,FlexWear,SKU-65576,FlexWear Jackets,2,4433.53,0.15,7537.0
+ORD-202505-45633,2025-05-27,CUST-8883,Diya Singh,Delhi,Women's Clothing,Jackets,StyleNova,SKU-62198,StyleNova Jackets,2,9685.94,0.05,18403.29
+ORD-202508-73176,2025-08-05,CUST-1324,Arjun Nair,Kochi,Accessories,Belts,TrendHouse,SKU-20909,TrendHouse Belts,2,7427.8,0.05,14112.82
+ORD-202505-59171,2025-05-12,CUST-8878,Diya Singh,Hyderabad,Footwear,Formal Shoes,FlexWear,SKU-27911,FlexWear Formal Shoes,1,3265.72,0.1,2939.15
+ORD-202501-59054,2025-01-03,CUST-9051,Arjun Nair,Mumbai,Accessories,Belts,StyleNova,SKU-61727,StyleNova Belts,1,5155.79,0.25,3866.84
+ORD-202511-26315,2025-11-25,CUST-7304,Nila Reddy,Delhi,Footwear,Boots,TrendHouse,SKU-35457,TrendHouse Boots,5,989.97,0.0,4949.85
+ORD-202509-17563,2025-09-18,CUST-7313,Arjun Iyer,Pune,Accessories,Watches,Everyday Co.,SKU-41765,Everyday Co. Watches,2,6458.3,0.1,11624.94
+ORD-202511-94585,2025-11-20,CUST-3422,Vihaan Das,Pune,Accessories,Bags,Everyday Co.,SKU-99268,Everyday Co. Bags,2,573.08,0.25,859.62
+ORD-202510-25300,2025-10-24,CUST-2512,Arjun Nair,Ahmedabad,Women's Clothing,Jeans,StyleNova,SKU-86829,StyleNova Jeans,4,8461.7,0.0,33846.8
+ORD-202503-75620,2025-03-26,CUST-9735,Arjun Patel,Coimbatore,Men's Clothing,Shorts,StyleNova,SKU-63950,StyleNova Shorts,3,2751.85,0.1,7429.99
+ORD-202506-62162,2025-06-26,CUST-6047,Aarav Reddy,Ahmedabad,Men's Clothing,T-Shirts,LuxeLane,SKU-74451,LuxeLane T-Shirts,3,2908.51,0.05,8289.25
+ORD-202509-32365,2025-09-26,CUST-3890,Meera Reddy,Coimbatore,Men's Clothing,T-Shirts,UrbanThread,SKU-27607,UrbanThread T-Shirts,1,3095.9,0.15,2631.51
+ORD-202502-36337,2025-02-26,CUST-1966,Ishaan Iyer,Jaipur,Women's Clothing,Skirts,StyleNova,SKU-43993,StyleNova Skirts,2,8198.39,0.05,15576.94
+ORD-202502-21233,2025-02-25,CUST-7188,Diya Patel,Ahmedabad,Accessories,Sunglasses,LuxeLane,SKU-18423,LuxeLane Sunglasses,3,1910.42,0.1,5158.13
+ORD-202509-18002,2025-09-02,CUST-5359,Aarav Kumar,Mumbai,Footwear,Sneakers,FlexWear,SKU-22693,FlexWear Sneakers,2,7676.18,0.0,15352.36
+ORD-202507-73691,2025-07-12,CUST-8753,Meera Nair,Chennai,Women's Clothing,Jackets,Everyday Co.,SKU-54112,Everyday Co. Jackets,2,9871.9,0.1,17769.42
+ORD-202507-56665,2025-07-04,CUST-6410,Diya Kumar,Mumbai,Footwear,Sandals,CottonCraft,SKU-69889,CottonCraft Sandals,2,3969.83,0.0,7939.66
+ORD-202503-42576,2025-03-04,CUST-7036,Kavya Das,Ahmedabad,Accessories,Belts,UrbanThread,SKU-77490,UrbanThread Belts,3,3009.84,0.25,6772.14
+ORD-202501-52667,2025-01-09,CUST-8279,Ananya Das,Pune,Accessories,Belts,UrbanThread,SKU-62450,UrbanThread Belts,2,8771.31,0.25,13156.97
+ORD-202509-60444,2025-09-01,CUST-5814,Nila Iyer,Coimbatore,Activewear,Leggings,CottonCraft,SKU-28764,CottonCraft Leggings,5,8612.87,0.0,43064.35
+ORD-202502-71184,2025-02-14,CUST-3753,Kavya Sharma,Kochi,Activewear,Leggings,StyleNova,SKU-73198,StyleNova Leggings,1,6827.7,0.2,5462.16
+ORD-202503-23824,2025-03-29,CUST-8125,Aarav Reddy,Mumbai,Activewear,Sports Bras,StyleNova,SKU-52795,StyleNova Sports Bras,3,6698.53,0.0,20095.59
+ORD-202512-97225,2025-12-07,CUST-3224,Rohan Das,Delhi,Accessories,Watches,StyleNova,SKU-21854,StyleNova Watches,2,9004.86,0.0,18009.72
+ORD-202502-60023,2025-02-03,CUST-8159,Ananya Iyer,Ahmedabad,Footwear,Formal Shoes,FlexWear,SKU-43959,FlexWear Formal Shoes,2,3956.0,0.25,5934.0
+ORD-202502-25218,2025-02-15,CUST-7025,Ishaan Singh,Bengaluru,Men's Clothing,Jackets,UrbanThread,SKU-59832,UrbanThread Jackets,1,6043.34,0.05,5741.17
+ORD-202510-51896,2025-10-30,CUST-6980,Ishaan Iyer,Chennai,Activewear,Leggings,CottonCraft,SKU-23970,CottonCraft Leggings,2,8516.05,0.15,14477.28
+ORD-202506-75514,2025-06-11,CUST-8467,Ishaan Patel,Kochi,Accessories,Bags,FlexWear,SKU-29119,FlexWear Bags,1,9445.03,0.05,8972.78
+ORD-202509-85231,2025-09-15,CUST-8836,Ananya Das,Delhi,Men's Clothing,Shorts,CottonCraft,SKU-48206,CottonCraft Shorts,5,1496.6,0.25,5612.25
+ORD-202503-39500,2025-03-20,CUST-1861,Ishaan Das,Pune,Accessories,Bags,Everyday Co.,SKU-61355,Everyday Co. Bags,3,2341.95,0.25,5269.39
+ORD-202507-61296,2025-07-20,CUST-7407,Diya Patel,Jaipur,Footwear,Formal Shoes,UrbanThread,SKU-47010,UrbanThread Formal Shoes,1,6874.62,0.1,6187.16
+ORD-202503-49855,2025-03-09,CUST-8496,Ishaan Reddy,Bengaluru,Women's Clothing,Jackets,TrendHouse,SKU-67918,TrendHouse Jackets,1,7974.39,0.0,7974.39
+ORD-202504-11197,2025-04-22,CUST-6934,Nila Sharma,Mumbai,Accessories,Watches,StyleNova,SKU-98908,StyleNova Watches,3,2196.85,0.25,4942.91
+ORD-202501-16877,2025-01-29,CUST-2922,Rohan Singh,Hyderabad,Women's Clothing,Skirts,TrendHouse,SKU-87777,TrendHouse Skirts,1,9748.34,0.05,9260.92
+ORD-202505-49674,2025-05-06,CUST-3826,Arjun Sharma,Coimbatore,Accessories,Belts,LuxeLane,SKU-70774,LuxeLane Belts,1,2635.3,0.15,2240.01
+ORD-202507-74122,2025-07-08,CUST-9351,Ananya Kumar,Kochi,Accessories,Watches,LuxeLane,SKU-86919,LuxeLane Watches,1,1430.29,0.0,1430.29
+ORD-202510-66840,2025-10-31,CUST-5888,Nila Reddy,Bengaluru,Activewear,Running Tops,CottonCraft,SKU-23033,CottonCraft Running Tops,1,4995.66,0.25,3746.74
+ORD-202504-82883,2025-04-05,CUST-9788,Rohan Das,Jaipur,Footwear,Sneakers,LuxeLane,SKU-18379,LuxeLane Sneakers,1,7096.2,0.15,6031.77
+ORD-202512-33584,2025-12-04,CUST-1087,Rohan Das,Mumbai,Activewear,Leggings,Everyday Co.,SKU-51195,Everyday Co. Leggings,3,2051.44,0.2,4923.46
+ORD-202504-14588,2025-04-16,CUST-2386,Diya Patel,Ahmedabad,Men's Clothing,T-Shirts,StyleNova,SKU-57652,StyleNova T-Shirts,2,1150.86,0.1,2071.55
+ORD-202505-48456,2025-05-08,CUST-9750,Kavya Reddy,Chennai,Activewear,Sports Bras,TrendHouse,SKU-85637,TrendHouse Sports Bras,1,9477.28,0.2,7581.82
+ORD-202511-96850,2025-11-07,CUST-1732,Ananya Kumar,Pune,Accessories,Watches,FlexWear,SKU-34651,FlexWear Watches,2,2334.44,0.0,4668.88
+ORD-202503-46358,2025-03-10,CUST-3105,Nila Nair,Mumbai,Women's Clothing,Jeans,Everyday Co.,SKU-19746,Everyday Co. Jeans,2,2394.59,0.1,4310.26
+ORD-202511-43315,2025-11-29,CUST-7968,Ishaan Iyer,Coimbatore,Activewear,Track Pants,CottonCraft,SKU-19248,CottonCraft Track Pants,4,4179.58,0.0,16718.32
+ORD-202510-31501,2025-10-16,CUST-7876,Ishaan Singh,Pune,Footwear,Formal Shoes,LuxeLane,SKU-66836,LuxeLane Formal Shoes,2,8257.93,0.2,13212.69
+ORD-202502-81875,2025-02-09,CUST-7664,Diya Singh,Mumbai,Accessories,Bags,FlexWear,SKU-93909,FlexWear Bags,1,5454.26,0.25,4090.7
+ORD-202503-22838,2025-03-16,CUST-7179,Ananya Nair,Delhi,Men's Clothing,Jackets,CottonCraft,SKU-23762,CottonCraft Jackets,3,2488.93,0.0,7466.79
+ORD-202510-55731,2025-10-29,CUST-5620,Rohan Patel,Delhi,Men's Clothing,Jeans,FlexWear,SKU-89621,FlexWear Jeans,3,5048.3,0.2,12115.92
+ORD-202507-79688,2025-07-19,CUST-7597,Kavya Reddy,Pune,Men's Clothing,T-Shirts,StyleNova,SKU-43955,StyleNova T-Shirts,1,8118.02,0.25,6088.52
+ORD-202512-45044,2025-12-03,CUST-1866,Meera Iyer,Hyderabad,Men's Clothing,Shorts,LuxeLane,SKU-98895,LuxeLane Shorts,1,3973.37,0.25,2980.03
+ORD-202504-75828,2025-04-04,CUST-5699,Vihaan Nair,Kochi,Activewear,Running Tops,LuxeLane,SKU-78235,LuxeLane Running Tops,1,3732.81,0.15,3172.89
+ORD-202506-93188,2025-06-06,CUST-2302,Diya Iyer,Bengaluru,Women's Clothing,Jeans,LuxeLane,SKU-22272,LuxeLane Jeans,1,3332.55,0.0,3332.55
+ORD-202505-65572,2025-05-27,CUST-9334,Ishaan Das,Bengaluru,Women's Clothing,Jackets,UrbanThread,SKU-75248,UrbanThread Jackets,2,5079.65,0.0,10159.3
+ORD-202511-65702,2025-11-12,CUST-9754,Meera Iyer,Chennai,Activewear,Leggings,TrendHouse,SKU-96661,TrendHouse Leggings,1,8363.55,0.0,8363.55
+ORD-202503-39500,2025-03-28,CUST-3864,Diya Singh,Kochi,Activewear,Leggings,FlexWear,SKU-27474,FlexWear Leggings,2,8853.73,0.2,14165.97
+ORD-202509-54296,2025-09-11,CUST-5092,Rohan Sharma,Coimbatore,Activewear,Track Pants,UrbanThread,SKU-48019,UrbanThread Track Pants,1,3919.85,0.0,3919.85
+ORD-202504-38503,2025-04-20,CUST-5994,Rohan Kumar,Delhi,Footwear,Boots,CottonCraft,SKU-70693,CottonCraft Boots,1,6421.41,0.15,5458.2
+ORD-202501-24046,2025-01-04,CUST-1084,Meera Reddy,Pune,Activewear,Running Tops,UrbanThread,SKU-62699,UrbanThread Running Tops,2,3485.95,0.1,6274.71
+ORD-202509-63833,2025-09-09,CUST-3029,Kavya Kumar,Coimbatore,Footwear,Sneakers,UrbanThread,SKU-30398,UrbanThread Sneakers,1,5431.24,0.05,5159.68
+ORD-202507-80310,2025-07-11,CUST-5415,Diya Das,Coimbatore,Footwear,Formal Shoes,TrendHouse,SKU-96019,TrendHouse Formal Shoes,1,4453.91,0.05,4231.21
+ORD-202508-36013,2025-08-11,CUST-2813,Ananya Patel,Pune,Accessories,Belts,StyleNova,SKU-15276,StyleNova Belts,1,8869.69,0.25,6652.27
+ORD-202501-97194,2025-01-17,CUST-5354,Diya Nair,Pune,Women's Clothing,Skirts,TrendHouse,SKU-74103,TrendHouse Skirts,1,2229.22,0.15,1894.84
+ORD-202506-75779,2025-06-16,CUST-7370,Ishaan Sharma,Hyderabad,Activewear,Running Tops,Everyday Co.,SKU-24139,Everyday Co. Running Tops,3,7868.27,0.15,20064.09
+ORD-202509-98907,2025-09-14,CUST-6605,Arjun Kumar,Pune,Men's Clothing,Jeans,StyleNova,SKU-66928,StyleNova Jeans,1,6938.05,0.0,6938.05
+ORD-202502-77009,2025-02-12,CUST-4061,Ananya Patel,Kochi,Accessories,Watches,CottonCraft,SKU-25075,CottonCraft Watches,3,2702.15,0.05,7701.13
+ORD-202504-75841,2025-04-12,CUST-3968,Ananya Reddy,Coimbatore,Footwear,Formal Shoes,LuxeLane,SKU-40065,LuxeLane Formal Shoes,2,7891.35,0.0,15782.7
+ORD-202505-12314,2025-05-21,CUST-4270,Diya Kumar,Chennai,Men's Clothing,Jeans,TrendHouse,SKU-59853,TrendHouse Jeans,5,9311.25,0.15,39572.81
+ORD-202504-65977,2025-04-24,CUST-1846,Vihaan Sharma,Mumbai,Accessories,Hats,CottonCraft,SKU-45290,CottonCraft Hats,1,4947.19,0.2,3957.75
+ORD-202505-10070,2025-05-07,CUST-1854,Meera Iyer,Coimbatore,Footwear,Sandals,CottonCraft,SKU-47397,CottonCraft Sandals,1,760.3,0.0,760.3
+ORD-202508-53815,2025-08-09,CUST-5986,Diya Sharma,Bengaluru,Accessories,Watches,FlexWear,SKU-97680,FlexWear Watches,1,9497.78,0.1,8548.0
+ORD-202506-87189,2025-06-19,CUST-9664,Nila Singh,Hyderabad,Men's Clothing,Shorts,Everyday Co.,SKU-41228,Everyday Co. Shorts,1,8156.34,0.25,6117.26
+ORD-202502-88883,2025-02-14,CUST-2971,Aarav Iyer,Coimbatore,Footwear,Formal Shoes,FlexWear,SKU-35287,FlexWear Formal Shoes,3,1564.71,0.25,3520.6
+ORD-202511-79934,2025-11-13,CUST-3517,Aarav Reddy,Jaipur,Accessories,Bags,UrbanThread,SKU-35127,UrbanThread Bags,1,7334.9,0.05,6968.15
+ORD-202510-92557,2025-10-14,CUST-2923,Arjun Sharma,Delhi,Accessories,Hats,LuxeLane,SKU-73284,LuxeLane Hats,5,8979.66,0.15,38163.56
+ORD-202503-47965,2025-03-27,CUST-1744,Nila Kumar,Chennai,Accessories,Hats,FlexWear,SKU-34928,FlexWear Hats,2,7057.05,0.05,13408.4
+ORD-202509-60351,2025-09-20,CUST-7393,Arjun Patel,Jaipur,Accessories,Sunglasses,LuxeLane,SKU-37122,LuxeLane Sunglasses,5,1904.53,0.2,7618.12
+ORD-202504-69695,2025-04-22,CUST-9254,Rohan Patel,Ahmedabad,Women's Clothing,Dresses,StyleNova,SKU-49768,StyleNova Dresses,2,384.95,0.2,615.92
+ORD-202510-41223,2025-10-10,CUST-5781,Aarav Reddy,Delhi,Women's Clothing,Jeans,LuxeLane,SKU-46406,LuxeLane Jeans,1,2471.12,0.2,1976.9
+ORD-202511-80070,2025-11-25,CUST-2903,Aarav Singh,Chennai,Women's Clothing,Jeans,Everyday Co.,SKU-92927,Everyday Co. Jeans,5,9897.5,0.05,47013.12
+ORD-202512-63522,2025-12-28,CUST-5831,Meera Kumar,Bengaluru,Activewear,Track Pants,CottonCraft,SKU-92045,CottonCraft Track Pants,3,2860.17,0.05,8151.48
+ORD-202504-86449,2025-04-01,CUST-2743,Arjun Patel,Delhi,Men's Clothing,Jackets,StyleNova,SKU-92081,StyleNova Jackets,1,450.69,0.25,338.02
+ORD-202504-61834,2025-04-23,CUST-3550,Kavya Iyer,Kochi,Activewear,Sports Bras,Everyday Co.,SKU-66872,Everyday Co. Sports Bras,1,2277.01,0.25,1707.76
+ORD-202509-34754,2025-09-11,CUST-9036,Ishaan Patel,Bengaluru,Footwear,Formal Shoes,TrendHouse,SKU-12758,TrendHouse Formal Shoes,1,2093.77,0.05,1989.08
+ORD-202512-65888,2025-12-18,CUST-5018,Kavya Nair,Coimbatore,Footwear,Formal Shoes,StyleNova,SKU-23137,StyleNova Formal Shoes,2,972.7,0.0,1945.4
+ORD-202511-11776,2025-11-05,CUST-1716,Ishaan Iyer,Chennai,Activewear,Sports Bras,LuxeLane,SKU-20957,LuxeLane Sports Bras,1,4023.71,0.0,4023.71
+ORD-202501-81089,2025-01-07,CUST-6544,Diya Iyer,Ahmedabad,Footwear,Formal Shoes,LuxeLane,SKU-28249,LuxeLane Formal Shoes,3,390.14,0.0,1170.42
+ORD-202506-81241,2025-06-07,CUST-5382,Rohan Sharma,Hyderabad,Accessories,Hats,TrendHouse,SKU-12779,TrendHouse Hats,1,1797.78,0.0,1797.78
+ORD-202502-10158,2025-02-22,CUST-4675,Aarav Iyer,Delhi,Men's Clothing,T-Shirts,FlexWear,SKU-65985,FlexWear T-Shirts,2,8412.89,0.05,15984.49
+ORD-202504-24733,2025-04-26,CUST-9057,Ishaan Sharma,Delhi,Accessories,Belts,CottonCraft,SKU-39428,CottonCraft Belts,4,6937.85,0.25,20813.55
+ORD-202511-15681,2025-11-12,CUST-3475,Ishaan Nair,Bengaluru,Men's Clothing,Jackets,CottonCraft,SKU-79531,CottonCraft Jackets,1,3795.79,0.0,3795.79
+ORD-202503-47618,2025-03-18,CUST-6707,Diya Patel,Coimbatore,Footwear,Formal Shoes,LuxeLane,SKU-75437,LuxeLane Formal Shoes,3,6964.46,0.2,16714.7
+ORD-202501-29213,2025-01-02,CUST-6247,Ishaan Nair,Bengaluru,Footwear,Sandals,Everyday Co.,SKU-68549,Everyday Co. Sandals,3,9786.08,0.25,22018.68
+ORD-202508-52343,2025-08-07,CUST-3089,Ishaan Nair,Ahmedabad,Accessories,Bags,UrbanThread,SKU-56217,UrbanThread Bags,4,3000.22,0.0,12000.88
+ORD-202512-53707,2025-12-22,CUST-3264,Ananya Nair,Kochi,Footwear,Boots,TrendHouse,SKU-64874,TrendHouse Boots,5,6135.91,0.25,23009.66
+ORD-202509-20959,2025-09-10,CUST-7911,Rohan Iyer,Jaipur,Activewear,Running Tops,FlexWear,SKU-21436,FlexWear Running Tops,2,8266.62,0.15,14053.25
+ORD-202501-24438,2025-01-09,CUST-1976,Meera Singh,Mumbai,Women's Clothing,Jeans,UrbanThread,SKU-28264,UrbanThread Jeans,1,4896.09,0.05,4651.29
+ORD-202508-28061,2025-08-04,CUST-2920,Ishaan Nair,Jaipur,Footwear,Boots,StyleNova,SKU-13453,StyleNova Boots,1,8328.87,0.0,8328.87
+ORD-202512-30732,2025-12-06,CUST-1494,Ishaan Singh,Bengaluru,Accessories,Watches,UrbanThread,SKU-28517,UrbanThread Watches,2,4924.22,0.2,7878.75
+ORD-202510-71573,2025-10-19,CUST-3295,Rohan Patel,Chennai,Men's Clothing,Jeans,UrbanThread,SKU-71628,UrbanThread Jeans,3,4339.0,0.05,12366.15
+ORD-202505-14209,2025-05-27,CUST-3843,Rohan Reddy,Chennai,Accessories,Watches,TrendHouse,SKU-11424,TrendHouse Watches,1,881.01,0.25,660.76
+ORD-202510-75781,2025-10-11,CUST-6014,Ananya Nair,Kochi,Accessories,Sunglasses,LuxeLane,SKU-30552,LuxeLane Sunglasses,2,2802.13,0.2,4483.41
+ORD-202503-38692,2025-03-06,CUST-7427,Ishaan Sharma,Coimbatore,Footwear,Sneakers,FlexWear,SKU-71398,FlexWear Sneakers,2,4182.9,0.0,8365.8
+ORD-202507-65603,2025-07-14,CUST-4190,Vihaan Sharma,Coimbatore,Accessories,Watches,LuxeLane,SKU-23683,LuxeLane Watches,1,8091.39,0.25,6068.54
+ORD-202501-18561,2025-01-15,CUST-4471,Nila Kumar,Pune,Men's Clothing,Jackets,FlexWear,SKU-50516,FlexWear Jackets,1,1877.78,0.0,1877.78
+ORD-202505-15881,2025-05-04,CUST-8926,Aarav Kumar,Chennai,Women's Clothing,Jackets,StyleNova,SKU-51232,StyleNova Jackets,1,9772.63,0.2,7818.1
+ORD-202505-61202,2025-05-25,CUST-6830,Ishaan Sharma,Pune,Men's Clothing,Jackets,UrbanThread,SKU-53426,UrbanThread Jackets,4,5151.1,0.1,18543.96
+ORD-202503-86855,2025-03-18,CUST-1612,Vihaan Reddy,Jaipur,Accessories,Hats,UrbanThread,SKU-29862,UrbanThread Hats,1,8020.87,0.15,6817.74
+ORD-202504-28463,2025-04-29,CUST-3638,Rohan Singh,Bengaluru,Accessories,Bags,LuxeLane,SKU-68652,LuxeLane Bags,3,8131.52,0.25,18295.92
+ORD-202511-99505,2025-11-16,CUST-7350,Ananya Iyer,Pune,Women's Clothing,Jeans,CottonCraft,SKU-90004,CottonCraft Jeans,3,4478.74,0.25,10077.16
+ORD-202511-28693,2025-11-18,CUST-6071,Rohan Sharma,Ahmedabad,Activewear,Leggings,StyleNova,SKU-75393,StyleNova Leggings,5,1243.84,0.0,6219.2
+ORD-202506-56316,2025-06-01,CUST-2461,Diya Reddy,Hyderabad,Men's Clothing,Shirts,CottonCraft,SKU-70390,CottonCraft Shirts,1,3016.14,0.1,2714.53
+ORD-202511-73997,2025-11-29,CUST-1648,Meera Patel,Kochi,Footwear,Boots,CottonCraft,SKU-62551,CottonCraft Boots,4,9415.35,0.2,30129.12
+ORD-202508-58979,2025-08-14,CUST-2367,Arjun Das,Hyderabad,Accessories,Hats,LuxeLane,SKU-44449,LuxeLane Hats,1,8493.91,0.1,7644.52
+ORD-202505-23801,2025-05-06,CUST-5762,Arjun Reddy,Chennai,Men's Clothing,Shorts,LuxeLane,SKU-84728,LuxeLane Shorts,2,5738.76,0.05,10903.64
+ORD-202508-94211,2025-08-25,CUST-9767,Kavya Sharma,Coimbatore,Accessories,Bags,StyleNova,SKU-21248,StyleNova Bags,2,3683.7,0.15,6262.29
+ORD-202504-89215,2025-04-13,CUST-8967,Ananya Das,Coimbatore,Women's Clothing,Dresses,TrendHouse,SKU-24984,TrendHouse Dresses,1,924.37,0.1,831.93
+ORD-202503-51967,2025-03-21,CUST-1513,Nila Nair,Jaipur,Footwear,Boots,UrbanThread,SKU-18178,UrbanThread Boots,4,1710.48,0.05,6499.82
+ORD-202501-65433,2025-01-28,CUST-5421,Vihaan Reddy,Mumbai,Footwear,Boots,TrendHouse,SKU-20956,TrendHouse Boots,1,521.54,0.25,391.15
+ORD-202502-78783,2025-02-11,CUST-4507,Vihaan Reddy,Coimbatore,Women's Clothing,Dresses,CottonCraft,SKU-17044,CottonCraft Dresses,1,7207.41,0.15,6126.3
+ORD-202503-72324,2025-03-26,CUST-9773,Ishaan Nair,Delhi,Men's Clothing,Shirts,CottonCraft,SKU-56490,CottonCraft Shirts,1,9435.83,0.15,8020.46
+ORD-202510-97551,2025-10-15,CUST-3369,Meera Singh,Chennai,Activewear,Running Tops,Everyday Co.,SKU-11859,Everyday Co. Running Tops,3,6091.15,0.0,18273.45
+ORD-202506-44446,2025-06-12,CUST-9531,Aarav Das,Kochi,Women's Clothing,Skirts,StyleNova,SKU-26478,StyleNova Skirts,1,9707.77,0.15,8251.6
+ORD-202504-81576,2025-04-22,CUST-3721,Nila Nair,Chennai,Accessories,Hats,UrbanThread,SKU-38329,UrbanThread Hats,2,2119.27,0.25,3178.9
+ORD-202501-50234,2025-01-08,CUST-9226,Diya Das,Ahmedabad,Footwear,Formal Shoes,StyleNova,SKU-95054,StyleNova Formal Shoes,1,3827.81,0.1,3445.03
+ORD-202506-24860,2025-06-30,CUST-3880,Kavya Nair,Pune,Accessories,Sunglasses,TrendHouse,SKU-58905,TrendHouse Sunglasses,3,4429.74,0.1,11960.3
+ORD-202510-99165,2025-10-05,CUST-8167,Vihaan Sharma,Hyderabad,Women's Clothing,Jackets,FlexWear,SKU-21484,FlexWear Jackets,1,3063.77,0.25,2297.83
+ORD-202511-91766,2025-11-12,CUST-9924,Diya Das,Chennai,Men's Clothing,T-Shirts,LuxeLane,SKU-75976,LuxeLane T-Shirts,4,1304.65,0.25,3913.95
+ORD-202508-59948,2025-08-04,CUST-2875,Ananya Das,Delhi,Activewear,Leggings,LuxeLane,SKU-26310,LuxeLane Leggings,1,7834.74,0.2,6267.79
+ORD-202501-47172,2025-01-04,CUST-5384,Vihaan Patel,Coimbatore,Footwear,Boots,TrendHouse,SKU-64357,TrendHouse Boots,4,7886.3,0.2,25236.16
+ORD-202501-88636,2025-01-08,CUST-6201,Meera Reddy,Chennai,Women's Clothing,Dresses,TrendHouse,SKU-84997,TrendHouse Dresses,1,7966.95,0.2,6373.56
+ORD-202504-85740,2025-04-09,CUST-8030,Ishaan Nair,Coimbatore,Accessories,Belts,FlexWear,SKU-32769,FlexWear Belts,2,4114.18,0.0,8228.36
+ORD-202508-76093,2025-08-12,CUST-2939,Nila Nair,Hyderabad,Accessories,Watches,FlexWear,SKU-92223,FlexWear Watches,1,7186.24,0.05,6826.93
+ORD-202502-87763,2025-02-17,CUST-3507,Aarav Sharma,Mumbai,Footwear,Formal Shoes,CottonCraft,SKU-84946,CottonCraft Formal Shoes,1,4541.98,0.25,3406.48
+ORD-202508-41420,2025-08-21,CUST-4633,Vihaan Iyer,Hyderabad,Accessories,Bags,LuxeLane,SKU-80178,LuxeLane Bags,2,7841.62,0.05,14899.08
+ORD-202512-92239,2025-12-04,CUST-1379,Nila Sharma,Delhi,Women's Clothing,Skirts,Everyday Co.,SKU-24540,Everyday Co. Skirts,1,1103.74,0.05,1048.55
+ORD-202503-20142,2025-03-14,CUST-9097,Meera Iyer,Bengaluru,Accessories,Hats,UrbanThread,SKU-61222,UrbanThread Hats,1,8976.67,0.0,8976.67
+ORD-202507-37563,2025-07-31,CUST-7879,Arjun Singh,Chennai,Men's Clothing,Shirts,Everyday Co.,SKU-93040,Everyday Co. Shirts,1,9603.41,0.0,9603.41
+ORD-202501-89515,2025-01-06,CUST-1515,Diya Singh,Delhi,Accessories,Belts,StyleNova,SKU-55453,StyleNova Belts,4,6697.76,0.25,20093.28
+ORD-202501-35276,2025-01-03,CUST-1484,Rohan Kumar,Jaipur,Accessories,Hats,FlexWear,SKU-77894,FlexWear Hats,1,7493.46,0.0,7493.46
+ORD-202502-38804,2025-02-28,CUST-2367,Ishaan Patel,Pune,Activewear,Sports Bras,StyleNova,SKU-45870,StyleNova Sports Bras,3,585.13,0.05,1667.62
+ORD-202512-74985,2025-12-29,CUST-8144,Rohan Nair,Pune,Accessories,Belts,UrbanThread,SKU-35304,UrbanThread Belts,2,3153.91,0.25,4730.86
+ORD-202507-50840,2025-07-21,CUST-3714,Ananya Das,Delhi,Footwear,Formal Shoes,StyleNova,SKU-66815,StyleNova Formal Shoes,1,7992.59,0.2,6394.07
+ORD-202506-36177,2025-06-13,CUST-6782,Meera Sharma,Delhi,Accessories,Sunglasses,FlexWear,SKU-68904,FlexWear Sunglasses,2,6189.77,0.15,10522.61
+ORD-202510-79533,2025-10-28,CUST-6771,Arjun Kumar,Delhi,Women's Clothing,Dresses,FlexWear,SKU-25027,FlexWear Dresses,1,6156.66,0.25,4617.49
+ORD-202507-58754,2025-07-03,CUST-3376,Meera Sharma,Hyderabad,Women's Clothing,Jeans,TrendHouse,SKU-11262,TrendHouse Jeans,1,2386.29,0.1,2147.66
+ORD-202504-83615,2025-04-20,CUST-2085,Arjun Patel,Pune,Footwear,Sneakers,LuxeLane,SKU-88879,LuxeLane Sneakers,2,8012.82,0.05,15224.36
+ORD-202510-19807,2025-10-15,CUST-7909,Arjun Singh,Bengaluru,Women's Clothing,Jackets,StyleNova,SKU-51958,StyleNova Jackets,1,6195.67,0.25,4646.75
+ORD-202509-26265,2025-09-13,CUST-8418,Ishaan Singh,Kochi,Women's Clothing,Tops,UrbanThread,SKU-87485,UrbanThread Tops,1,2960.83,0.0,2960.83
+ORD-202505-10609,2025-05-26,CUST-8565,Vihaan Reddy,Chennai,Accessories,Belts,FlexWear,SKU-62797,FlexWear Belts,1,7897.06,0.2,6317.65
+ORD-202506-64405,2025-06-22,CUST-5931,Vihaan Singh,Chennai,Men's Clothing,Shorts,FlexWear,SKU-55327,FlexWear Shorts,2,972.7,0.0,1945.4
+ORD-202509-69582,2025-09-10,CUST-9082,Diya Singh,Pune,Accessories,Bags,FlexWear,SKU-90999,FlexWear Bags,2,4114.28,0.25,6171.42
+ORD-202501-67105,2025-01-06,CUST-4708,Ishaan Sharma,Chennai,Men's Clothing,T-Shirts,StyleNova,SKU-35055,StyleNova T-Shirts,1,9936.34,0.25,7452.26
+ORD-202505-49883,2025-05-13,CUST-2229,Vihaan Singh,Chennai,Footwear,Sneakers,LuxeLane,SKU-90314,LuxeLane Sneakers,3,716.84,0.0,2150.52
+ORD-202503-29398,2025-03-12,CUST-7771,Kavya Sharma,Hyderabad,Accessories,Watches,LuxeLane,SKU-78388,LuxeLane Watches,2,1462.04,0.1,2631.67
+ORD-202512-73269,2025-12-05,CUST-4700,Diya Patel,Kochi,Activewear,Sports Bras,FlexWear,SKU-48828,FlexWear Sports Bras,2,3020.25,0.25,4530.38
+ORD-202512-20225,2025-12-04,CUST-2231,Kavya Kumar,Mumbai,Men's Clothing,Jackets,FlexWear,SKU-37849,FlexWear Jackets,2,8600.88,0.25,12901.32
+ORD-202504-79159,2025-04-07,CUST-9420,Meera Patel,Coimbatore,Men's Clothing,Jeans,TrendHouse,SKU-69509,TrendHouse Jeans,2,3601.37,0.2,5762.19
+ORD-202504-91327,2025-04-23,CUST-9412,Ananya Nair,Hyderabad,Women's Clothing,Jackets,UrbanThread,SKU-34635,UrbanThread Jackets,4,4039.08,0.15,13732.87
+ORD-202512-23377,2025-12-18,CUST-3413,Kavya Sharma,Hyderabad,Men's Clothing,Jackets,TrendHouse,SKU-24444,TrendHouse Jackets,1,8736.36,0.25,6552.27
+ORD-202505-56131,2025-05-17,CUST-5351,Diya Sharma,Hyderabad,Women's Clothing,Dresses,TrendHouse,SKU-56455,TrendHouse Dresses,1,6719.29,0.15,5711.4
+ORD-202509-45728,2025-09-15,CUST-7058,Diya Kumar,Coimbatore,Accessories,Belts,StyleNova,SKU-95016,StyleNova Belts,1,3536.27,0.15,3005.83
+ORD-202504-89619,2025-04-07,CUST-9087,Rohan Nair,Delhi,Accessories,Sunglasses,StyleNova,SKU-24311,StyleNova Sunglasses,1,6061.28,0.2,4849.02
+ORD-202502-41295,2025-02-28,CUST-2078,Rohan Sharma,Mumbai,Men's Clothing,Jeans,UrbanThread,SKU-46105,UrbanThread Jeans,1,645.17,0.1,580.65
+ORD-202507-45162,2025-07-20,CUST-9112,Ananya Reddy,Coimbatore,Women's Clothing,Jackets,LuxeLane,SKU-36683,LuxeLane Jackets,1,2431.92,0.25,1823.94
+ORD-202505-91542,2025-05-28,CUST-8811,Vihaan Iyer,Ahmedabad,Footwear,Sandals,LuxeLane,SKU-32312,LuxeLane Sandals,2,1213.15,0.2,1941.04
+ORD-202506-97298,2025-06-20,CUST-8775,Arjun Singh,Hyderabad,Footwear,Sneakers,StyleNova,SKU-12729,StyleNova Sneakers,3,1674.79,0.0,5024.37
+ORD-202512-72105,2025-12-14,CUST-1016,Kavya Iyer,Hyderabad,Women's Clothing,Jeans,UrbanThread,SKU-71940,UrbanThread Jeans,3,393.42,0.1,1062.23
+ORD-202510-78848,2025-10-18,CUST-9243,Ishaan Reddy,Chennai,Men's Clothing,T-Shirts,Everyday Co.,SKU-22308,Everyday Co. T-Shirts,2,3118.39,0.05,5924.94
+ORD-202508-43730,2025-08-20,CUST-8970,Vihaan Singh,Pune,Men's Clothing,Jackets,Everyday Co.,SKU-70129,Everyday Co. Jackets,2,3701.58,0.2,5922.53
+ORD-202509-73485,2025-09-23,CUST-2847,Vihaan Kumar,Pune,Men's Clothing,Jackets,CottonCraft,SKU-29385,CottonCraft Jackets,3,8611.47,0.2,20667.53
+ORD-202507-66455,2025-07-02,CUST-6888,Ananya Sharma,Hyderabad,Accessories,Belts,LuxeLane,SKU-35407,LuxeLane Belts,2,2669.37,0.25,4004.05
+ORD-202508-44774,2025-08-19,CUST-6715,Meera Nair,Jaipur,Accessories,Bags,CottonCraft,SKU-87220,CottonCraft Bags,5,8797.1,0.05,41786.22
+ORD-202501-26116,2025-01-22,CUST-8101,Kavya Singh,Mumbai,Accessories,Watches,CottonCraft,SKU-47802,CottonCraft Watches,2,7106.81,0.2,11370.9
+ORD-202508-91762,2025-08-27,CUST-3664,Vihaan Das,Hyderabad,Men's Clothing,T-Shirts,TrendHouse,SKU-47782,TrendHouse T-Shirts,2,5373.91,0.1,9673.04
+ORD-202501-16972,2025-01-21,CUST-9001,Vihaan Kumar,Kochi,Men's Clothing,Jackets,UrbanThread,SKU-66403,UrbanThread Jackets,1,8306.06,0.0,8306.06
+ORD-202503-97205,2025-03-12,CUST-3540,Diya Patel,Delhi,Footwear,Sneakers,UrbanThread,SKU-28696,UrbanThread Sneakers,1,3046.68,0.2,2437.34
+ORD-202505-42601,2025-05-29,CUST-7328,Arjun Nair,Bengaluru,Women's Clothing,Skirts,FlexWear,SKU-22863,FlexWear Skirts,1,4888.82,0.1,4399.94
+ORD-202503-85781,2025-03-30,CUST-3280,Ananya Patel,Delhi,Footwear,Sandals,FlexWear,SKU-27785,FlexWear Sandals,2,6884.56,0.1,12392.21
+ORD-202506-70444,2025-06-06,CUST-9942,Ishaan Nair,Delhi,Accessories,Hats,StyleNova,SKU-67264,StyleNova Hats,1,5795.65,0.25,4346.74
+ORD-202512-56865,2025-12-22,CUST-8673,Meera Nair,Kochi,Men's Clothing,Jeans,FlexWear,SKU-71151,FlexWear Jeans,1,9367.33,0.25,7025.5
+ORD-202510-28426,2025-10-14,CUST-5954,Ananya Singh,Chennai,Accessories,Sunglasses,TrendHouse,SKU-26682,TrendHouse Sunglasses,1,7736.67,0.0,7736.67
+ORD-202503-70322,2025-03-06,CUST-1890,Diya Kumar,Coimbatore,Activewear,Track Pants,UrbanThread,SKU-45412,UrbanThread Track Pants,1,356.74,0.2,285.39
+ORD-202505-25917,2025-05-29,CUST-9369,Aarav Iyer,Bengaluru,Men's Clothing,Jackets,FlexWear,SKU-77667,FlexWear Jackets,2,6997.75,0.0,13995.5
+ORD-202503-49438,2025-03-11,CUST-6093,Aarav Das,Kochi,Women's Clothing,Jackets,LuxeLane,SKU-91744,LuxeLane Jackets,1,6853.1,0.05,6510.44
+ORD-202503-42401,2025-03-20,CUST-4347,Diya Das,Chennai,Women's Clothing,Dresses,UrbanThread,SKU-13231,UrbanThread Dresses,2,1473.03,0.0,2946.06
+ORD-202503-40792,2025-03-04,CUST-9957,Vihaan Das,Chennai,Activewear,Running Tops,TrendHouse,SKU-96266,TrendHouse Running Tops,1,4991.08,0.05,4741.53
+ORD-202511-96175,2025-11-22,CUST-4943,Ishaan Iyer,Hyderabad,Activewear,Leggings,TrendHouse,SKU-72411,TrendHouse Leggings,1,1673.36,0.25,1255.02
+ORD-202510-60570,2025-10-29,CUST-2758,Kavya Nair,Bengaluru,Accessories,Watches,CottonCraft,SKU-65683,CottonCraft Watches,2,6775.69,0.15,11518.67
+ORD-202503-14467,2025-03-03,CUST-8282,Aarav Singh,Kochi,Women's Clothing,Dresses,CottonCraft,SKU-28258,CottonCraft Dresses,2,405.89,0.1,730.6
+ORD-202503-37627,2025-03-23,CUST-6715,Rohan Nair,Chennai,Accessories,Sunglasses,CottonCraft,SKU-77245,CottonCraft Sunglasses,1,8600.64,0.2,6880.51
+ORD-202506-28355,2025-06-30,CUST-5560,Vihaan Nair,Hyderabad,Men's Clothing,Jeans,LuxeLane,SKU-18940,LuxeLane Jeans,2,5761.53,0.15,9794.6
+ORD-202512-96364,2025-12-04,CUST-9608,Vihaan Reddy,Ahmedabad,Accessories,Sunglasses,TrendHouse,SKU-52477,TrendHouse Sunglasses,1,7171.45,0.2,5737.16
+ORD-202507-30863,2025-07-26,CUST-4796,Diya Sharma,Ahmedabad,Activewear,Track Pants,FlexWear,SKU-75461,FlexWear Track Pants,1,585.36,0.25,439.02
+ORD-202505-60342,2025-05-02,CUST-7882,Diya Kumar,Mumbai,Accessories,Watches,Everyday Co.,SKU-90203,Everyday Co. Watches,1,8842.33,0.25,6631.75
+ORD-202508-32815,2025-08-15,CUST-6261,Diya Das,Bengaluru,Footwear,Sneakers,UrbanThread,SKU-59496,UrbanThread Sneakers,3,6182.37,0.0,18547.11
+ORD-202504-39556,2025-04-11,CUST-4296,Ishaan Nair,Mumbai,Women's Clothing,Jackets,FlexWear,SKU-79275,FlexWear Jackets,1,4542.89,0.1,4088.6
+ORD-202511-28423,2025-11-19,CUST-1085,Meera Nair,Chennai,Women's Clothing,Dresses,FlexWear,SKU-84487,FlexWear Dresses,4,1232.2,0.0,4928.8
+ORD-202512-79226,2025-12-16,CUST-9129,Ananya Iyer,Hyderabad,Activewear,Leggings,CottonCraft,SKU-84759,CottonCraft Leggings,2,9135.59,0.25,13703.39
+ORD-202511-67524,2025-11-13,CUST-8004,Arjun Sharma,Pune,Accessories,Hats,CottonCraft,SKU-84599,CottonCraft Hats,3,8577.19,0.0,25731.57
+ORD-202506-88838,2025-06-02,CUST-9856,Meera Kumar,Jaipur,Men's Clothing,Jeans,Everyday Co.,SKU-39362,Everyday Co. Jeans,1,5136.51,0.0,5136.51
+ORD-202502-19801,2025-02-04,CUST-9755,Nila Iyer,Pune,Footwear,Sandals,TrendHouse,SKU-77863,TrendHouse Sandals,3,1830.27,0.1,4941.73
+ORD-202501-71732,2025-01-30,CUST-5309,Aarav Kumar,Ahmedabad,Activewear,Track Pants,TrendHouse,SKU-54308,TrendHouse Track Pants,2,8949.54,0.2,14319.26
+ORD-202501-53202,2025-01-31,CUST-2021,Ananya Das,Pune,Accessories,Watches,StyleNova,SKU-19556,StyleNova Watches,1,5605.75,0.25,4204.31
+ORD-202508-82276,2025-08-02,CUST-8844,Ishaan Patel,Bengaluru,Activewear,Leggings,CottonCraft,SKU-15471,CottonCraft Leggings,2,6239.6,0.0,12479.2
+ORD-202504-39852,2025-04-26,CUST-1351,Aarav Kumar,Jaipur,Men's Clothing,T-Shirts,TrendHouse,SKU-35712,TrendHouse T-Shirts,2,4484.7,0.1,8072.46
+ORD-202510-26415,2025-10-10,CUST-8040,Arjun Reddy,Chennai,Activewear,Running Tops,LuxeLane,SKU-25149,LuxeLane Running Tops,2,4054.11,0.15,6891.99
+ORD-202506-41217,2025-06-30,CUST-4801,Diya Kumar,Pune,Accessories,Bags,FlexWear,SKU-39769,FlexWear Bags,1,4533.29,0.0,4533.29
+ORD-202501-20041,2025-01-08,CUST-1928,Ishaan Das,Chennai,Accessories,Hats,FlexWear,SKU-33670,FlexWear Hats,3,2723.25,0.0,8169.75
+ORD-202511-27002,2025-11-05,CUST-7517,Kavya Sharma,Pune,Footwear,Sneakers,CottonCraft,SKU-96060,CottonCraft Sneakers,2,2668.17,0.1,4802.71
+ORD-202504-38873,2025-04-16,CUST-8266,Vihaan Singh,Jaipur,Men's Clothing,T-Shirts,CottonCraft,SKU-82273,CottonCraft T-Shirts,2,7430.62,0.1,13375.12
+ORD-202506-55434,2025-06-13,CUST-7731,Nila Das,Delhi,Footwear,Formal Shoes,FlexWear,SKU-46671,FlexWear Formal Shoes,2,5182.42,0.0,10364.84
+ORD-202504-58809,2025-04-29,CUST-3325,Aarav Iyer,Jaipur,Men's Clothing,Jeans,StyleNova,SKU-67708,StyleNova Jeans,1,5662.77,0.0,5662.77
+ORD-202501-21074,2025-01-18,CUST-1978,Vihaan Nair,Kochi,Accessories,Bags,UrbanThread,SKU-74927,UrbanThread Bags,1,6004.93,0.1,5404.44
+ORD-202501-66503,2025-01-23,CUST-9724,Aarav Patel,Kochi,Men's Clothing,Shirts,TrendHouse,SKU-14103,TrendHouse Shirts,1,3978.47,0.25,2983.85
+ORD-202506-38382,2025-06-22,CUST-1448,Meera Nair,Ahmedabad,Activewear,Track Pants,UrbanThread,SKU-66039,UrbanThread Track Pants,4,9101.26,0.2,29124.03
+ORD-202512-70752,2025-12-14,CUST-7944,Nila Patel,Coimbatore,Men's Clothing,T-Shirts,FlexWear,SKU-31305,FlexWear T-Shirts,1,9910.64,0.2,7928.51
+ORD-202503-45965,2025-03-09,CUST-2401,Ananya Patel,Mumbai,Accessories,Sunglasses,LuxeLane,SKU-54241,LuxeLane Sunglasses,4,3021.79,0.25,9065.37
+ORD-202505-89691,2025-05-21,CUST-1202,Diya Patel,Ahmedabad,Activewear,Running Tops,UrbanThread,SKU-84506,UrbanThread Running Tops,1,6693.53,0.25,5020.15
+ORD-202508-14850,2025-08-16,CUST-6877,Kavya Iyer,Hyderabad,Footwear,Sandals,Everyday Co.,SKU-63557,Everyday Co. Sandals,2,4566.12,0.15,7762.4
+ORD-202511-33567,2025-11-09,CUST-5227,Vihaan Patel,Delhi,Men's Clothing,Shorts,UrbanThread,SKU-74871,UrbanThread Shorts,2,9545.94,0.15,16228.1
+ORD-202503-25000,2025-03-17,CUST-1630,Ishaan Das,Hyderabad,Women's Clothing,Tops,LuxeLane,SKU-86007,LuxeLane Tops,3,6661.99,0.05,18986.67
+ORD-202502-12112,2025-02-01,CUST-6789,Rohan Kumar,Mumbai,Footwear,Sneakers,FlexWear,SKU-88719,FlexWear Sneakers,4,9921.12,0.1,35716.03
+ORD-202509-36744,2025-09-17,CUST-6337,Nila Singh,Bengaluru,Women's Clothing,Jeans,UrbanThread,SKU-99262,UrbanThread Jeans,1,5256.04,0.05,4993.24
+ORD-202505-53907,2025-05-25,CUST-7686,Meera Das,Coimbatore,Accessories,Bags,LuxeLane,SKU-48543,LuxeLane Bags,1,3466.44,0.1,3119.8
+ORD-202501-13346,2025-01-23,CUST-2740,Nila Iyer,Pune,Activewear,Leggings,StyleNova,SKU-51039,StyleNova Leggings,1,1754.61,0.2,1403.69
+ORD-202510-95093,2025-10-26,CUST-2285,Diya Iyer,Coimbatore,Activewear,Track Pants,StyleNova,SKU-84108,StyleNova Track Pants,1,7343.72,0.15,6242.16
+ORD-202509-78740,2025-09-28,CUST-9525,Kavya Singh,Bengaluru,Activewear,Running Tops,FlexWear,SKU-45282,FlexWear Running Tops,3,6187.89,0.25,13922.75
+ORD-202506-40263,2025-06-18,CUST-8468,Meera Sharma,Mumbai,Women's Clothing,Jackets,CottonCraft,SKU-41594,CottonCraft Jackets,1,7745.14,0.1,6970.63
+ORD-202506-95633,2025-06-30,CUST-8932,Nila Iyer,Bengaluru,Accessories,Sunglasses,CottonCraft,SKU-68847,CottonCraft Sunglasses,2,1040.5,0.1,1872.9
+ORD-202510-86645,2025-10-03,CUST-3263,Nila Patel,Hyderabad,Accessories,Belts,FlexWear,SKU-47602,FlexWear Belts,1,9118.88,0.25,6839.16
+ORD-202507-74775,2025-07-29,CUST-4245,Ishaan Das,Bengaluru,Footwear,Sandals,UrbanThread,SKU-12033,UrbanThread Sandals,1,9836.5,0.2,7869.2
+ORD-202510-26567,2025-10-11,CUST-1558,Arjun Kumar,Delhi,Women's Clothing,Dresses,TrendHouse,SKU-31880,TrendHouse Dresses,2,4856.64,0.0,9713.28
+ORD-202507-82999,2025-07-18,CUST-4955,Vihaan Sharma,Jaipur,Men's Clothing,Jeans,FlexWear,SKU-54146,FlexWear Jeans,4,3736.37,0.15,12703.66
+ORD-202502-63592,2025-02-07,CUST-8368,Arjun Patel,Chennai,Footwear,Sneakers,LuxeLane,SKU-72535,LuxeLane Sneakers,2,3742.09,0.15,6361.55
+ORD-202509-87732,2025-09-18,CUST-7060,Kavya Nair,Ahmedabad,Women's Clothing,Tops,LuxeLane,SKU-52000,LuxeLane Tops,1,8986.31,0.2,7189.05
+ORD-202505-74656,2025-05-24,CUST-6588,Aarav Nair,Ahmedabad,Accessories,Belts,FlexWear,SKU-47389,FlexWear Belts,4,1238.92,0.1,4460.11
+ORD-202503-37614,2025-03-15,CUST-8053,Rohan Patel,Hyderabad,Footwear,Boots,CottonCraft,SKU-85384,CottonCraft Boots,1,9466.01,0.25,7099.51
+ORD-202505-67529,2025-05-26,CUST-4664,Ishaan Patel,Pune,Activewear,Track Pants,UrbanThread,SKU-44003,UrbanThread Track Pants,1,3091.08,0.15,2627.42
+ORD-202503-32131,2025-03-14,CUST-1448,Nila Kumar,Delhi,Activewear,Leggings,StyleNova,SKU-80756,StyleNova Leggings,1,5654.99,0.2,4523.99
+ORD-202501-65902,2025-01-14,CUST-8288,Rohan Reddy,Kochi,Activewear,Sports Bras,UrbanThread,SKU-69486,UrbanThread Sports Bras,1,3032.82,0.2,2426.26
+ORD-202508-27933,2025-08-16,CUST-5562,Diya Singh,Bengaluru,Footwear,Sneakers,LuxeLane,SKU-20363,LuxeLane Sneakers,3,5083.58,0.0,15250.74
+ORD-202509-77219,2025-09-17,CUST-2213,Meera Kumar,Hyderabad,Women's Clothing,Dresses,CottonCraft,SKU-66803,CottonCraft Dresses,1,4697.6,0.25,3523.2
+ORD-202510-93164,2025-10-13,CUST-1130,Ananya Reddy,Mumbai,Men's Clothing,Shorts,CottonCraft,SKU-86853,CottonCraft Shorts,2,8811.46,0.0,17622.92
+ORD-202505-75106,2025-05-16,CUST-5630,Ishaan Iyer,Mumbai,Accessories,Belts,LuxeLane,SKU-93200,LuxeLane Belts,2,4998.72,0.05,9497.57
+ORD-202501-37334,2025-01-02,CUST-3918,Aarav Nair,Mumbai,Men's Clothing,Shorts,Everyday Co.,SKU-44481,Everyday Co. Shorts,1,5058.7,0.2,4046.96
+ORD-202505-33601,2025-05-01,CUST-5916,Ananya Patel,Ahmedabad,Activewear,Running Tops,LuxeLane,SKU-97552,LuxeLane Running Tops,2,4996.06,0.25,7494.09
+ORD-202511-38695,2025-11-03,CUST-2841,Vihaan Nair,Coimbatore,Accessories,Sunglasses,Everyday Co.,SKU-68611,Everyday Co. Sunglasses,1,4964.3,0.0,4964.3
+ORD-202503-24881,2025-03-01,CUST-6694,Arjun Reddy,Coimbatore,Footwear,Formal Shoes,LuxeLane,SKU-73404,LuxeLane Formal Shoes,1,9575.26,0.25,7181.44
+ORD-202501-17969,2025-01-15,CUST-6295,Vihaan Singh,Mumbai,Accessories,Hats,TrendHouse,SKU-63900,TrendHouse Hats,1,5221.63,0.15,4438.39
+ORD-202505-38697,2025-05-14,CUST-6567,Aarav Patel,Coimbatore,Accessories,Sunglasses,TrendHouse,SKU-68672,TrendHouse Sunglasses,4,2901.68,0.25,8705.04
+ORD-202510-90052,2025-10-02,CUST-6401,Ishaan Kumar,Hyderabad,Accessories,Belts,FlexWear,SKU-12767,FlexWear Belts,1,6364.28,0.2,5091.42
+ORD-202506-16450,2025-06-30,CUST-9497,Ananya Singh,Pune,Accessories,Bags,Everyday Co.,SKU-80185,Everyday Co. Bags,3,5662.07,0.25,12739.66
+ORD-202507-59005,2025-07-22,CUST-6431,Arjun Iyer,Jaipur,Women's Clothing,Tops,Everyday Co.,SKU-82476,Everyday Co. Tops,3,2523.54,0.05,7192.09
+ORD-202509-15542,2025-09-27,CUST-3571,Vihaan Patel,Chennai,Women's Clothing,Dresses,UrbanThread,SKU-13177,UrbanThread Dresses,1,4158.99,0.15,3535.14
+ORD-202503-27195,2025-03-05,CUST-5423,Diya Sharma,Delhi,Women's Clothing,Tops,UrbanThread,SKU-19684,UrbanThread Tops,3,3964.21,0.15,10108.74
