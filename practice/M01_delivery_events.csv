@@ -1,9 +1,0 @@
-delivery_id,hub,distance_km,delivery_fee,status
-D101,North,12,120,Delivered
-D102,South,8,80,Delivered
-D103,North,10,100,Pending
-D104,East,5,60,Delivered
-D105,West,7,70,Delivered
-D106,South,9,90,Delivered
-D107,East,4,50,Cancelled
-D108,West,11,110,Delivered
