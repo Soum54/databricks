@@ -1,0 +1,5 @@
+subscription_id,customer_id,plan_name,monthly_fee,operation
+S102,C02,Premium,999,UPDATE
+S104,C04,Premium,999,DELETE
+S107,C07,Basic,299,INSERT
+S108,C08,Pro,599,INSERT

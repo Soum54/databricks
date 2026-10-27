@@ -1,0 +1,7 @@
+customer_id,customer_name,email_id,region
+C101,Asha,asha@example.com,North
+C102,Rohan,rohan@example.com,South
+C103,Meera,,West
+C104,Farah,farah@example.com,East
+C105,Nikhil,nikhil@example.com,North
+C106,Tara,,West

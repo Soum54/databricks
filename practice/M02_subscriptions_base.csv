@@ -1,0 +1,7 @@
+subscription_id,customer_id,plan_name,monthly_fee
+S101,C01,Basic,299
+S102,C02,Pro,599
+S103,C03,Basic,299
+S104,C04,Premium,999
+S105,C05,Pro,599
+S106,C06,Basic,299
